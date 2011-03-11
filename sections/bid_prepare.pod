@@ -1,0 +1,171 @@
+=head1 PREPARE YOUR BID
+
+Z<bid_prepare>
+
+With your initial team assembled, research in progress and a budget outline, 
+you're now in a position to begin preparing your bid proposal. Many bid 
+submissions from previous years are now online, so it is very worthwhile 
+reviewing these from the TPF or YEF sites. They will provide great examples of 
+the kinds of things you are expected to include. But what goes into a proposal? 
+As a bare minimum, in your document you should include the following:
+
+=over
+
+=item * B<Your Team> - who is working with you, and who are the points of 
+contact.
+
+=item * B<Your Location> - where are you in relation to the world and your 
+country? How are people going to get there?
+
+=item * B<Primary Venue Choice> - include enough of your research to give a good 
+background to your venue's suitability. You can mention you have other choices, 
+but focus on your primary venue.
+
+=item * B<Transportation> - describe notable transport infrastructure, together 
+with rough costs and travel time for taxis, buses, trains and metros between 
+airport, accommodation and venue.
+
+=item * B<Accommodation> - highlight where hotels/hostels/dorms are in relation 
+to your venue, and some idea of cost for a single room and double room for 
+hotels. This need not be exact, but must be enough to give a reasonable 
+impression of costs for attendees.
+
+=item * B<Budget> - possibly the most important aspect of your proposal, as the 
+committee will want to know how you expect to pay for everything.
+
+=item * B<Provisional Dates> - while not absolutely necessary, it can be helpful 
+to make the committee aware of the dates that you are considering.
+
+=item * B<Local Attractions> - list some tourist attractions, festivals & other 
+events that will be happening around the same time.
+
+=item * B<Supporting Information> - if you have some secondary choices for 
+venues, or other information that might aid your bid, feel free to add it in 
+brief. Possibly include links to websites for the reader to investigate 
+themselves.
+
+=back
+
+After all the research, you'll now need to assemble it all into a document that 
+can be submitted to the venue committee. How you present the document is 
+entirely up to you, but at the very least provide a standard formatted document 
+file, e.g. PDF, Office Document (MS Word or Open Office Writer), POD file or 
+plain text file. In addition you may wish to supply a link to a website or wiki 
+with further information and videos or photo galleries to provide visual 
+examples of the location, venue, etc.
+
+No matter what you put into your proposal you will always get asked some 
+questions by the venue committee as they try to judge between your proposal and 
+any others. The venue committee always tries to evaluate the proposals on equal 
+terms, so if you do omit any important details, you are likely to get asked to 
+provide further information.
+
+While it might seem obvious to present your venue choices, don't forget to 
+include as much as possible to support your bid. 
+
+=head2 Your Location
+
+Where are you in the world and/or your country? How are you expecting people to
+travel to your town/city? Remember that you are likely to have some 
+international travellers, who may not speak your native language. You may be 
+fortunate enough to have a local tourist information bureau that can provide 
+details for promoting your town/city.
+
+=head2 Provisional Dates
+
+The dates for your conference should be considered carefully. Discuss the dates 
+you are planning to propose with your primary (and secondary) choice of venue to 
+ensure that they have those dates available to you.
+
+Dates are not just important for booking the venue, but also for getting your 
+attendees to come to your conference. Do you have any special world famous 
+events taking place before or after your conference? Are hotel and flight costs 
+going to reflect that? For example, flying to or via a country hosting the World 
+Cup can increase flight costs alone by 4 or 5 times.
+
+However, local celebrations may also be a good reason to persuade attendees to 
+bring partners and/or extend their stay to take in more of your city. Munich 
+hosted YAPC::Europe 2002 the week before Oktoberfest, Paris hosted YAPC::Europe 
+2003 prior to the weekend when the Tour de France came through the streets of 
+Paris and Toronto hosted their YAPC::NA 2005 during a month long celebration 
+with firework displays.
+
+=head2 Local Attractions
+
+Does your town/city offer any interesting tourist attractions, or have an 
+annual festival that attendees might be interest in attending too? What will 
+attract people to your town/city beyond the conference? It's always worth 
+listing a few reasons why people might want to come to your town/city, even if 
+you weren't hosting a conference. Some attendees often extend their visit to 
+take in some sightseeing, so it's worth getting a little background information 
+to add to your bid.
+
+Are there famous places or landmarks nearby that attendees might like to visit? 
+Are there any interesting facts about your city/town that attendees might not 
+know? Toronto had all the Rush (the band) haunts to visit, both Toronto and 
+Buffalo had Niagara Falls close by, Birmingham had the history of JRR Tolkien 
+(Perrott's Folly and Sarehole Mill) and Shakespeare (Stratford-upon-Avon) to 
+draw on, Chicago has The Sears Tower and Paris is Paris :)
+
+Check out some of the local history, there's always something hidden away that 
+might be a fun fact to help promote your event.
+
+=head2 Submitting Your Bid
+
+The venue committee usually announces the method for which you should submit 
+bids, but file or online documents are usually the most appropriate. The members 
+of the committee will have questions for you, so ensure you include who should 
+be contacted (and how) for further questions. If you have a group helping with 
+the proposal set up a mailing list (see note below) so that all the group 
+members can respond. Having one point of contact can be a bottleneck if that 
+person falls ill or is on holiday.
+
+While you may have grand ideas to submit your bid in an unusual form, always 
+ensure you have some form of standard document to accompany it. Several groups 
+have previously submitted videos to help introduce the organisers and show why 
+they think you should choose their city, however standard documentation was 
+also submitted.
+
+If after submitting your proposal, you suddenly discover that you have further 
+relevant information to provide to the venue committee, feel free to contact 
+them further and provide it. The venue committee are well aware how stressful it 
+can be to compile a proposal, as they've all done it themselves. They are also 
+looking to award the bid to a host that can put on the best possible conference, 
+so any additional material that supports your bid is often very welcome.
+
+=head2 Expect Questions
+
+When you submit your proposal, the venue committee will begin to discuss 
+it, together with all the other proposals they have received. Their aim is to 
+give the opportunity of hosting a YAPC to the team that they feel will provide 
+the best conference possible. As such, they are not going to dismiss your 
+proposal simply because you have not mentioned something that they feel is 
+important. Rather they will compile additional questions that you will need to 
+answer promptly.
+
+In order to respond to questions, ensure you provide a contact email address 
+with your proposal. This can be a single person, a group of people or a 
+dedicated organisers mailing list address. Whichever you choose, ensure someone 
+is able to respond.
+
+So what questions can you expect? Well it largely depends on how good the 
+proposals are. In some instances only brief supplementary information is needed, 
+while at other times, there may be something quite important missing. Some 
+questions that nearly always get asked include:
+
+=over
+
+=item * Can the Wifi support every attendee at once?
+
+=item * Are there enough power outlets for everyone to use a laptop?
+
+=item * Do venue rooms have disabled access?
+
+=item * How do you plan to promote the conference?
+
+=back
+
+These are only a few examples, and often it can help if you think ahead and try 
+and review your proposal and ask yourself what would you want to know more 
+about?
+

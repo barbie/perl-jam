@@ -1,0 +1,86 @@
+=head1 ACCOMMODATION
+
+Z<accommodation_recommendations>
+
+Everyone needs somewhere to stay. It's unlikely you are willing to have several 
+hundred geeks living with you for a week, so you'll need to investigate at what 
+suitable accommodation is available.
+
+As part of your research for your bid, you will hopefully either have somewhere 
+in mind for everyone, or know of a few places that would be suitable. If you've 
+been able to negotiate a deal with a primary hotel so much the better.
+
+=head2 Recommended Accommodation
+
+A primary conference hotel and a less expensive dorm-style option should form 
+the basis of your recommendations. If there others that are worth considering, 
+especially if the primary hotel cannot accommodate all your attendees, make sure 
+you include them. If the conference venue also includes accommodation in the 
+package make sure you mention this. 
+
+For a variety of reasons, not all attendees may want to stay in the same place. 
+Some attendees will find their own accommodation, regardless of any 
+recommendations you make, however try to highlight accommodation at a reasonable 
+cost for both professionals and self-funding individuals. The latter may make up 
+a notable part of your attendance and their living costs while at the conference 
+shouldn't be inhibiting.
+
+Try and negotiate a deal with a hotel on price, both for a single person and for 
+two people (twin or double). Tell the hotel how many people you expect to be 
+staying there, as this can give you significant bargaining power. If possible 
+ask them to hold rooms for your attendees. This then ensures that any special 
+rate you have negotiated can be applied to those rooms for the duration of the 
+stay, as prices can differ over a weekend to weekday stay during the course of 
+the year. Include breakfast if possible.
+
+If you are organising a deal with a hotel, it may be worth trying to include 
+wireless or wired internet into the deal. Most hotels have a broadband internet 
+connection, and while some do provide this free, others can charge high rates. 
+If the price is right many attendees will be happy to pay a flat rate for the 
+week, but a high per day charge is likely to reduce the hotel's potential 
+revenue as attendees create their own WLAN between rooms. Many attendees will 
+want to have internet access as they will either have work commitments during 
+the conference, or simply wish to surf, hack and write emails while in their 
+rooms, so ensure you choose accommodation that can provide this.
+
+You primary choice of accommodation should also provide somewhere for people to 
+hang out. Many hotels have large foyer and bar areas, where people can gather in 
+the evening to chat and hack the night away. Preferably there should be a bar 
+that opens late, but at the very least there should be access to refreshments so 
+attendees can congregate and socialise.
+
+The hotel doesn't need to be right next to the venue, but if you recommend one 
+that's where most people will go. If the hotel isn't immediately adjacent to the 
+venue, you will need to work out all the directions and map details, so that 
+people can easily get from the hotel to the venue and back.
+
+Dorms or dorm-style housing may also be available, if you are hosting the 
+conference at a university. However, most student accommodation, while cheap, is 
+also very basic and may not be able to provide suitable facilities for people to 
+"hang out" in the evening. Certainly take advantage if it is available, as 
+several attendees travelling on a low budget will thank you afterwards.
+
+=head2 Negotiating Deals
+
+When negotiating a deal, start early. Give the hotel your conference dates and 
+some idea of numbers (they don't have to be accurate). With this you usually 
+have some bargaining power to get reasonable deals. Do not under any 
+circumstances guarantee room sales, and make this clear to hotels if necessary. 
+Try and include breakfast and internet connectivity in the room price, or at 
+least try and secure a package deal where possible.
+
+If you are planning a conference during a hotel's quiet period, they are more 
+likely to provide reasonable discounts. Research the hotel's room costs by phone 
+and online before negotiating any deals, so you know whether you are getting a 
+reasonable discount. If the deal isn't suitable and you can hint that 100-200 
+room reservations could go to a competing hotel, they may reconsider. The 
+important piece here is research. The hotel is a business and won't offer any 
+deals unless you are able to provide them with reasons why they should.
+
+Once you do negotiate a deal, be prepare to find that the hotel subsequently 
+offers a special rate, as time gets close to your event. If this happens alert 
+your attendees, as the special offer may not match the deal you have negotiated. 
+Check whether your deal and the special offer includes breakfast, an internet 
+rate or anything else. If there are differences, let attendees know. In some 
+case your attendees will likely tell you first anyway.
+

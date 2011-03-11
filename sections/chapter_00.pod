@@ -1,0 +1,31 @@
+=head0 Preface
+
+This book is split into several chapters, each with a specific focus on an
+aspect of organising a conference, plus a little bit of background and history
+at the end for those wishing to understand how the YAPC experience began.
+
+L<structure>
+
+=head1 Comments and Questions
+
+Please address comments and questions concerning this book to the author:
+
+  Barbie
+  barbie@missbarbell.co.uk
+
+If you spot any errors in the book, or have any suggestions for improvements, 
+you can contribute changes to the content of the book, either by contaciing the 
+author directly (as above) or via the public git repository and send patches or 
+pull requests.
+
+  http://
+
+L<acknowledgements>
+
+=head1 Dedication
+
+I couldn't have written this book without the love and encouragement of my wife 
+and family, Nicole, Dan & Ethne. They have lost me for several weeks attending 
+various conferences and workshops over the years, as well as all the time spent 
+co-organising the 2006 YAPC::Europe Perl Conference and the second QA Hackathon, 
+both in Birmingham, UK. Thank you.

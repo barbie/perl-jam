@@ -1,0 +1,86 @@
+=head1 CONFERENCE SESSIONS
+
+Z<conference_sessions>
+
+=head2 Opening Address
+
+You have a few responsibilities in your opening address:
+
+=over
+
+=item * Thank your sponsors and everyone who helped. Thank your sponsors again. 
+All your sponsors. People gave money and time to make your event happen. All 
+they get is some recognition and the worst thing you can do is forget them.
+
+=item * Explain what new-comers can expect from the conference. Explain that 
+they can interact with anyone. This is their chance to talk to some cool people 
+in a relatively informal environment. Explain about the wiki, IRC and the 
+hallway track.
+
+=item * Tell people about the events that will be happening during the 
+conference, so they are all aware of what is happening and where.
+
+=back
+
+=head2 Keynotes
+
+You should have at least one keynote speaker, preferably someone very well known 
+within the Perl community. Many of the big names in Perl, such as Larry Wall and 
+Damian Conway, have  given keynotes at various YAPCs, so don't be shy in 
+approaching someone you would like to see attend your event.
+
+Keynotes can either open or close the conference, sometimes both, or even open 
+each morning of the conference. The format is entirely up to you and depends on 
+how many keynotes you've planned. If a keynote address ties into your conference 
+theme, then so much the better.
+
+=head2 Birds Of A Feather Sessions (BOFs)
+
+Birds Of A Feather sessions are ad-hoc discussions created by and for 
+attendees, so that they can have additional time to work on or talk about 
+interesting topics to (usually) a small group of people. Make sure you allow 
+time and room for these. Some will want to hold BOFs during the conference day, 
+while others will want to find a bar or the hotel foyer in the evening.
+
+=head2 Announcements
+
+Ensure you have time at the beginning of each day to make any announcements. 
+These will likely be schedule changes, but can be anything that you need to get 
+across to the attendees. If you have no changes to announce, simply remind 
+people about any BOFs that might be happening, and any evening arrangements 
+planned.
+
+=head2 Next Year's Conference
+
+If you are holding a regular annual conference that changes city or country each 
+year, then you will likely need to make some time in the schedule to allow you 
+to introduce the succeeding year's organisers.
+
+Often this is just a short announcement, with a chance for one or more of the 
+organisers to say hello. A slightly longer announcement may feature a short 
+presentation (not much more than 5 minutes) giving current attendees a taster of 
+what to expect. This is the type of presentation you may well have given 
+yourself at the conference the previous year.
+
+=head2 Closing Address
+
+You have some important responsibilities you must cover in your closing address:
+
+=over
+
+=item * Thank your sponsors.
+
+=item * Thank your team, support staff, volunteers and everyone who helped.
+
+=item * Thank your speakers.
+
+=item * Thank your attendees for coming.
+
+=item * Remind people about the Conference Surveys if you are holding them.
+
+=item * Tell people where you are all meeting for the last evening.
+
+=back
+
+The thank yous are important as people have given you their time and money to 
+help make this event happen, so make sure you acknowledge them all.

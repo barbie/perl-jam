@@ -1,0 +1,58 @@
+=head0 THE PREPARATION (the First Six Months)
+
+You've won the bid, and now you will need to prepare yourselves for the work 
+ahead. Some aspects of organising will be fun, some will be agonising, while 
+others will be a mix of both. Take a deep breath, it will come together.
+
+At this early stage, despite any pleadings and honourable requests, DO NOT 
+commit to anything that could potentially derail your plans. Focus on the 
+essential parts of the conference organisation first. You'll have plenty of time 
+to schedule other activities and requests later.
+
+L<timeline2>
+
+L<project_plan>
+
+L<team_building>
+
+L<venue_booking>
+
+=head1 ANNOUNCE THE DATES
+
+If you haven't announced your dates six months before the conference begins or 
+at the beginning of the calendar year (whichever is sooner), at least try and 
+put out an announcement about when you will be announcing dates.
+
+Everyone attending your conference needs to either book holiday or training 
+time. The earlier they know when the conference is, the easier it is for them to 
+plan their activities around you.
+
+However, do not annouce dates until you have booked the venue. Changing dates 
+later can be very costly, particular when speakers and attendees have made plans 
+for your original dates and cannot change them.
+
+=head1 CONFERENCE THEME
+
+While your in the early stages of planning, think about whether you want a theme 
+for your event. Some conferences choose a theme to encourage talks regarding a 
+specific topic, though you will get talk submissions on a vareity of topics, but 
+some speakers will tailor their talks to fit the theme.
+
+An appropriate theme can help inspire logo and style branding for the event, 
+which can then be used on the website and in any literature you produce. It will 
+add to the professional look of the event, and give corporate sponsors and 
+managers a good impression of your event.
+
+Note that it isn't a requirement to have a theme, so don't worry of you don't 
+think of one.
+
+L<website_design>
+
+L<sponsorship>
+
+L<accommodation_recommendations>
+
+L<mailing_lists>
+
+L<surveys>
+

@@ -1,0 +1,54 @@
+\documentclass[12pt,leqno]{book}
+\usepackage{amsmath,amssymb,amsfonts} % Typical maths resource packages
+\usepackage{graphics}                 % Packages to allow inclusion of graphics
+\usepackage{color}                    % For creating coloured text and background
+\usepackage{hyperref}                 % For creating hyperlinks in cross references
+\usepackage[table]{xcolor}
+
+\parindent 0cm
+\parskip 0.2cm
+\topmargin 0cm
+\oddsidemargin 1cm
+\evensidemargin 0.5cm
+\textwidth 15cm
+\textheight 21cm
+
+
+\makeindex
+\title{Perl Jam}
+
+ \author{Barbie  \\
+{\small\em \copyright \  Draft date \today }}
+
+
+\begin{document}
+
+\pagestyle{headings}
+\setcounter{page}{1}
+\pagenumbering{roman}
+
+\maketitle
+ \addcontentsline{toc}{chapter}{Contents}
+
+\tableofcontents
+
+\newpage
+\pagestyle{plain}
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+\include{chapter_00}
+\include{chapter_01}
+\include{chapter_02}
+\include{chapter_03}
+\include{chapter_04}
+\include{chapter_05}
+\include{chapter_06}
+\include{chapter_07}
+\include{chapter_08}
+\include{chapter_09}
+\include{copyright}
+
+\include{index}
+  \addcontentsline{toc}{chapter}{Index}
+\end{document}

@@ -1,0 +1,40 @@
+=head1 DESIGN YOUR WEBSITE
+
+Z<website_design>
+
+You need an official site. This will be your primary focus point for 
+announcements and information about the conference, and will be used before, 
+during and after your event. It won't just be attendees and speakers that will 
+be viewing your website, but corporate managers and potential sponsors, so make 
+sure it looks like your putting on a professional conference that's worth 
+sending employees to and/or providing funding for.
+
+The website is where you announce the major activities leading up to and during 
+the conference. As such, you should consider a content management system, such 
+as ACT (formerly 'A Conference Toolkit'), and enable your team to add, edit and 
+publish content. You will need someone to be the administrator of the site, to 
+ensure that broken links and typos are fixed, and that everything is published 
+in a consistent and professional style.
+
+Create a wiki for the attendees (note that ACT contains a wiki as part of 
+the tool suite). Your attendees will want to contribute to your conference, so 
+give them that ability, and allow them to build upon the official content of 
+the event. There are some basic pages you can include to get people started, but 
+largely the content is driven by the users themselves. Be cautious of wiki 
+spam, although using a login mechanism usually eliminates this.
+
+The main website must prominently promote the sponsors as they sign up. This 
+should be part of your sponsorship deal anyway, but it does help to increase 
+interest among the community and can help raise the conference profile in search 
+engine rankings. Include sponsor logos and links on every page (in a sidebar 
+preferably) and have a more detailed sponsor page, which not only includes more 
+details about your sponsors, but also provides information of how companies and 
+individuals can sponsor your event.
+
+Note that if you have chosen a theme for you conference, make sure you use it as 
+a tag-line prominently. Aside from encouraging ideas for talks, it also gives 
+your event a level of branding. Use branding consistently with your style and 
+layout across the site, and include Perl and TPF/YEF logos as appropriate. This 
+will help corporate managers and sponsors identify with you, and feel reassured 
+that you are not an isolated event, but support by the whole community.
+

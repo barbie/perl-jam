@@ -1,0 +1,136 @@
+=head1 PLAN YOUR PROJECT
+
+Z<project_plan>
+
+It cannot be emphasised enough how important a project plan is. A year before 
+your event, you will need to start several task at once, and managing them 
+efficiently is a necessity. Organising a conference requires you to establish 
+priorities all the time, and having a project plan will better identify those 
+tasks which fall on your critical path.
+
+Your first priorities in your project plan should focus on the following:
+
+=over
+
+=item * Establish Your Team
+
+=item * Book The Venue
+
+=item * Prepare Your Sponsorship Pack
+
+=back
+
+Everything else you can deal with later, but these three will need to be 
+completed very quickly. Once you have these in hand you can then turn your 
+attentions to the following:
+
+=over
+
+=item * The Venue (Wifi, Power, Projectors, Catering, etc)
+
+=item * Sponsorship
+
+=item * Insurance
+
+=item * Promotion
+
+=item * Accommodation
+
+=item * Speakers (Call For Papers, Scheduling)
+
+=item * Attendees (Registration, Directions)
+
+=back
+
+Then that's it. The rest is really gravy -- quite a bit of important gravy -- 
+but just gravy. When you are planning a YAPC, keep this list in mind. These are 
+your "big rocks" and if you are spending a lot of time on something and one of 
+these is not covered, you'll need to reconsider your priorities. On the flip 
+side, if you have all of these in place, don't stress too much if something else 
+falls through.
+
+For your first team meeting you'll need to cover all of the above topics, and 
+ensure that at least one person is going to be responsible for each area.
+
+=head2 Your Project Plan
+
+Write a project plan. This is a major project you are undertaking, and you need 
+to plan it carefully. Update the project plan regularly, as it will help you 
+keep tabs on who is doing what and how they are progressing. It can help you 
+decide who should be handed a future task based on how well that person 
+completes their prior tasks.
+
+You don't need fancy software, a simple spreadsheet or pen and paper will work 
+fine. Just keep a record of who is doing what and all approaching deadlines. 
+
+A project plan is very useful to keeping you aware of deadlines, and highlight 
+the critical path of tasks that have the potential to delay the whole project if 
+they are not kept on course. Make sure that everyone is aware of deadlines. They 
+need to know when they shouldn't pester someone, when that person is busy trying 
+to complete an important task.
+
+=head2 Allocating Tasks
+
+Before everyone heads off with their favourite task, take some time to properly 
+define all the tasks required. Break larger ones down to smaller bitesize chunks 
+that could be handed to several different people if the need arises. Review the 
+tasks to ensure you understand what is expected of them and give estimates for 
+time and effort involved.
+
+Once you've identify every task (or at least the initial tasks to get you 
+started), you'll need to start allocating people to them. Some people may be 
+obvious choices while others may need to find their feet. Don't over burden 
+anyone, especially at this stage, as it's more important to get things started 
+and moving.
+
+Emphasise to your team that life throws curve-balls every now and then, and that 
+it isn't a problem to say that they don't have time to complete a task, 
+providing they tell you as soon as possible. Not everyone will listen, and you 
+may find some team members have a change in personal priorities, putting an 
+important task to one side without telling anyone. Having regular catch-up 
+meetings usually help to spot these situtaions.
+
+Weekly updates often also help to identify where problem areas might need 
+attention, as some team members might leave it until the last minute to complete 
+their tasks.
+
+Regularly review how team members are coping with tasks, as when it comes to 
+allocating tasks in the later planning stages, you'll need to ensure that high 
+priority tasks are given to people you can rely on to complete the task 
+promptly.
+
+=head2 Meetings
+
+If possible, try and arrange regular face to face planning meetings, especially 
+for the local crew, that will need to be assigned tasks that require leg work 
+around the venue and local area. Aim to have at least monthly meetings, with 
+regular weekly catch ups on IRC, mailing lists, telephone or other communication 
+mediums. It is VERY important to have these meetings and follow up sessions, so 
+that everyone knows the current status of the project. If anyone has been 
+assigned a task and hasn't had time to deal with it, you'll need to know and 
+reassign if necessary. You will have to reassign occasionally, but hopefully not 
+too often.
+
+Set an agenda ahead of the planning meetings and mail it, together with the 
+outstanding task list, to all those involved at least a few days before hand to 
+give everyone a chance to follow up anything they have forgotten. You will need 
+to remind people of their tasks, as not everyone will be as passionate about 
+conference organisation as you will.
+
+Meetings are not just about the allocation or completion of tasks, they are also 
+about bringing your team together. Share ideas, brainstorm problems, motivate 
+and praise. Whether they admit it or not, every team member, including yourself, 
+likes to feel appreciated and feel like they are included in discussions.
+
+You may find you have a quiet team member who is very good at spotting potential 
+issues before they become a problem, or maybe a team member who finds they have 
+a previously undiscovered talent. At this early stage try and be as inclusive as 
+possible, and let the team members settle into their roles. As time progresses 
+you'll see who needs help and who can be trusted with high risk tasks.
+
+Take the opportunity at meetings to make sure everyone understands a particular 
+task. If there is any confusion, doing this via IRC or email can add to the 
+confusion. Sitting down face to face, even as an ad-hoc one-to-one meeting with 
+a team member, may be enough to resolve any issues. Most of all don't be afraid 
+to ask. This goes for your team members as well as you.
+

@@ -1,0 +1,135 @@
+=head1 ESTABLISH YOUR TEAM
+
+Z<team_building>
+
+No-one can organise a YAPC on their own. You don't need a big team, but many 
+hands make light work :) While you may have a core team, you should look to 
+recruit others who can help with some of the smaller tasks. That's not 
+to say that you need 20 or so people. Most groups usually have two to four key 
+individuals that make the decisions and a few more that help with specific 
+tasks.
+
+Also, remember that not everyone in your team needs to be local. Many tasks can 
+be performed remotely, even in another country, as there is plenty of online 
+communication required via email and websites.
+
+Within the team, each person needs to be responsible for at least one 
+significant role. They may be responsible for more than one, but ensure you 
+spread the load. If one person gets allocated responsiblity for the most 
+time-consuming roles, you are likely to either fall behind or lose that person's 
+input completely if they feel like they've been stitched up.
+
+=head2 Conference Planning Team and Responsibilities
+
+=head3 The Primary Organizer
+
+This document uses the familiar 'you' in many cases when referring to tasks. 
+However, if you are the primary organizer, this really means you and your team. 
+Pulling off a YAPC really requires that you have a team of dedicated people 
+helping you.
+
+If you don't have a team of helpers, you really need to get one. Ask the members 
+of your local Perl Mongers group if they can get involved. You may also find 
+others further afield that may be willing to help if you advertise. As the event 
+approaches, your goal is to have no tasks assigned to you (or very few). That 
+way, you can jump in and help with whatever needs attention without abandoning 
+something. You need to be the project manager, directing the tasks and reviewing 
+the work, rather than have anything that has a high demand on your attention. 
+Just coordinating things will take up plenty of your time.
+
+YAPC in Buffalo had 4 coordinators in the main group working throughout the 
+planning process and about 20+ volunteers during the conference. In Toronto 
+about 20 people (nearly all of the Toronto.pm members) helped with planning and 
+execution. Remember, many hands make light work (as long as you are coordinating 
+and the hands know what to do).
+
+Above all, don't be a martyr. This event should be fun for you, your team, and 
+everyone else involved.
+
+=head3 Website Administrator
+
+This role is really just to ensure that someone is responsible for getting your 
+website online, and keeping the content updated. See the section Design Your 
+Website, for further details required of this role.
+
+=head3 Publicity Officer
+
+This should either be someone well known within your team in the Perl community, 
+or someone who is good with public relations. This means the focus from the 
+outside world is on one person to ask questions of, while the other members of 
+the team are busy with other tasks. This is not to say that the other members of 
+the team shouldn't help out, but having one person who distributes all the press 
+releases and promotes them in a printed and online form, helps to keep 
+continuity.
+
+Avoid using the same person in your team to act as publicity officer AND as 
+sponsor liaison. This role can be very time consuming and trying to answer 
+questions from all sides can be very draining.
+
+=head3 Speaker Liaison
+
+Someone from your team needs to handle all the email communication between 
+yourselves and speakers. Many speakers will need hand holding to give you the 
+right information, while others are old hands and will provide everything you 
+need in the first email. Once you decide a schedule, you'll need to ensure that 
+speakers are happy to speak and are still planning to attend.
+
+Avoid using the same person in your team to act as speaker liaison AND as 
+sponsor liaison. This role can often work well together with the publicity 
+officer.
+
+=head3 Sponsor Liaison
+
+After initial contact with sponsors, you will need someone to look after all 
+their requirements. Even though you may not have many sponsors, they will be 
+demanding of your time. Keep sponsors up to date of progress every so often, so 
+they know you haven't forgotten them. Take the opportunity to remind them of 
+important dates (especially parcel delivery deadlines) in good time (at least a 
+week), so that if they have forgotten, they have a chance to follow up 
+straight-away.
+
+Avoid using the same person in your team to act as sponsor liaison AND as 
+publicity officer. Again this can be an extremely time consuming role, 
+especially as the conference draws closer. Knowledge of logistics is definitely 
+an added bonus.
+
+=head3 Venue Liaison
+
+At least one person should be a point of contact with the venue. Over time this 
+may end up being more than one person, as specific responsibilities may require 
+them to contact the venue for specific information. However, you should have at 
+least a primary contact who deals with the contract negotiation. Your venue 
+liaison will likely need to ensure that Wifi, power, catering, etc are all 
+planned and invoiced well in advance.
+
+=head3 Accommodation Liaison
+
+Once you have a designated primary conference hotel, like the venue liaison, 
+someone will need to be a point of contact for negotiating deals. While the 
+whole team needs to agree deals, having one person contact hotels and initiate 
+conversations ensures you have a consistent presence.
+
+In some cases you may not be able to arrange a deal, but at the very least try 
+to research costs and types of accommodation, so that you can advertise them to 
+the attendees as soon as possible. If your venue is a hotel, the Venue Liaison 
+can double up with this role.
+
+=head3 Network Administrator
+
+You will need internet access at the venue. If you don't, you aren't likely to 
+get a good response from the speakers or the attendees. This person usually 
+doubles as venue liaison, as much of the discussion and site visits will be 
+around arranging network access.
+
+Knowledge of networking is really needed here. If anyone in your local user 
+group, or Linux user group, is willing to help with this, it will make life much 
+easier for you.
+
+=head2 The Runners
+
+If you have anyone in your team that is willing to help, but either doesn't have 
+the time or the ability to take on a major responsibility, you can still use 
+them. There are lots of activities where you will need someone to help with 
+small tasks. Many of these people will become invaluable immediately before and 
+during the event, so don't be afraid to ask them for help.
+

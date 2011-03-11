@@ -1,0 +1,13 @@
+SECTIONS
+* links between documents for sections mentioned throughout
+* add images
+* create official cover
+* create text for back cover
+* add index terms
+* add table from IPW
+
+BUILD
+* how to add TOC to POD, PDF & HTML?
+* missing chapter headings in PDF
+* create a single PDF of all chapters
+* workout how to implement footnotes correctly

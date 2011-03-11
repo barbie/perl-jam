@@ -1,0 +1,34 @@
+=head0 THE EVENT
+
+L<timeline4>
+
+L<conference_organisation>
+
+=head1 NEW ATTENDEES
+
+While the YAPC conferences are about bringing the Perl Community to discuss and 
+learn, it is also about welcoming new attendees into the community. In the last 
+few years, almost half of the attendees have been attending a YAPC for their 
+first time. Some may have been to a Perl Workshop, and some may already be a 
+part of the Perl Community, but many won't know anyone.
+
+Plan for a beginner style track if you can, with some basic introductory talks 
+in a best practice style for things such as Moose, Testing or building 
+distributions for CPAN.
+
+Explain all the features of a YAPC (such as the hallway track, IRC and BOFs) in 
+an introductory guide, or have a special presentation about being part of the 
+community. Try to include them as much as possible in events. Remind them that 
+if they would like to talk to a speaker or even a well known attendee, all they 
+need to do is go up to them and say hello. If its during an evening event, offer 
+to buy them a drink.
+
+For new attendees the whole event can feel overwhelming. If they feel welcome, 
+and feel they can approach other attendees, they are more likely to come again, 
+or even better get more involved in the community. The last thing you want is 
+for them to have a bad experience. Thankfully this rarely happens, but keep it 
+in mind, as you want everyone to be raving about your event to their colleagues 
+and managers when they return home.
+
+L<conference_sessions>
+

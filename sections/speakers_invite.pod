@@ -1,0 +1,44 @@
+=head1 INVITE SPEAKERS
+
+Z<speakers_invite>
+
+=head2 Invite Keynote Speakers
+
+Approach a few keynote speakers who you would like to invite. Based on your 
+budget, let them know whether you would be able to fund all or part of their 
+travel and accommodation expenses. If they or their company is able to fund 
+them, this will give you more flexibility for funding for the other speakers you 
+have invited.
+
+If the speaker has given a keynote before, you may want to ask prior organisers 
+about what terms they had. It might enable you to prepare your introductory 
+letter if you've never had contact with the speaker before.
+
+Always ask keynote speakers to confirm their attendance as soon as possible. 
+Advertising a high profile speaker's attendance is good promotion for your 
+event. They can encourage sponsors, speakers and attendees alike to become 
+involved in your event.
+
+=head2 Invite Notable Speakers
+
+Although some notable speakers may need more lead time, you should invite some 
+of the speakers you would like to attend your conference at least 6 months 
+before your conference. These speakers don't necessarily have to be your keynote 
+speakers, but can include speakers you think would be a valuable addition to 
+your schedule.
+
+Knowing who to invite and whether you can afford them largely depends on your 
+budget. Ask potential speakers for a rough guide to their travel expenses and 
+see what difference it makes to your budget. In some case speakers may be 
+willing to offset their expenses by running training courses or getting support 
+from their company.
+
+Some speakers are willing to provide training courses to local companies before 
+or after the conference, to help cover their expenses. While this is something 
+you can look into, do not let it distract you from other tasks. If possible ask 
+local Perl and Linux user groups whether their company would be interested in 
+some dedicated training.
+
+Once you can make definite plans to invite a speaker, always ask them to confirm 
+their attendance, as it worth advertising to sponsors and potential attendees.
+

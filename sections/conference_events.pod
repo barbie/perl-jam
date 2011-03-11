@@ -1,0 +1,140 @@
+=head1 CONFERENCE EVENTS
+
+Z<conference_events>
+
+The following are all activities that can take place during the conference. Some 
+are nice to have, so don't feel pressured to provide all of them.
+
+=head2 Day Trips & Partner Programmes
+
+If feasible, see if you can organise a partner programme during the event. Many 
+attendees bring partners, family or friends along with them, and while the 
+conference may well be of interest to the attendee, their entourage may not be 
+so thrilled.
+
+At the very least, suggest places to visit. Museums and places of interest 
+should already be featured in local guides. Ask your volunteers if they are 
+willing to act as tour guides for a small group. Failing that, is there a 
+professional tour guide company that would be willing to do a special rate for 
+you? In the last two cases you will need to get an estimate for how many will be 
+taking advantage of the partner programme, and may even need to charge a fee to 
+cover costs.
+
+Some attendees will plan to arrive several days early or leave a few days after 
+the conference to take in some sightseeing. Try to arrange a day trip somewhere 
+if you can, although this usually works best after the event, as more people 
+have gotten to know each other. If you have other commitments, at least see if 
+you can arrange to meet up in the evening for a meal or on pub outing. These can 
+give early arrivals a chance to socialise somewhere you know is good (remember 
+that many attendees may not have been your city before), as well as for late 
+leavers to say a final farewell.
+
+=head2 Early Arrivals Dinner
+
+Depending upon how you are planning to do your pre-registration, you may want to 
+try to arrange for everyone arriving early to meet for food. Many attendees will 
+be arriving the day before the conference, and would rather be guided towards 
+somewhere for food and drink, than have to find it for themselves and 
+potentially make a bad judgement.
+
+If you are just meeting in a bar or pub, make sure you can suggest good eating 
+venues nearby (include options for those on a low budget or with special 
+dietary requirements).
+
+The Early Arrivals Dinner is always at the attendees own expense, and should not 
+be part of your conference budget. However, do recommend somewhere for this to 
+take place and possibly book it if you can. When deciding on a place to 
+recommend, always talk to the manager for a large conference. Explain that you 
+are expecting 100+ attendees to turn up on the night. Do they have staff to 
+cope, can they make that many food orders, will there be enough beer? It is not 
+unusual for the meetup venue to not believe you, and find that 150 people 
+suddenly turn up, wanting beer and food, with 1 or 2 staff behind the bar, not 
+enough food and not enough beer. And yes it has been known for attendees to 
+drink a pub dry!
+
+Emphasise that the establishment is likely to take several thousand through 
+their tills, and it really is worth their while getting extra staff, food and 
+beer in.
+
+=head2 Conference Dinner
+
+The conference dinner is always a nice to have, but you should either get 
+sponsorship for it, or only include it once you have covered all your basic 
+costs. Like the venue, it can be a large cost to your budget. If you are hosting 
+the conference at a university, you may find they are able to provide facilities 
+for large numbers for either a sit-down meal or buffet. Other large venues 
+(pubs, bars and hotels) with function rooms may also be available with catering. 
+Toronto even managed to secure a buffet on a paddle steamer around Toronto 
+Harbour for YAPC::NA 2005.
+
+Ensure you consider dietary preferences. As mentioned in Chapter 1 (see
+'Catering - Dietary Requirements'), you'll have some attendees who are 
+vegetarians or vegans, possibly some with food allergies and maybe others who 
+require kosher or halal food. Although you may not be able to cater for all 
+preferences, at least trying to provide some alternative options will help to 
+include rather than alienate many attendees.
+
+Regardless of the venue, some people won't come to the dinner and some will 
+leave after the dinner. Most do attend the dinner, but not all. Caterers will 
+want definite numbers, so it may be wise to allow for 90% of your anticipated 
+number. Also bear in mind that some attendees will be travelling with partners 
+and possibly family, and may want to bring them along. If you are planning to 
+have an additional charge for guests, please ensure that attendees know this in 
+advance. For Birmingham, our funds increased dramatically in the last few weeks, 
+which meant we could invite all the guests free of charge.
+
+In previous years, YAPC::Europe has had a "Speakers Dinners", which, while 
+certainly a nice idea to thank the speakers, only served to segregate the 
+attendees from the speakers. It meant attendees were deserted for a night and 
+left to fend for themselves. If you weren't part of the "cabal", and it was your 
+first time at a YAPC, it was a bad experience. Avoid any such dinners during 
+the conference wherever possible. Chicago held a Speakers' Party after the 
+conference, which was a much better time to host it, as many attendees were 
+already making their way home by then, and of those attendees staying they had 
+made new friends and knew the area well enough to not feel ignored.
+
+=head2 Other Evenings
+
+Suggest other events, though not necessarily organised, for other nights of the 
+conference. This may only require you to suggest a local pub or bar that is 
+capable of holding most of your attendees. Some will want to hack away wherever 
+the accommodations are, others will want to have food and drink elsewhere and 
+get to know other attendees better. However, if you have a home base somewhere, 
+most people will be reassured that they can at least find someone associated 
+with the conference. This can be very important for first time attendees as many 
+will not know anyone else. Be inclusive wherever possible.
+
+=head2 Conference Auction
+
+The auction is now a tradition with YAPCs. However, they vary in style from 
+region to region. YAPC::NA holds their auction during the conference dinner, 
+while YAPC::Europe holds theirs as the last main event of the conference.
+
+Not everyone will understand what the auction is about, especially some of the 
+bizarre items in the European auction, so take the time to explain it. In recent 
+years many attendees are coming to YAPCs for the first time and don't know the 
+history and humour. Not everyone will participate in the auction, even on the 
+boat in Toronto many people didn't participate in the auction, even though they 
+were a captive audience. Some will want to help out by bidding on cool books and 
+t-shirts, but not everyone will have large amounts of cash to donate.
+
+Consider having a silent auction, where you can side line large numbers of books 
+and t-shirts and the more sedate auction items, for attendees to bid on away 
+from the main auction. If possible put up a web page with all the silent auction 
+items, so that attendees can view them at their leisure. Make it easy for people 
+to bid on the silent auction items, so they can bid early, often and keep the 
+prices rising :)
+
+The regular auction should feature some of the more rare or unusual items, which 
+is what makes the auction fun and exciting and hopefully something to remember. 
+Signed copies of books, special t-shirts and dedications in code have all been 
+good money spinners in the past.
+
+Do you know a good auctioneer? The established YAPCs have several people who 
+have now taken on the role of auctioneer, so you may well have several people 
+who could help you with this. However, for your event, you may not have any of 
+those people attending, so if any of your team or attendees are willing to get 
+up and auctioneer. It also helps to have auction software that can keep track of 
+bids. R Geoffery Avery has developed software used at YAPC::NA and YAPC::Europe, 
+that may be of use.
+

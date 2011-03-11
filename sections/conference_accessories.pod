@@ -1,0 +1,190 @@
+=head1 CONFERENCE ACCESSORIES
+
+Z<conference_accessories>
+
+While you're busy preparing funds, announcements and many other things, there 
+are additional smaller items that will need to be prepared in advance. Many can 
+be very last minute, and as such are often good to get volunteers helping with.
+
+=head2 Venue signs
+
+If the venue is difficult to find, perhaps a small part of a university, make 
+some signs to direct people from either the main routes near the venue, or 
+further afield if possible (train/bus stations). Post detailed directions (with 
+photos if you can) on your website, so everyone can find you. What does the 
+building look like, are there any distinguishing features people can look for?
+
+Around the venue print signs (at least A4 size) with directions to speaking 
+rooms, toilets, refreshments, lifts and the registration desk. Note that you 
+need to place these around each speaking room in the building. Even with the 
+signs, people will still ask until they are familiar with the layout.
+
+=head2 The Conference Box
+
+Don't ever under estimate the need for this. Duct Tape has often been a saviour 
+for all manner of last minute alterations, and you would be well prepared to 
+ensure you have most or all of the following (and think of a few of your own):
+
+=head3 STATIONARY ITEMS
+
+=over
+
+=item * Various adhesive tapes;
+
+=over
+
+=item * Gaffer tape and/or Duct tape,
+
+=item * electrical tape,
+
+=item * sticky tape (Sellotape)
+
+=back
+
+=item * Post-it notes
+
+=item * Note pads
+
+=item * Pens, Pencils, Sharpener & Rubber/Eraser
+
+=item * Marker pens, white board pens and highlighter pens
+
+=item * Scissors
+
+=item * String
+
+=item * Blu Tak
+
+=item * Cable-ties
+
+=item * Stapler and staples
+
+=item * Dusters, screen wipes and cleaning foam
+
+=item * Paper clips, rulers, rubber bands and giant paper clips
+
+=item * Stamps (+postage rate card)
+
+=item * Sticky labels, hole punch and drawing pins
+
+=item * Super glue
+
+=item * Cash box
+
+=back
+
+=head3 ELECTRICAL ITEMS
+
+=over
+
+=item * AA / AAA / watch batteries
+
+=item * Long multisocket extension leads (aka power strips)
+
+=item * Spare plug adaptors (e.g. UK => EU, US => EU).
+
+=item * Spare GSM phone,
+
+=item * Universal phone charger or various branded phone chargers
+
+=item * USB flash drive (2GB or more)
+
+=item * USB cables (a variety if possible)
+
+=item * Ethernet cables
+
+=item * Tool set (screwdrivers, spanners, pliers)
+
+=item * Fuses
+
+=back
+
+=head3 MEDICINAL ITEMS
+
+=over
+
+=item * Aspirin / Paracetamol / Indigestion tablets
+
+=item * First Aid Kit
+
+=item * Tissues
+
+=item * Vomit Bag
+
+=item * Cherry brandy (for crew and organisers only ;))
+
+=back
+
+=head3 USEFUL ITEMS
+
+=over
+
+=item * Blank CDs
+
+=item * Towel
+
+=item * Tweezers
+
+=item * Sewing kit
+
+=item * Torches (flashlights)
+
+=item * Metal coat hanger
+
+=item * Paper cups
+
+=item * Toilet roll
+
+=item * Telephone directory
+
+=item * Lighter
+
+=item * Utility knife
+
+=item * Spectacle repair kit
+
+=back
+
+=head3 LARGER ITEMS
+
+=over
+
+=item * Printer
+
+=item * Scanner
+
+=item * Camera
+
+=back
+
+Provide volunteers with a shopping list and see if they can get some of these 
+items for you. Many of the items you shouldn't need to buy, as you may simply be 
+able to borrow items from friends and family for the duration of the conference.
+
+=head2 Power Strips
+
+You can never have too many power strips. Ensure you have plenty of 4-way or 
+6-way power strips around each room, running off long heavy-duty extension 
+cables so they reach all around the room, not just at the front and the sides. 
+Ask the venue if they can provide these.
+
+Remember that for most large events (and even some smaller ones), you will have 
+attendees from the UK, mainland Europe, the United States and other countries, 
+which all have different plug types. If you're unable to provide suitable 
+adapters and some power strips with alternative sockets (previous organisers may 
+be able to forward theirs), ensure you remind anyone arriving from abroad that 
+they can help you immensely if they can bring at least one power strip with 
+them.
+
+With all this power in the room, you will need to ensure that the power circuit 
+for the wall sockets can cope with the power drain. Major venues may have more 
+than one circuit to large rooms, with circuit breakers ensuring demand is not 
+too overwhelming for each circuit. Most large venue will use three-phase supply, 
+such that lighting, stage power and auditorium power all use different supplies. 
+
+In the UK a power circuit is usually referred to as a ring main, which operates 
+on 32Amps at 240Volts, and can usually cope with a considerable number of 
+laptops (IBM Thinkpads are typically about 80Watts) ... Watts = Volts x Amps for 
+those who don't remember physics :) In the US the circuits usually operate on 
+20Amps at 120Volts.
+

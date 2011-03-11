@@ -1,0 +1,57 @@
+=head0 APPENDIX A
+
+=head1 GLOSSARY
+
+=over
+
+=item * CPAN = Comprehensive Perl Archive Network
+
+=item * TPF = The Perl Foundation
+
+=item * YAPC = Yet Another Perl Conference
+
+=item * YAS = Yet Another Society
+
+=item * YEF = The YAPC::Europe Foundation
+
+=back
+
+=head1 REFERENCES
+
+=over
+
+=item * TPF - U<http://www.theperlfoundation.org>
+
+=item * YEF - U<http://yapceurope.org>
+
+=item * YAPC - U<http://yapc.org>
+
+=item * YAPC Conference Surveys - U<http://yapc-surveys.org>
+
+=item * TPF Planning A Workshop - U<http://www.yapc.org/workshops.html>
+
+=back
+
+=head1 RESOURCES
+
+=over
+
+=item * ACT - U<http://act.mongueurs.net>
+
+=item * Sponsorship Pack Templates - U<http://yapc-surveys.org/sponsorship>
+
+=back
+
+=head1 MAILING LISTS
+
+=over
+
+=item * YAPC::NA Organisers List - 
+U<http://mail.pm.org/mailman/listinfo/yapc-na-organizers>
+
+=item * YAPC::NA Attendees List - U<http://mail.pm.org/mailman/listinfo/yapc>
+
+=item * YAPC::Europe Attendees List - 
+U<http://lists.yapceurope.org/mailman/listinfo/conferences>
+
+=back

@@ -1,0 +1,58 @@
+=head1 PROMOTION
+
+Z<promotion>
+
+Six months before the event, possibly sooner, you need to start planning how you 
+are going to promote the event. Newsletters and announcements all need to appear 
+on your website, But you need to decide where else should you post them and 
+other updates?
+
+Some specific places online that you can approach include:
+
+=over
+
+=item * YAPC/YEF conference websites
+
+=item * post as Perl Blogs user
+
+=item * post on a personal blog associated with the Iron Man Perl Planet
+
+=item * Perl Monks news postings
+
+=item * YAPC/YEF conference mailing lists
+
+=item * PM Group and local Perl group mailing lists
+
+=item * Local and national Linux/Open Source group mailing lists
+
+=item * National IT/Open Source printed media
+
+=back
+
+In addition there are now many social and micro-blogging networks available for 
+you to get the word out. Signup to the following, and register a special 
+conference account, if appropriate:
+
+=over
+
+=item * Facebook
+
+=item * LinkedIn
+
+=item * Twitter
+
+=item * Identi.ca
+
+=back
+
+On Facebook there is already a Perl Mongers user group which currently 
+promotes YAPC events, and the admins are also willing to help promote workshops 
+and large technical events too.
+
+However, first you need to think about what you need to say. Promotion is both a 
+chance to tell people the event exists and a means to provide details to the 
+potential attendees, speakers and sponsors about how you are progressing with 
+the organisation. However, the various outlets above don't necessarily need a 
+big newsletter or the full announcements. Sometimes, a brief one line post with 
+a link to the content on your website is enough.
+

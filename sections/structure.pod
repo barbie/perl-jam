@@ -1,0 +1,55 @@
+=head1 Structure of This Book
+
+Z<structure>
+
+=over 
+
+=item * Chapter 1 : THE INTRODUCTION
+
+An introduction to the scope and intent of this book.
+
+=item * Chapter 2 : THE PROPOSAL
+
+The preparation of a proposal can take place months (even years for some) before 
+the actual event. The chapter aims to cover the essential parts of organising 
+that you will need to ensure are completed for your proposal.
+
+=item * Chapter 3 : THE PREPARATION (the First Six Months)
+
+The six month period roughly twelve to six months before the event, is often the 
+most daunting. This chapter covers the tasks you'll need to start immediately 
+after winning the bid, including the venue, communication, promotion and 
+sponsorship.
+
+=item * Chapter 4 : THE PREPARATION (the Last Six Months)
+
+In the six months immediately prior to your event, event promotion, 
+announcements, as well as many other the final preparations all need to be in 
+hand. You also need to attract speakers and attendees to your event.
+
+=item * Chapter 4 : THE EVENT
+
+During the event itself ensure everything runs smoothly. Keep your sponsors, 
+speakers and attendees happy and you can't go wrong.
+
+=item * Chapter 5 : THE AFTERMATH
+
+What happens after the event? Remember it's important to say thank you, and 
+tie up loose ends.
+
+=item * Chapter 6 : THE HISTORY
+
+A look back at the first 11 years of YAPCs, providing some background to YAPC 
+and other Perl events.
+
+=item * Appendix I : RESOURCES
+
+References and resources that may be useful for you while organising your event.
+
+=back
+
+At the beginning of each chapter we feature a suggested timeline of events. 
+These highlight announcements and key organisational activities that need to be 
+covered during a particular phase of your event. Keep these in mind when 
+trying to ensure that all major tasks are covered.
+

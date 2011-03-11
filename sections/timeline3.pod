@@ -1,0 +1,30 @@
+=head1 CONFERENCE TIMELINE (PART 3) - THE FINAL PREPARATIONS
+
+Z<timeline3>
+
+Throughout the next six months your be busy with a lot of task behind the 
+scenes. However the tasks below are your more public tasks, which all have 
+significant timed announcements.
+
+=over
+
+=item * Book Keynote Speakers
+
+=item * Launch Your Website
+
+=item * Call for Papers
+
+=item * Call for Registration
+
+=item * Deadline for Papers
+
+=item * Publish a Schedule
+
+=item * Auction Items Deadline
+
+=item * Close Registration
+
+=item * Final Preparations
+
+=back
+

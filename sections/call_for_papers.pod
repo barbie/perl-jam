@@ -1,0 +1,101 @@
+=head1 CALL FOR PAPERS
+
+Z<call_for_papers>
+
+The Call for Papers should be announced 4-6 months before the conference. This 
+gives speakers time to decide what talks they will submit. Give them at least a 
+month to respond, preferably longer. If you have decided on a conference theme, 
+announce that in the Call for Papers, as often speakers will write talks 
+specifically with your chosen theme in mind.
+
+Do you have any specific talks or topics you'd like to have? If so list them in 
+the Call for Papers. Also do not be afraid to approach some well know speakers 
+and ask whether they would give a presentation on the subject you want. Some may 
+be reluctant, but others will be glad to given an subject to work on.
+
+There maybe several topics that you can already assume you will get submissions 
+for (e.g. Perl6 and Moose), but you will likely get submissions for related 
+topics that you didn't expect. Take advantage of this and schedule common topics 
+into a single track, even if they only cover single morning or afternoon on one 
+day.
+
+=head2 Submission Deadlines
+
+Call for Papers is probably misnamed these days, as it is really a Call for 
+Abstracts, as the submissions you will receive are the abstracts of talks. If 
+you are planning a proceedings booklet, in which you wish to include copies of 
+the talks, then advertise this in the Call for Papers, with a separate deadline.
+
+Always state a timetable in the Call for Papers including:
+
+=over
+
+=item * deadline for talk abstract submissions
+
+=item * when talk acceptance and decline emails are being sent
+
+=item * deadline for speaker acceptance
+
+=item * official announcement of schedule (first draft)
+
+=item * deadline for papers (if required for proceedings booklet)
+
+=back
+
+The deadline for talk abstracts is your soft deadline, and should be at least 
+2-3 months before your conference, to give you time to review talks, accept 
+talks, speakers to accept and publish a schedule. The schedule needs to be 
+online as early as possible to give attendees an idea who and what will be at 
+your event.
+
+Plan for a soft and hard deadline (usually one week apart), in case anything 
+goes wrong. The hard deadline is when you plan to begin assessing all the talks. 
+If you need to change the soft deadline as you approach the date, ensure you 
+announce a revised timetable. If you've allowed for a hard deadline, this should 
+not affect other dates. See Planning Your Schedule (below) for what to do once 
+you have your abstracts in.
+
+Giving yourself a soft deadline means anyone submitting their talk "late", can 
+still have a chance to be included. Many speakers will submit their talks at the 
+last minute, and delays or network failures may mean you have some late 
+entrants.
+
+=head2 Talk Submissions
+
+Ensure you include all the details of how speakers should submit their talks. 
+Preferably have an online form which includes all the questions you need. These 
+should include:
+
+=over
+
+=item * Title
+
+=item * Abstract
+
+=item * Reference Material
+
+=item * Keywords
+
+These enable you to quickly spot common topics and talks.
+
+=item * Audience
+
+Beginner, Intermediate, Expert, All.
+
+=item * Duration
+
+Limit selection if you have set lengths.
+
+=item * Special Requirements
+
+While you'll be providing a room, a projector and an audience, the speaker may 
+need additional resources to help them present, such as an internet connection, 
+a flip chart or something else.
+
+=back
+
+These should provide you with enough background for each talk, to be able to see 
+whether they relate to other talks or conflict with other talks. If two talks 
+look likely to be exactly the same, you may wish to contact the speakers and see 
+whether they wish to make a joint submission.
+

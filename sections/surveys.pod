@@ -1,0 +1,24 @@
+=head1 YAPC CONFERENCE SURVEYS
+
+Z<surveys>
+
+The YAPC Conference Surveys started in 2006, and are now a regular feature of 
+both YAPC::Europe and YAPC::NA. If you wish to provide a survey at your event, 
+you can contact surveys@yapc-surveys.org and request for an instance to be 
+set-up. There are two forms of surveys available, the talk evaluations and the 
+main conference survey.
+
+The talk evaluations are purely for the benefit of the speakers. Results of 
+these evaluations are not made public, unless the speaker themselves publishes 
+them. They open after each talk takes place and are open until the closing date 
+of the main conference survey.
+
+The main conference survey opens at the end of the conference and is typically 
+open for about 4 weeks. The survey results are collated and published on the 
+YAPC Conference Surveys website, which can then be used by future organisers to 
+help attract sponsors and generally improve the conference experience for 
+everyone.
+
+It is worth reading previous surveys, as they can provide facts and figures that 
+can help encourage sponsors.
+

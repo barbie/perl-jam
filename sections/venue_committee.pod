@@ -1,0 +1,115 @@
+=head1 THE VENUE COMMITTEE
+
+Z<venue_committee>
+
+The Venue Committee consists of previous organisers. So they all know what you 
+have ahead of you. While they know some of the pitfalls, they don't necessarily 
+know any you may face. However, they are there to help you. If you have any 
+questions, feel free to approach them at any time. Even months before you submit 
+your proposal.
+
+The Venue Committee has several responsibilites. They make all initial official 
+announcements, they vote on the proposals submitted, they help with any 
+kick-start funding and will liaise with you throughout your preparations after 
+winning the bid.
+
+=head2 The Call For Venue
+
+A Call For Venue announcement will be posted to several Perl news channels and 
+websites, asking for groups to consider subnmitting a proposal to host a YAPC, 
+usually about six months before the current year's event. The announcement will 
+include the contact for the committee and how proposals should be submitted. 
+Most importantly it contains a deadline for submissions. Do not forget this.
+
+If you are planning to submit a proposal, please contact the venue committee and 
+tell them of your intention. If for any reason your proposal doesn't appear by 
+the deadline, they can at least contact you to find out if there was any delay 
+or miscommunication beyond your control.
+
+Also if you expect a delay in your submission, contact the venue committee as 
+soon as possible. They are usually agreeable to a short extension, providing 
+they know in advance.
+
+The deadline is usually about 2 months before the current YAPC, to give the 
+committee time to review proposals and prepare winners and presentations.
+
+=head2 Venue Committee Timeline
+
+From the Call For Venue deadline, the venue committee then begins a private 
+discussion period, where they consider all the proposals. They have a tight 
+timescale in which to discuss, respond and vote, so please ensure you respond to 
+any questions they may have promptly. The typical timescale is as follows:
+
+=over
+
+=item * Week 1 - Venue Committee reviews proposals and prepares any additional 
+questions they may have.
+
+=item * Week 2 - Additional questions sent to proposal parties. There is a one 
+week deadline for responding to the Venue Committee.
+
+=item * Week 3 - Venue Committee reviews questions and discusses all proposals.
+
+=item * Week 4 - Voting. Each member of the Venue Committee submits her or his 
+vote.
+
+=item * Week 5 - Venue Committee makes recommendation to the board (if 
+appropriate), sends request for acknowledgement from winners, and 
+commisserations to others.
+
+=back
+
+Note that a week above may be reduced to a few days if there is a very tight 
+timescale needed.
+
+As already noted, expect questions from the venue committee. Some may seem 
+trivial, others you may consider to have already been answered, make sure you 
+follow them all up clearly. It is important to note that they way you have 
+presented your proposal may not be how the venue committee read it. If there is 
+anything that they request clarification of, please don't respond by saying it's 
+already in your proposal, they have asked because they want more detail or a 
+clear explanation of what you provided. If in doubt, ask the venue committee for 
+clarification as to what level of detail is required.
+
+When the committee has received all the proposals and responses to any 
+additional questions, they will discuss and vote on each team. The criteria for 
+voting varies each year, with each member of the committee casting their vote. 
+Do not feel too defeated if your proposal is not selected. Often it can be a 
+close run choice between two proposals and the winner may be decided on minor 
+details.
+
+If you do not win, please contact the venue committee and ask them for feedback. 
+If you are attending the current YAPC, a committee will likely already be 
+planning to discuss your proposal with you, and more importantly encourage you 
+to submit again for the next year. There have been several proposals that have 
+been submitted repeatedly, many subsequently winning the opportunity to host the 
+event.
+
+=head2 Official Winner Announcements
+
+There are usually three stages to announcing the winning bid. The first is to 
+let the bidders themselves know privately. The winning bid will be told first, 
+and be asked to confirm their acceptance. This is just in case that an 
+unforeseen circumstance means they cannot continue with their bid. After this, 
+the remaining proposing teams are told they have been unsuccessful. All teams 
+are asked to keep the results a secret until the winning team is officially 
+announced.
+
+The second stage is to announce the winner to the conference attendees for the 
+current year. This often features a short presentation by the winning team, to 
+encourage the current attendees to come along to your conference. This may be 
+your first opportunity for you to introduce yourself and your team to the 
+attendees.
+
+The third stage is then to announce the winners online to the Perl community, 
+via the usual news and blog channels. This usually begins with an official 
+announcement from the venue committee, but in the current age of mirco-blogging, 
+the attendees may well get there first :)
+
+After the official venue committee press release, you may wish to make your own 
+press release. It is not required, and most organisers wait until they are ready 
+for their first newsletter some months later, but you are more than welcome to 
+do so. If you have something to announce early, such as the dates or the 
+website, feel free to do so as it is often very much appreciated if you can.
+
+Then the fun really begins!
