@@ -4,7 +4,6 @@ SECTIONS
 * create official cover
 * create text for back cover
 * add index terms
-* add table from IPW
 
 BUILD
 * how to add TOC to POD, PDF & HTML?

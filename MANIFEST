@@ -10,6 +10,7 @@ build/tools/build_epub.pl
 build/tools/build_html.pl
 build/tools/build_latex.pl
 build/tools/build_pdf.pl
+CHANGES
 CREDITS
 images/cover_full.png
 images/cover_full.xcf
