@@ -16,3 +16,4 @@ Additional thanks to chromatic for allowing me to use the same build tools he
 used to build his excellent book Modern PerlN<Modern Perl from Onyx Neon 
 U<http://www.onyxneon.com/books/modern_perl>>.
 
+Final thanks to Steve Pitchford for giving the book its name.

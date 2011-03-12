@@ -18,7 +18,7 @@ you can contribute changes to the content of the book, either by contaciing the
 author directly (as above) or via the public git repository and send patches or 
 pull requests.
 
-  http://
+  https://github.com/barbie/perl-jam
 
 L<acknowledgements>
 

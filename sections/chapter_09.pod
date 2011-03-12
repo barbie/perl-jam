@@ -24,3 +24,11 @@ the name Barbie came about is a long story, and may be if buy him a Guinness at
 a future conference, workshop or large technical event, he might tell you it. It 
 might not be the true story, but it will be a long story ;)
 
+=head1 WHY PERL JAM?
+
+The idea for the name of the book came from fellow Birmingham Perl Monger, Steve 
+Pitchford, who had the idea for a Perl event, which mixed coding with a musical 
+jam session. We ultimately organised the YAPC::Europe event in 2006, but the 
+name still hung around with the possibility for using for a hackathon of some 
+kind. After Steve asked if anyone wanted the domain, perl-jam.info, it seemed to 
+be an ideal fit for the name of the book.
