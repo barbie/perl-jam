@@ -37,8 +37,6 @@ my @chapters = get_chapter_list();
 my $anchors  = get_anchors(@chapters);
 my @indices;
 
-#push @indices, write_toc();
-
 for my $chapter (@chapters)
 {
     my $out_fh = get_output_fh($chapter);
@@ -94,36 +92,3 @@ sub get_output_fh
     return $fh;
 }
 
-sub write_toc {
-    my $file = catfile( qw( build html toc.html) );
-    my $fh = IO::File->new($file,'w+') or die "Cannot open file [$file]: $!\n";
-
-    print $fh "<html>\n<head>\n";
-    print $fh "<title>Perl Jam : Table Of Contents</title>\n";
-    print $fh "<link rel='stylesheet' href='style.css' type='text/css'>\n";
-    print $fh "</head>\n<body>\n";
-
-    printf $fh "<h1>Perl Jam : Table Of Contents</h1>\n";
-
-    my $chapter_dir   = catdir( 'build', 'chapters' );
-    my $file_toc  = catfile( $chapter_dir, 'chapter_toc.pod' );
-    my $fh_toc = IO::File->new($file_toc,'r') or die "Cannot open file [$file_toc]: $!\n";
-
-    my $level = -1;
-    while(<$fh_toc>) {
-        next    unless(/^=head(\d) (.*?)\s* \[([^,]+),([^\]]+)\]$/);
-        my ($toc_level,$toc_title,$toc_ref,$toc_file) = ($1,$2,$3,$4);
-        $toc_file =~ s/\.pod/\.html/;
-
-        if($toc_level == $level)   { printf $fh "</li>\n"; }
-        while($toc_level < $level) { printf $fh "</li>\n</ul></li>\n"; $level--; }
-        while($toc_level > $level) { printf $fh "\n<ul>\n"; $level++ }
-        printf $fh "<li><a href='${toc_file}#${toc_ref}'>$toc_title</a>";
-    }
-
-    while($level > 0) { printf $fh "</li>\n</ul></li>\n"; $level--; }
-
-    print $fh "</ul>\n</body>\n</html>\n";
-
-    return { file => 'toc.html', title => 'Table Of Contents' }
-}
