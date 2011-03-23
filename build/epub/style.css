@@ -1,7 +1,7 @@
 body {
-  margin: 0 1em;
   font-size: 1em;
   font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', Georgia, 'Times New Roman', serif;
+	margin: 1em 0.5em;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 
 h2 {
 	font: 1.4em sans-serif;
-	margin: 1.2em 0 0;
+	margin: 1.2em 0 0.4em;
 }
 
 h1 > h2 {
@@ -20,11 +20,15 @@ h1 > h2 {
 
 h3, h4, h5 {
   font-family: sans-serif;
-	margin: 1.2em 0 0;
+	margin: 1.2em 0 0.3em;
 }
 
 p {
-	margin: 0 0 1.2em;
+	margin: 0 0 1em;
+}
+
+ul {
+	margin-bottom: 1em;
 }
 
 code {
