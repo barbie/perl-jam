@@ -270,7 +270,7 @@ sub generate_ebook
     $epub->add_meta_item('EBook::EPUB version', $EBook::EPUB::VERSION);
 
     # Add package content: stylesheet, font, xhtml
-    $epub->copy_stylesheet('./build/html/style.css', 'styles/style.css');
+    $epub->copy_stylesheet('./build/epub/style.css', 'styles/style.css');
 
     for my $chapter (@chapters)
     {
