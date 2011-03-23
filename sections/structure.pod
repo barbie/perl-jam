@@ -1,4 +1,7 @@
-=head1 Structure of This Book Z<structure>
+=head1 Structure of This Book
+
+Z<structure> The chapters of the book are meant to follow the timeline from the 
+initial idea through to the tying up of any loose ends of your conference.
 
 =over 
 
