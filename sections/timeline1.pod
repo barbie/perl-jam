@@ -1,4 +1,4 @@
-=head1 CONFERENCE TIMELINE (PART 1) - THE BID
+=head1 TIMELINE 1 - THE BID
 
 Z<timeline1>
 
