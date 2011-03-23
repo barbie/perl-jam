@@ -1,7 +1,8 @@
 =head1 CONFERENCE SESSIONS
 
-Z<conference_sessions> =head2 Opening Address
+=head2 Opening Address
 
+Z<conference_sessions>
 You have a few responsibilities in your opening address:
 
 =over
