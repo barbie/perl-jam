@@ -11,7 +11,7 @@ h1 {
 
 h2 {
 	font: 1.4em sans-serif;
-	margin: 1.2em 0 0;
+	margin: 1.2em 0 0.4em;
 }
 
 h1 > h2 {
@@ -20,7 +20,7 @@ h1 > h2 {
 
 h3, h4, h5 {
   font-family: sans-serif;
-	margin: 1.2em 0 0;
+	margin: 1.2em 0 0.4em;
 }
 
 p {
