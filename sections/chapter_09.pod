@@ -30,5 +30,5 @@ The idea for the name of the book came from fellow Birmingham Perl Monger, Steve
 Pitchford, who had the idea for a Perl event, which mixed coding with a musical 
 jam session. We ultimately organised the YAPC::Europe event in 2006, but the 
 name still hung around with the possibility for using for a hackathon of some 
-kind. After Steve asked if anyone wanted the domain, perl-jam.info, it seemed to 
+kind. After Steve asked if anyone wanted the domain, perljam.info, it seemed to 
 be an ideal fit for the name of the book.
