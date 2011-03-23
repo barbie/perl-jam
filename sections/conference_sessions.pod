@@ -1,8 +1,11 @@
-=head1 CONFERENCE SESSIONS Z<conference_sessions>
+=head1 CONFERENCE SESSIONS
+
+Z<conference_sessions>
+During the conference, there are several important presentations and sessions 
+that you will need to make time for in the schedule.
 
 =head2 Opening Address
 
-Z<conference_sessions>
 You have a few responsibilities in your opening address:
 
 =over
