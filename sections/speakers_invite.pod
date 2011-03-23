@@ -1,10 +1,8 @@
 =head1 INVITE SPEAKERS
 
-Z<speakers_invite>
-
 =head2 Invite Keynote Speakers
 
-Approach a few keynote speakers who you would like to invite. Based on your 
+Z<speakers_invite> Approach a few keynote speakers who you would like to invite. Based on your 
 budget, let them know whether you would be able to fund all or part of their 
 travel and accommodation expenses. If they or their company is able to fund 
 them, this will give you more flexibility for funding for the other speakers you 

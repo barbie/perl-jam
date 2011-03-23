@@ -1,10 +1,8 @@
 =head1 CONFERENCE ORGANISATION
 
-Z<conference_organisation>
-
 =head2 Pre-Registration & Registration
 
-It is always worthwhile opening up pre-registration the evening before the 
+Z<conference_organisation> It is always worthwhile opening up pre-registration the evening before the 
 conference. Many people will arrive early, and the more conference material you 
 can distribute before the day, the less time you'll be tied up registering 
 people on the first morning. Your time will be precious on the first morning, so 

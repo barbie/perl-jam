@@ -1,8 +1,6 @@
 =head1 REVIEW TRANSPORT FACILITIES
 
-Z<transport>
-
-How are you expecting the attendees to get to the conference and depart? Do you 
+Z<transport> How are you expecting the attendees to get to the conference and depart? Do you 
 have an international airport within easy reach of the city? If not, are there 
 adequate road or rail transport links from the airport to your town/city? Many 
 attendees may be travelling from abroad, and making them travel long distances 

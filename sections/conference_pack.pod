@@ -1,8 +1,6 @@
 =head1 THE CONFERENCE PACK
 
-Z<conference_pack>
-
-A conference pack for attendees at a large conference typically consists of the 
+Z<conference_pack> A conference pack for attendees at a large conference typically consists of the 
 proceedings, a writing implement, a writing pad, tshirt, badge and bag. A 
 smaller conference may have far less. All these and more are up for sponsorship. 
 Many sponsors are more than happy to provide pens, pads and other goodies to put 

@@ -1,10 +1,8 @@
 =head1 THE FIRST 11 YEARS
 
-Z<first_11_years>
-
 =head2 1999 - How It All Began
 
-The first Yet Another Perl Conference was held in Pittsburgh, PA at Carnegie 
+Z<first_11_years> The first Yet Another Perl Conference was held in Pittsburgh, PA at Carnegie 
 Mellon University in 1999, and had about 275 participants. The event was 
 attended by a small but mighty group of interested and interesting Perl people, 
 including Larry Wall, who delivered the opening keynote on the first day of the 

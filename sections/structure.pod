@@ -1,6 +1,4 @@
-=head1 Structure of This Book
-
-Z<structure>
+=head1 Structure of This Book Z<structure>
 
 =over 
 

@@ -1,8 +1,6 @@
 =head1 TIMELINE 4 - THE EVENT
 
-Z<timeline4>
-
-While not strictly a timeline, the following are all items you'll need to 
+Z<timeline4> While not strictly a timeline, the following are all items you'll need to 
 schedule and prepare for during the event, and make attendees aware of 
 throughout the event too.
 

@@ -1,8 +1,6 @@
 =head1 YAPC CONFERENCE SURVEYS
 
-Z<surveys>
-
-The YAPC Conference Surveys started in 2006, and are now a regular feature of 
+Z<surveys> The YAPC Conference Surveys started in 2006, and are now a regular feature of 
 both YAPC::Europe and YAPC::NA. If you wish to provide a survey at your event, 
 you can contact surveys@yapc-surveys.org and request for an instance to be 
 set-up. There are two forms of surveys available, the talk evaluations and the 

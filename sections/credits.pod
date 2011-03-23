@@ -1,8 +1,6 @@
 =head1 CREDITS & ACKNOWLEDGEMENTS
 
-Z<credits>
-
-The original author of the YAPC.pm document, which was the original inspiration 
+Z<credits> The original author of the YAPC.pm document, which was the original inspiration 
 for this book, was Kevin A. Lenzo, the man who instigated the whole Perl 
 grassroots conference experience with the very first YAPC. Kevin released the 
 document to CPAN, alongside creating the Yet Another Society (YAS) organisation. 

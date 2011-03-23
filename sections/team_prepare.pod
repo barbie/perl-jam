@@ -1,8 +1,6 @@
 =head1 PREPARE YOUR TEAM
 
-Z<team_prepare>
-
-You cannot organise this alone. While one day workshops might be possible for 
+Z<team_prepare> You cannot organise this alone. While one day workshops might be possible for 
 one person to handle, organizing a conference is very time consuming and 
 spreading the load enables the team to function better together and gets the 
 job done a lot quicker. Recruit local user group members, friends or colleagues 

@@ -1,8 +1,6 @@
 =head1 FIND SPONSORS
 
-Z<sponsorship>
-
-Sponsorship is likely to be your biggest source of income for your event. While 
+Z<sponsorship> Sponsorship is likely to be your biggest source of income for your event. While 
 registration fees will cover a good portion of costs, you will need to find 
 sponsors both big and small to help cover the remaining costs.
 

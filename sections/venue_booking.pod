@@ -1,8 +1,6 @@
 =head1 BOOK THE VENUE
 
-Z<venue_booking>
-
-Ideally you should book your venue as soon as you have won the bid, but you will 
+Z<venue_booking> Ideally you should book your venue as soon as you have won the bid, but you will 
 need to sign some form of contract at least 6 months (preferably sooner) prior 
 to the start of the conference. Confirm dates with the venue and provide a 
 booking deposit, if you can, to secure the venue on the dates you require. Some 

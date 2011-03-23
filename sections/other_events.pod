@@ -1,8 +1,6 @@
 =head1 YAPCS, WORKSHOPS & HACKATHONS
 
-Z<other_events>
-
-Although the first YAPC was in 1999, ten years later in 2009 we now had 5 YAPC 
+Z<other_events> Although the first YAPC was in 1999, ten years later in 2009 we now had 5 YAPC 
 specific conferences (YAPC::NA, YAPC::Europe, YAPC::Asia, YAPC::Brazil and 
 YAPC::Russia), with OSDCs now also making their mark (Australia, Israel, 
 France).

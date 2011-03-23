@@ -1,8 +1,6 @@
 =head1 YOUR BUDGET
 
-Z<budget_progress>
-
-From this point onwards your budget needs to be tightly controlled. You will 
+Z<budget_progress> From this point onwards your budget needs to be tightly controlled. You will 
 need to keep a handle on what costs are mounting up (paid and unpaid) and what 
 income you have coming in, as well as your targets to balance the books. If you 
 have a group member who is good with figures or has accounting or bookkeeping 

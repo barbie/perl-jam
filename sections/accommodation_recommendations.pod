@@ -1,8 +1,6 @@
 =head1 ACCOMMODATION
 
-Z<accommodation_recommendations>
-
-Everyone needs somewhere to stay. It's unlikely you are willing to have several 
+Z<accommodation_recommendations> Everyone needs somewhere to stay. It's unlikely you are willing to have several 
 hundred geeks living with you for a week, so you'll need to investigate at what 
 suitable accommodation is available.
 

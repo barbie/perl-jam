@@ -1,8 +1,6 @@
 =head1 ANNOUNCEMENTS
 
-Z<announcements>
-
-Throughout your preparations, you will need to plan when to make announcements. 
+Z<announcements> Throughout your preparations, you will need to plan when to make announcements. 
 There are some key milestones that need to be announced promptly, but it's also 
 important to remember to post newsletters and updates to the community early and 
 frequently, so that they know that the conference is still happening, and can 

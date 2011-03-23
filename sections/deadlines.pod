@@ -1,10 +1,8 @@
 =head1 FINAL DEADLINES
 
-Z<deadlines>
-
 =head2 Auction Items Deadline
 
-The auction (if you are holding one) comprises items donated by attendees and 
+Z<deadlines> The auction (if you are holding one) comprises items donated by attendees and 
 sponsors. Many publishers will be willing to provide books and other sponsors 
 may wish to donate items. It is important that you know about these early. You 
 should arrange to have these delivered to the organisers well in advance of the 

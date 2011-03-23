@@ -1,8 +1,6 @@
 =head1 TIMELINE 2 - THE FOUNDATIONS
 
-Z<timeline2>
-
-Below are the main events in the first phase of the actual conference 
+Z<timeline2> Below are the main events in the first phase of the actual conference 
 preparation life-cycle. As before, refer to this as you prepare for the 
 conference to make sure you are on track and haven't missed anything.
 

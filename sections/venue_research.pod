@@ -1,8 +1,6 @@
 =head1 RESEARCH YOUR VENUE
 
-Z<venue_research>
-
-Before you think about anything to do with the organizing of an open source 
+Z<venue_research> Before you think about anything to do with the organizing of an open source 
 conference, there is one important thing you need to remember throughout. The
 conference is a means to bring together like minded souls, from all walks of 
 life, to meet and learn. "All walks of life" is what you need to remember. We 

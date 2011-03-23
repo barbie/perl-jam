@@ -1,8 +1,6 @@
 =head1 CALL FOR PAPERS
 
-Z<call_for_papers>
-
-The Call for Papers should be announced 4-6 months before the conference. This 
+Z<call_for_papers> The Call for Papers should be announced 4-6 months before the conference. This 
 gives speakers time to decide what talks they will submit. Give them at least a 
 month to respond, preferably longer. If you have decided on a conference theme, 
 announce that in the Call for Papers, as often speakers will write talks 

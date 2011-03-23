@@ -1,8 +1,6 @@
 =head1 THE VENUE COMMITTEE
 
-Z<venue_committee>
-
-The Venue Committee consists of previous organisers. So they all know what you 
+Z<venue_committee> The Venue Committee consists of previous organisers. So they all know what you 
 have ahead of you. While they know some of the pitfalls, they don't necessarily 
 know any you may face. However, they are there to help you. If you have any 
 questions, feel free to approach them at any time. Even months before you submit 

@@ -1,8 +1,6 @@
 =head1 RESEARCH ACCOMMODATION OPTIONS
 
-Z<accommodation_options>
-
-Where are your attendees going to stay?
+Z<accommodation_options> Where are your attendees going to stay?
 
 While you are investigating your venue options, you should also bear in mind 
 what accommodation facilities are available nearby. If you are hosting the 

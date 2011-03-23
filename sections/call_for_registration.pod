@@ -1,8 +1,6 @@
 =head1 CALL FOR REGISTRATION
 
-Z<call_for_registration>
-
-Many attendees will attend the conference regardless of who will be speaking. 
+Z<call_for_registration> Many attendees will attend the conference regardless of who will be speaking. 
 Many speakers and attendees will simply be attending to meet with collaborators 
 on various projects. Others may need convincing. 
 

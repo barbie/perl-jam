@@ -1,10 +1,8 @@
 =head1 THE CONFERENCE SCHEDULE
 
-Z<conference_schedule>
-
 =head2 Choosing Talks
 
-After the hard deadline for abstracts, you should allow your team at least a 
+Z<conference_schedule> After the hard deadline for abstracts, you should allow your team at least a 
 week to decide which talks to accept. Arrange a meeting with your team once 
 everyone has had a chance to read through the abstracts. You'll then be able to 
 make some quick choices as to what to accept and reject, hopefully making it a 

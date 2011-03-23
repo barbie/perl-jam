@@ -1,8 +1,6 @@
 =head1 PREPARE YOUR BID
 
-Z<bid_prepare>
-
-With your initial team assembled, research in progress and a budget outline, 
+Z<bid_prepare> With your initial team assembled, research in progress and a budget outline, 
 you're now in a position to begin preparing your bid proposal. Many bid 
 submissions from previous years are now online, so it is very worthwhile 
 reviewing these from the TPF or YEF sites. They will provide great examples of 

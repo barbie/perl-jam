@@ -1,8 +1,6 @@
 =head1 DESIGN YOUR WEBSITE
 
-Z<website_design>
-
-You need an official site. This will be your primary focus point for 
+Z<website_design> You need an official site. This will be your primary focus point for 
 announcements and information about the conference, and will be used before, 
 during and after your event. It won't just be attendees and speakers that will 
 be viewing your website, but corporate managers and potential sponsors, so make 

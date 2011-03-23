@@ -1,8 +1,6 @@
 =head1 CONFERENCE EVENTS
 
-Z<conference_events>
-
-The following are all activities that can take place during the conference. Some 
+Z<conference_events> The following are all activities that can take place during the conference. Some 
 are nice to have, so don't feel pressured to provide all of them.
 
 =head2 Day Trips & Partner Programmes

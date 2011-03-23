@@ -1,8 +1,6 @@
 =head1 LAUNCH YOUR WEBSITE
 
-Z<website_launch>
-
-If you haven't already done so, you will need to launch your website at least 
+Z<website_launch> If you haven't already done so, you will need to launch your website at least 
 six months before your conference. The website will be your primary method of 
 promoting the conference to sponsors, speakers, attendees and, perhaps most 
 importantly of all, to companies that will be sending their employees to your 

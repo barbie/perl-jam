@@ -1,8 +1,6 @@
 =head1 PLAN YOUR PROJECT
 
-Z<project_plan>
-
-It cannot be emphasised enough how important a project plan is. A year before 
+Z<project_plan> It cannot be emphasised enough how important a project plan is. A year before 
 your event, you will need to start several task at once, and managing them 
 efficiently is a necessity. Organising a conference requires you to establish 
 priorities all the time, and having a project plan will better identify those 

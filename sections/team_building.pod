@@ -1,8 +1,6 @@
 =head1 ESTABLISH YOUR TEAM
 
-Z<team_building>
-
-No-one can organise a YAPC on their own. You don't need a big team, but many 
+Z<team_building> No-one can organise a YAPC on their own. You don't need a big team, but many 
 hands make light work :) While you may have a core team, you should look to 
 recruit others who can help with some of the smaller tasks. That's not 
 to say that you need 20 or so people. Most groups usually have two to four key 

@@ -1,8 +1,6 @@
 =head1 TIMELINE 1 - THE BID
 
-Z<timeline1>
-
-Below are the main events in the conference bid life-cycle. Refer to this as 
+Z<timeline1> Below are the main events in the conference bid life-cycle. Refer to this as 
 you prepare your bid to keep yourself on track. The sections in this chapter 
 explain more fully the details of each step.
 

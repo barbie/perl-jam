@@ -1,8 +1,6 @@
 =head1 ORGANISATIONAL MAILING LISTS
 
-Z<mailing_lists>
-
-You should consider setting up at least two mailing lists.
+Z<mailing_lists> You should consider setting up at least two mailing lists.
 
 The first should be purely for the team of organisers, and should be a 
 completely closed list, where you can discuss ideas privately away from both the 
