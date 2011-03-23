@@ -12,6 +12,7 @@ use warnings;
 use Pod::PseudoPod::HTML;
 use File::Spec::Functions qw( catfile catdir splitpath );
 use EBook::EPUB;
+use HTML::Entities;
 
 # P::PP::H uses Text::Wrap which breaks HTML tags
 local *Text::Wrap::wrap;
@@ -317,8 +318,8 @@ sub set_table_of_contents
     {
 
         my $heading_level = $heading->[0];
-        my $section       = $heading->[1];
-        my $label         = $heading->[2];
+        my $section       = decode_entities($heading->[1]);
+        my $label         = decode_entities($heading->[2]);
         my $content       = 'text/' . $heading->[3] . '.xhtml';
 
 
