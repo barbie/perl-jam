@@ -20,7 +20,7 @@ has been fun :)
 =head1 THE NAME
 
 It may surprise you to know that Barbie is actually the author's real name. How 
-the name Barbie came about is a long story, and may be if buy him a Guinness at 
+the name Barbie came about is a long story, and maybe if you buy him a Guinness at 
 a future conference, workshop or large technical event, he might tell you it. It 
 might not be the true story, but it will be a long story ;)
 
