@@ -14,7 +14,7 @@ developers that came along to those first events.
 This book was originally written to provide help and advice for anyone 
 organizing a "Yet Another Perl Conference" (YAPC) event. However, it contains 
 many examples and hints for proposing, planning, and running any successful 
-conference, workshopor large technical event. While there are many aspects that 
+conference, workshop or large technical event. While there are many aspects that 
 would be applicable only to a YAPC Perl conferences, much of the content will be 
 informative for any group with an interest in promoting collaborative efforts 
 and furthering discussion on a focused technical topic or who are thinking of 
