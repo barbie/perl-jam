@@ -141,7 +141,7 @@ can potentially have an additional source of revenue.
 Any profits from YAPC::NA benefit The Perl Foundation directly, while for 
 YAPC::Europe all profits have gone to the local host group for them to fund 
 local activities (such as workshops or buying a projector for technical 
-meetings), with any surplus going to future YAPCs, YEF or the Perl Foundation. 
+meetings), with any surplus going to future YAPCs, YEF or The Perl Foundation. 
 Passing funds to the organisers for the following year provides them with a 
 "float" to be used to book a venue and arrange deposits for any long lead time 
 items.
