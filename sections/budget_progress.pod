@@ -151,7 +151,7 @@ items.
 This is a tricky area. If you are setting yourselves up as a Charity or 
 Non-Profit organisation, then you may be able to claim tax exemption. However, 
 this is not always easy and you are best advised to seek legal advice to clarify 
-whether this is possible. If you are organising a Perl event in the US, the TPF 
+whether this is possible. If you are organising a Perl event in the US, then TPF 
 can help to some degree as they are a tax exempt organisation, providing you 
 plan to use their services to benefit from this. Contact them for details. 
 
