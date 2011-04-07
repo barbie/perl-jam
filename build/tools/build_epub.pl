@@ -11,6 +11,7 @@ use warnings;
 
 use Pod::PseudoPod::HTML;
 use File::Spec::Functions qw( catfile catdir splitpath );
+use File::Path qw( mkpath );
 use EBook::EPUB;
 use HTML::Entities;
 
@@ -175,6 +176,7 @@ sub get_output_fh
     my $chapter  = shift;
     my $name     = (splitpath $chapter )[-1];
     my $xhtmldir = catdir(qw( build xhtml ));
+    mkpath( $xhtmldir ) unless -d $xhtmldir;
 
     $name =~ s/\.pod/\.xhtml/;
     $name = catfile($xhtmldir, $name);

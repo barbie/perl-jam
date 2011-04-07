@@ -4,6 +4,7 @@ use strict;
 use warnings;
 
 use File::Spec::Functions qw( catfile catdir splitpath );
+use File::Path qw( mkpath );
 
 # getting chapter list
 my @chapters = get_chapter_list();
@@ -13,6 +14,7 @@ require App::pod2pdf
     or die "pod2pdf is not present in your PATH; please install App::pod2pdf\n";
 
 my $outpath = catdir( qw( build pdf ) );
+mkpath( $outpath ) unless -d $outpath;
 
 for my $chapter ( @chapters ){
     my @filename = split( /\./ , $chapter );
