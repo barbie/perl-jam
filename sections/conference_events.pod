@@ -91,6 +91,9 @@ conference, which was a much better time to host it, as many attendees were
 already making their way home by then, and of those attendees staying they had 
 made new friends and knew the area well enough to not feel ignored.
 
+If time and the dinner venue permits an entertainment program, as the Geek-Quiz
+at YAPC::EU 2009 in Lisbon is certainly a great idea.
+
 =head2 Other Evenings
 
 Suggest other events, though not necessarily organised, for other nights of the 
@@ -106,7 +109,9 @@ will not know anyone else. Be inclusive wherever possible.
 
 The auction is now a tradition with YAPCs. However, they vary in style from 
 region to region. YAPC::NA holds their auction during the conference dinner, 
-while YAPC::Europe holds theirs as the last main event of the conference.
+while YAPC::Europe holds theirs as the end of a conference day (Usually last
+day but first day has also worked great, since many attendees leave early on
+the last day). 
 
 Not everyone will understand what the auction is about, especially some of the 
 bizarre items in the European auction, so take the time to explain it. In recent 
@@ -125,8 +130,9 @@ prices rising :)
 
 The regular auction should feature some of the more rare or unusual items, which 
 is what makes the auction fun and exciting and hopefully something to remember. 
-Signed copies of books, special t-shirts and dedications in code have all been 
-good money spinners in the past.
+Signed copies of books, special t-shirts, humiliations of the next YAPC 
+organisers :) and dedications in code have all been good money spinners in the 
+past.
 
 Do you know a good auctioneer? The established YAPCs have several people who 
 have now taken on the role of auctioneer, so you may well have several people 
