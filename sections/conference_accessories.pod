@@ -49,6 +49,8 @@ ensure you have most or all of the following (and think of a few of your own):
 
 =item * Scissors
 
+=item * Stanley knifes
+
 =item * String
 
 =item * Blu Tak
@@ -94,6 +96,8 @@ ensure you have most or all of the following (and think of a few of your own):
 =item * Tool set (screwdrivers, spanners, pliers)
 
 =item * Fuses
+
+=item * Keyboards, Mice
 
 =back
 
