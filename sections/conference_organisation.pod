@@ -52,13 +52,16 @@ with the numbers 10, 5, 1 and END printed on them to indicate minutes remaining.
 Remember to synchronise the timekeepers watches. A speaker should be aiming to 
 wrap up shortly at the 5 minutes marker and be pretty much done at the 1 minute 
 marker. After the allotted time, timekeepers need to cut off speakers from any 
-further speaking.
+further speaking. Usually timekeeping can be handled by volunteering atendees.
 
 Wherever possible, employ partners and friends that are not interested in the 
 conference to sit on the registration desk. While you may be there too, your 
 attention may be otherwise engaged. Plus, having someone who isn't interested in 
 the conference watching the desk means you can see some of the talks (although 
-you shouldn't really expect to be so lucky).
+you shouldn't really expect to be so lucky). If your venue is accessible to the 
+public you also might consider having one helper in each auditorium to attend 
+the microphones, data projectors, cameras and eventually to handle the
+timekeeping and various issues that might arrise.
 
 You should reward the support staff for helping out. Whether this is a separate 
 meal or beer one evening after the conference or a small gift, make such you 
@@ -76,3 +79,14 @@ catering-related questions.
 If there is a language barrier it may simply need someone to translate requests 
 to the catering staff.
 
+=head2 Emergency Plan
+
+As everywhere things might go wrong during the conference: Data projectors,
+laptops, microphones and other gadgets might break, power might fail, ect. 
+You cannot prevent these thins from happening, but you can be prepared. Know
+who at the venue can perform repairs or whom to call. Eventually have some 
+common spare parts ready.
+
+Since degratation of the wireless internet conection is often an issue having 
+a seperate fallback internet connection (eg. via 3/4G) for the organisers is 
+also a good idea.

@@ -126,6 +126,13 @@ accommodation in the morning, and many may well have large suitcases with them.
 If you can use a secure storage room to store suitcases and bags, you will earn 
 lots of brownie points from attendees :)
 
+=head2 Hackathon and/or Speakers preparation room
+
+If possible you can also provide a separate room where speakers can prepare
+their talks undisturbed or where hackathons or BOF meetings can take place. 
+Ensure that there room is comparatively quiet and that there are a few 
+accessible power outlets in this room. 
+
 =head2 Accessibility
 
 Those with disabilities should still be able to attend your conference. Whether 
