@@ -275,6 +275,10 @@ reasonably do to accommodate them. Some will come prepared, while others may
 expect you to at least direct them to suitable alternative eating 
 establishments.
 
+If the meals are being served as buffet make sure that the food options are 
+clearly labeled since it might not be visible at first glimpse if a meal meets
+certain dietary requirements or tastes.
+
 =head3 Morning & Afternoon Breaks
 
 You should schedule a 30 minute break during the morning and afternoon sessions, 
