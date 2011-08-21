@@ -1,7 +1,7 @@
 =head1 THE CONFERENCE PACK
 
 Z<conference_pack> A conference pack for attendees at a large conference typically consists of the 
-proceedings, a writing implement, a writing pad, tshirt, badge and bag. A 
+proceedings, a writing implement, a writing pad, t-shirt, badge and bag. A 
 smaller conference may have far less. All these and more are up for sponsorship. 
 Many sponsors are more than happy to provide pens, pads and other goodies to put 
 in your conference pack. However, remember to accurately inform the sponsors of 
@@ -54,4 +54,18 @@ or local tourist information.
 
 Many bus and train stations will have maps and it may be worthwhile contacting 
 them to see if they can supply you with a few hundred.
+
+=head2 Schedule
+
+A printed copy of the time schedule should be included in the conference pack or 
+even better available at the registration desk. Since the schedule may change you 
+might only include the schedule for the first day. Schedules for the following 
+days can be put up forgrab athe conference reception desk.
+
+=head2 Badges
+
+Conference badges with the attendees name and nick are a great way of bringing 
+people together. Furthermore the badge could include the attendees country,
+email adress, company (eg. only for sponsors and people paying business tarif)
+a QR-code with a link to the attendees profile ect.
 
