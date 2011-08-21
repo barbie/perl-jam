@@ -1,6 +1,13 @@
 Revision history for the book Perl Jam.
 ---------------------------------------
 
+0.04	21/08/2011
+	- link fix in Ch9.
+	- grammar fix in Ch4.
+	- decode entities for TOC in ePub script.
+	- included patches from Maroš Kollár (maros).
+	- spelling fixes and rewording.
+
 0.03	11/03/2011
         - 3rd draft - 1st public draft
 

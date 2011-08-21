@@ -1,6 +1,7 @@
 =head1 CALL FOR REGISTRATION
 
-Z<call_for_registration> Many attendees will attend the conference regardless of who will be speaking. 
+Z<call_for_registration> Many attendees will attend the conference regardless of 
+who will be speaking. 
 Many speakers and attendees will simply be attending to meet with collaborators 
 on various projects. Others may need convincing. 
 
@@ -31,8 +32,8 @@ may be others you want to include:
 =item * Corporate Rate
 
 Often a cheap way to sponsor the event, offering attendance to the conference, 
-at least one one paid class and possibly other opportunities. Attendees paying
-the corporate rate might require a printed and signed invoice. You might also 
+at least one paid class and possibly other opportunities. Attendees paying the 
+corporate rate might require a printed and signed invoice. You might also 
 consider giving these attendees extra goodies like an extra sponsorship 
 t-shirt or print the company names in the proceedings and the name badges.
 
@@ -49,7 +50,7 @@ discount.
 =item * Student Rate
 
 There are a small number of attendees currently studying for degrees, who are on 
-a limited budget. These are our potential stars of the future, so if you can 
+a limited budget. These are our potential stars of the future, so if you can
 offer a reduced price, you may encourage them to attend. A reduced rate may also
 apply to local attendees if the average income in the host country is well
 below regional average.
@@ -57,13 +58,25 @@ below regional average.
 =item * Early Bird Rate
 
 You might also consider to introduce a discounted rate for early registrations.
-Early registrations are good way of generating early income and hence helping you
-to initially finance the conference and to get an estimate on the excpectet
+Early registrations are good way of generating early income and hence helping 
+you to initially finance the conference and to get an estimate on the expected
 attendance numbers.
+
+=item * Friend Of Perl Rate
+
+This is where the ticket price covers that of the attendee and another that 
+might not otherwise be able to attend without finacial help. Typically this is 
+to enable students and our rising stars to attend the conference.
+
+As an alternative you may wish to promote a 'Send A Newbie' programme, which 
+accepts donations to cover flights and accommodations for those who would not be 
+able to attend without fincial help. The European 'Send A Newbie' programme was 
+specifically setup to provide financial assistance to those who have never 
+attended a YAPC before.
 
 =back
 
 In many cases the conference ticket price is the cheapest item in attendance 
-expenses. Travel and accommodation will be considerably higher, so offer cheaper 
-rates, does not always make a big difference for many of your attendees.
+expenses. Travel and accommodation will be considerably higher, so offering
+cheaper rates does not always make a big difference for many of your attendees.
 

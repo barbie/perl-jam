@@ -1,6 +1,7 @@
 =head1 CONFERENCE EVENTS
 
-Z<conference_events> The following are all activities that can take place during the conference. Some 
+Z<conference_events> The following are all activities that can take place during 
+the conference. Some 
 are nice to have, so don't feel pressured to provide all of them.
 
 =head2 Day Trips & Partner Programmes
@@ -91,8 +92,10 @@ conference, which was a much better time to host it, as many attendees were
 already making their way home by then, and of those attendees staying they had 
 made new friends and knew the area well enough to not feel ignored.
 
-If time and the dinner venue permits an entertainment program, as the Geek-Quiz
-at YAPC::EU 2009 in Lisbon is certainly a great idea.
+If time and the dinner venue permits, an entertainment program, such as the 
+Geek-Quiz held at YAPC::EU 2009 in Lisbon, can be a great idea to encourage 
+attendees to get to know each other, as well as providing more of an incentive 
+for people to remain at the venue socialising.
 
 =head2 Other Evenings
 
@@ -109,9 +112,9 @@ will not know anyone else. Be inclusive wherever possible.
 
 The auction is now a tradition with YAPCs. However, they vary in style from 
 region to region. YAPC::NA holds their auction during the conference dinner, 
-while YAPC::Europe holds theirs as the end of a conference day (Usually last
-day but first day has also worked great, since many attendees leave early on
-the last day). 
+while YAPC::Europe typically holds theirs at the end of a conference day 
+(Usually last day, but first day has also worked great, since many attendees 
+leave early on the last day). 
 
 Not everyone will understand what the auction is about, especially some of the 
 bizarre items in the European auction, so take the time to explain it. In recent 
@@ -128,11 +131,11 @@ items, so that attendees can view them at their leisure. Make it easy for people
 to bid on the silent auction items, so they can bid early, often and keep the 
 prices rising :)
 
-The regular auction should feature some of the more rare or unusual items, which 
-is what makes the auction fun and exciting and hopefully something to remember. 
-Signed copies of books, special t-shirts, humiliations of the next YAPC 
-organisers :) and dedications in code have all been good money spinners in the 
-past.
+The regular auction should only feature some of the more rare or unusual items, 
+which is what makes the auction fun and exciting and hopefully something to 
+remember. Signed copies of books, special t-shirts, abstract items for the next 
+YAPC (hair colour, logo designs) and dedications in code have all been good 
+money spinners in the past.
 
 Do you know a good auctioneer? The established YAPCs have several people who 
 have now taken on the role of auctioneer, so you may well have several people 

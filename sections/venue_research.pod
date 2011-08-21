@@ -1,6 +1,7 @@
 =head1 RESEARCH YOUR VENUE
 
-Z<venue_research> Before you think about anything to do with the organizing of an open source 
+Z<venue_research> Before you think about anything to do with the organizing of 
+an open source 
 conference, there is one important thing you need to remember throughout. The
 conference is a means to bring together like minded souls, from all walks of 
 life, to meet and learn. "All walks of life" is what you need to remember. We 
@@ -126,12 +127,22 @@ accommodation in the morning, and many may well have large suitcases with them.
 If you can use a secure storage room to store suitcases and bags, you will earn 
 lots of brownie points from attendees :)
 
-=head2 Hackathon and/or Speakers preparation room
+=head2 Hackathon and/or BOF Rooms
 
-If possible you can also provide a separate room where speakers can prepare
-their talks undisturbed or where hackathons or BOF meetings can take place. 
-Ensure that there room is comparatively quiet and that there are a few 
-accessible power outlets in this room. 
+If you are planning to have hackthons and Birds of a Feather events during the 
+the regualr conference day, it will be worth investigating whether there are 
+some smaller rooms available. These need not necessarily require projectors or 
+screens, but should have access to internet connectivity.
+
+=head2 Speakers Preparation Room
+
+If possible try and provide a separate room where speakers can prepare their 
+talks undisturbed. Ensure that the room is comparatively quiet and that there 
+are a few accessible power outlets in this room. 
+
+If you have a spare projector available this would be good to have setup to 
+allow speakers to test their laptops with the projector, without disturbing 
+on-going talks.
 
 =head2 Accessibility
 
@@ -282,8 +293,8 @@ reasonably do to accommodate them. Some will come prepared, while others may
 expect you to at least direct them to suitable alternative eating 
 establishments.
 
-If the meals are being served as buffet make sure that the food options are 
-clearly labeled since it might not be visible at first glimpse if a meal meets
+If the meals are being served as a buffet make sure that the food options are 
+clearly labeled, since it might not be visible at first glimpse if a meal meets
 certain dietary requirements or tastes.
 
 =head3 Morning & Afternoon Breaks

@@ -1,6 +1,7 @@
 =head1 THE CONFERENCE PACK
 
-Z<conference_pack> A conference pack for attendees at a large conference typically consists of the 
+Z<conference_pack> A conference pack for attendees at a large conference 
+typically consists of the 
 proceedings, a writing implement, a writing pad, t-shirt, badge and bag. A 
 smaller conference may have far less. All these and more are up for sponsorship. 
 Many sponsors are more than happy to provide pens, pads and other goodies to put 
@@ -57,15 +58,22 @@ them to see if they can supply you with a few hundred.
 
 =head2 Schedule
 
-A printed copy of the time schedule should be included in the conference pack or 
-even better available at the registration desk. Since the schedule may change you 
-might only include the schedule for the first day. Schedules for the following 
-days can be put up forgrab athe conference reception desk.
+Include a printed copy of the event schedule in the conference pack or have 
+copies available at the registration desk. Since the schedule may change you 
+may wish to only include the schedule for the first day, with the schedules for 
+subsequent days made available at the conference reception desk, at the 
+beginning of each morning.
 
 =head2 Badges
 
-Conference badges with the attendees name and nick are a great way of bringing 
-people together. Furthermore the badge could include the attendees country,
-email adress, company (eg. only for sponsors and people paying business tarif)
-a QR-code with a link to the attendees profile ect.
+Conference badges with the attendees name and/or nick are a great way of 
+bringing people together. The badge could optionally include the attendees 
+country, Perl Monger group affiliation and company (particularly useful for 
+sponsors and anyone paying business tarif). Be wary of providing too much 
+personal information, including email addresses, as some attendees may not wish 
+to have their personal details so publicly visible.
 
+Instead of providing personal details on the badge, it may be more appropriate 
+to print a QR-code image, which provides a link to the attendees online profile. 
+For example you could link to the attendee's ACT profile, which the attendee 
+themselves can control what they wish to make public.
