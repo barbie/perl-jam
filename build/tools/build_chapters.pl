@@ -14,13 +14,14 @@ clear_all();
 for my $chapter (get_chapter_list())
 {
     my $text = process_chapter( $chapter, $sections_href );
-    push @TOC, write_chapter( $chapter, $text );
+    write_chapter( $chapter, $text );
+    #push @TOC, write_chapter( $chapter, $text );
 }
 
 die( "Scenes missing from chapters:", join "\n\t", '', keys %$sections_href )
     if keys %$sections_href;
 
-write_toc(\@TOC);
+#write_toc(\@TOC);
 
 exit;
 
@@ -97,18 +98,18 @@ sub write_chapter
 
     mkpath( $chapter_dir ) unless -e $chapter_dir;
 
-    my @toc;
-    my @text = split(m!$/!,$text);
-    for my $line (@text) {
-        if($line =~ /^=head(\d) (.*?)\s*$/) {
-            my ($level,$title,$ref) = ($1,$2,$2);
-            $ref =~ s/ /_/g;
-            $ref =~ s/[^\w -]/-/g;
-            $ref .= "_$level";
-            $text =~ s/(=head$level $title)/Z<$ref>\n\n$1/;
-            push @toc, [$level, $title, $ref, $name];
-        }
-    }
+    #my @toc;
+    #my @text = split(m!$/!,$text);
+    #for my $line (@text) {
+    #    if($line =~ /^=head(\d) (.*?)\s*$/) {
+    #        my ($level,$title,$ref) = ($1,$2,$2);
+    #        $ref =~ s/ /_/g;
+    #        $ref =~ s/[^\w -]/-/g;
+    #        $ref .= "_$level";
+    #        $text =~ s/(=head$level $title)/$1 Z<$ref>/;
+    #        push @toc, [$level, $title, $ref, $name];
+    #    }
+    #}
 
     open my $fh, '>:utf8', $chapter_path
         or die "Cannot write '$chapter_path': $!\n";
@@ -122,7 +123,7 @@ sub write_chapter
         or die "Cannot write '$chapter_path': $!\n";
 
     print {$fha} $text;
-    return @toc;
+    #return @toc;
 }
 
 sub write_toc
