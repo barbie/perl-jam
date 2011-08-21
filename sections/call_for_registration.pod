@@ -30,8 +30,11 @@ may be others you want to include:
 
 =item * Corporate Rate
 
-Often a cheap way to sponsor the event, offering attendence to the conference, 
-at least one one paid class and possibly other oppportunities.
+Often a cheap way to sponsor the event, offering attendance to the conference, 
+at least one one paid class and possibly other opportunities. Attendees paying
+the corporate rate might require a printed and signed invoice. You might also 
+consider giving these attendees extra goodies like an extra sponsorship 
+t-shirt or print the company names in the proceedings and the name badges.
 
 =item * Standard Rate
 
@@ -47,7 +50,16 @@ discount.
 
 There are a small number of attendees currently studying for degrees, who are on 
 a limited budget. These are our potential stars of the future, so if you can 
-offer a reduced price, you may encourage them to attend.
+offer a reduced price, you may encourage them to attend. A reduced rate may also
+apply to local attendees if the average income in the host country is well
+below regional average.
+
+=item * Early Bird Rate
+
+You might also consider to introduce a discounted rate for early registrations.
+Early registrations are good way of generating early income and hence helping you
+to initially finance the conference and to get an estimate on the excpectet
+attendance numbers.
 
 =back
 
