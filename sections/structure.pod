@@ -43,9 +43,13 @@ tie up loose ends.
 A look back at the first 11 years of YAPCs, providing some background to YAPC 
 and other Perl events.
 
-=item * Appendix I : RESOURCES
+=item * Appendix A : RESOURCES
 
 References and resources that may be useful for you while organising your event.
+
+=item * Appendix B : CODE OF CONDUCT
+
+An example Code of Conduct created by the organisers of YAPC::NA 2011.
 
 =back
 

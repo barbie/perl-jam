@@ -56,3 +56,4 @@ L<mailing_lists>
 
 L<surveys>
 
+L<code_of_conduct>

@@ -1,0 +1,26 @@
+=head1 CODE OF CONDUCT
+
+Z<code_of_conduct> In recent times it has been necessary for some conference 
+organisers to explictily state a code of conduct. While, you might expect 
+everyone who attends your event to behave with civility towards others, at 
+times this isn't always the case.
+
+How you phrase a code of conduct is up to you, but below is the one that the 
+organisers of YAPC::NA 2012 have used:
+
+=over 4
+
+I<"While we don't all have the same experiences, skill levels, or upbringing, we 
+all deserve basic civility and respect. In other words, attack an idea but never 
+a person. Say whatever you want, but consider the context.">
+
+=back
+
+It's short and to the point, but conveys the right message. There is no need to 
+provide a list of words, topics or behaviour that are deemed unacceptable, as 
+that isn't what basic civility is about. It is about the care and consideration 
+of others.
+
+If you wish to provide a longer code of conduct, the organisers of YAPC::NA 2011 
+issued one on their website, which is reproduced in Appendix B.
+

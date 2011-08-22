@@ -1,6 +1,7 @@
 =head1 CONFERENCE ACCESSORIES
 
-Z<conference_accessories> While you're busy preparing funds, announcements and many other things, there 
+Z<conference_accessories> While you're busy preparing funds, announcements and 
+many other things, there 
 are additional smaller items that will need to be prepared in advance. Many can 
 be very last minute, and as such are often good to get volunteers helping with.
 
@@ -49,7 +50,7 @@ ensure you have most or all of the following (and think of a few of your own):
 
 =item * Scissors
 
-=item * Stanley knifes
+=item * Stanley knife
 
 =item * String
 
