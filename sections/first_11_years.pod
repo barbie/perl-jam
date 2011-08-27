@@ -130,3 +130,12 @@ Lisbon this time around, the familiar organisers of Jose, Alberto and Joana were
 behind it all. The event featured a host of talks and tutorials, and was the 
 first to have a successful Partner Programme.
 
+=head2 2011 - Modern Perl
+
+YAPC::Europe moved to the most Eastern city every, to Riga in Latvia. The
+conference was organized fully remotely by the members of Moscow.pm living in
+Amsterdam (Andrew Shitov), Moscow (Alex Kapranov) and Copenhagen (Dmitry Karasik).
+278 people, incuding Larry Wall and Damian Conway, attended the conference.
+A few steps were made to move all the conference materials and activities
+previously lived on paper to the internet. The crew hired aditional stuff to work
+on Wi-Fi and food in the venue.
