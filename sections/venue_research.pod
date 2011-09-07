@@ -347,12 +347,12 @@ are vegetarians, as non-vegetarians may not like the meat option provided.
 The Conference Dinner is always considered a "nice-to-have" and usually depends 
 on your level of sponsorship funding. However, it is a great opportunity to 
 gather together all the attendees on at least one evening for a meal. Usually 
-this happens on the second day of the conference, and, inh the case of YAPC::NA, 
+this happens on the second day of the conference, and, in the case of YAPC::NA, 
 is incorporated with the Auction.
 
 If you are hoping to provide a conference dinner for everyone, think about a 
 location where you'll be able to hold everyone for a sit down meal. Some 
-conferenc venues can accommodate the full assembly for a sit down meal, or you 
+conference venues can accommodate the full assembly for a sit down meal, or you 
 may have to investigate banqueting halls or hotels that can cater for everyone.
 
 This is not a necessity for your bid, but it's a nice touch, so it's often worth 
