@@ -43,9 +43,10 @@ The regular price for attendees
 
 =item * Early Bird Rate
 
-If you open registration several months before the conference, you may want to 
-encourage early payment to help with funding, so may want to offer a small 
-discount.
+You might also consider to introduce a discounted rate for early registrations.
+Early registrations are good way of generating early income and hence helping 
+you to initially finance the conference and to get an estimate on the expected
+attendance numbers.
 
 =item * Student Rate
 
@@ -54,13 +55,6 @@ a limited budget. These are our potential stars of the future, so if you can
 offer a reduced price, you may encourage them to attend. A reduced rate may also
 apply to local attendees if the average income in the host country is well
 below regional average.
-
-=item * Early Bird Rate
-
-You might also consider to introduce a discounted rate for early registrations.
-Early registrations are good way of generating early income and hence helping 
-you to initially finance the conference and to get an estimate on the expected
-attendance numbers.
 
 =item * Friend Of Perl Rate
 
