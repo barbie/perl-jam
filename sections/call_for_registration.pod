@@ -70,7 +70,7 @@ to enable students and our rising stars to attend the conference.
 
 As an alternative you may wish to promote a 'Send A Newbie' programme, which 
 accepts donations to cover flights and accommodations for those who would not be 
-able to attend without fincial help. The European 'Send A Newbie' programme was 
+able to attend without financial help. The European 'Send A Newbie' programme was 
 specifically setup to provide financial assistance to those who have never 
 attended a YAPC before.
 
