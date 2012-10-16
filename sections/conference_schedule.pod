@@ -61,6 +61,45 @@ stay over your allotted hours. Don't try to cram too much into your schedule. If
 you don't have the time or the rooms, having 5 minutes between talks and 
 starting at 8am is not a good solution.
 
+=head2 Strategic Schedule Choices
+
+Consider the following fixpoints for your schedule:
+
+=head3 Keynote immediately after registration on the first day
+
+Having the full assembly at the start has the following important benefits:
+
+=over 4
+
+=item *
+
+Your other rooms can be used as storage for items that are delivered before the
+conference starts but will be needed only later (Goodies, seating area, sponsor
+material to replace the registration area,food for the first break, etc.)
+
+=item *
+
+Only one room needs to be completely ready in the morning of the first day
+
+=item *
+
+Organisational announcements are seen by everyone
+
+=item *
+
+Delays due to the setup are easily centralized. No speaker can disrupt the
+schedule by starting early. Everybody has to wait.
+
+=back
+
+=head3 Keynote and Lightning Talks at the end of the conference
+
+Having a central talk at the end mirrors the benefits of the starting day.
+You can clean up and close the other rooms early. You get convenient storage
+for items that need to be out of the way. No attendees are around while you
+organize the retrieval and dismantling of equipment (catering, projector,
+sponsor booths, banners/guides, etc.)
+
 =head2 Accepting Talks
 
 Once you have your draft schedule, you'll need to contact all the speakers who 
