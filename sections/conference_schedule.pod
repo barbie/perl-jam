@@ -63,7 +63,7 @@ starting at 8am is not a good solution.
 
 =head2 Strategic Schedule Choices
 
-Consider the following fixpoints for your schedule:
+Consider the following fixed points for your schedule:
 
 =head3 Keynote immediately after registration on the first day
 
@@ -75,7 +75,7 @@ Having the full assembly at the start has the following important benefits:
 
 Your other rooms can be used as storage for items that are delivered before the
 conference starts but will be needed only later (Goodies, seating area, sponsor
-material to replace the registration area,food for the first break, etc.)
+material to replace the registration area, food for the first break, etc.)
 
 =item *
 

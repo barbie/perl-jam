@@ -98,14 +98,18 @@ may end up being more than one person, as specific responsibilities may require
 them to contact the venue for specific information. However, you should have at 
 least a primary contact who deals with the contract negotiation. Your venue 
 liaison will likely need to ensure that Wifi, power, catering, etc are all 
-planned and invoiced well in advance. Ideally the venue liaison will find
-a counterpart from the venue. The Venue Liaison should meet with that person
-to get introduced to the keypeople at the venue (janitor for keys/access to
-parking/rooms, missing tables,chairs,...; technician for cables, power etc.).
-Personal contact before the conference starts is important so you get a feel of
-how to addess these people and they ger a feel of what to expect. A good
-working relationship with those people is crucial as you need them for flexibly
-addressing the unplanned issues that will come up.
+planned and invoiced well in advance.
+
+Ideally the venue liaison will find a counterpart from the venue. The Venue
+Liaison should meet with that person and introduced themselves to the key
+people at the venue (janitor for keys/access to parking/rooms, missing tables,
+chairs, ...; technician for cables, power etc.).
+
+Personal contact before the conference starts is important, so you can get a
+feel of how to addess these people and they can get a better understanding of
+what to expect too. A good working relationship with venue staff is crucial
+as you will need to be flexible with them to address any unplanned issues
+that can occur.
 
 =head3 Accommodation Liaison
 

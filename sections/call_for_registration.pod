@@ -43,10 +43,11 @@ The regular price for attendees
 
 =item * Early Bird Rate
 
-You might also consider to introduce a discounted rate for early registrations.
-Early registrations are good way of generating early income and hence helping 
-you to initially finance the conference and to get an estimate on the expected
-attendance numbers.
+You might also consider introducing a discounted rate for early registrations.
+
+Early registrations are good way of generating early income and can help you
+to initially finance the conference. They can also give you an estimate on the
+potential attendance numbers.
 
 =item * Student Rate
 
