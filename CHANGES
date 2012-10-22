@@ -1,21 +1,24 @@
 Revision history for the book Perl Jam.
 ---------------------------------------
 
-0.05	current
+0.05	2012-10-22
 	- added a code of conduct.
+        - included patches from Max Maischein (Corion).
+        - included patches from Alex Muntada (alexm).
+        - some further rewording.
 
-0.04	21/08/2011
+0.04	2011-08-21
 	- link fix in Ch9.
 	- grammar fix in Ch4.
 	- decode entities for TOC in ePub script.
 	- included patches from Maroš Kollár (maros).
 	- spelling fixes and rewording.
 
-0.03	11/03/2011
+0.03	2011-03-11
         - 3rd draft - 1st public draft
 
-0.02	01/12/2010
+0.02	2010-12-01
         - 2nd draft
 
-0.01	01/09/2099
+0.01	2006-09-01
         - 1st draft
