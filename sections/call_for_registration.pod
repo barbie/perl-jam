@@ -43,9 +43,10 @@ The regular price for attendees
 
 =item * Early Bird Rate
 
-If you open registration several months before the conference, you may want to 
-encourage early payment to help with funding, so may want to offer a small 
-discount.
+You might also consider to introduce a discounted rate for early registrations.
+Early registrations are good way of generating early income and hence helping 
+you to initially finance the conference and to get an estimate on the expected
+attendance numbers.
 
 =item * Student Rate
 
@@ -55,13 +56,6 @@ offer a reduced price, you may encourage them to attend. A reduced rate may also
 apply to local attendees if the average income in the host country is well
 below regional average.
 
-=item * Early Bird Rate
-
-You might also consider to introduce a discounted rate for early registrations.
-Early registrations are good way of generating early income and hence helping 
-you to initially finance the conference and to get an estimate on the expected
-attendance numbers.
-
 =item * Friend Of Perl Rate
 
 This is where the ticket price covers that of the attendee and another that 
@@ -70,7 +64,7 @@ to enable students and our rising stars to attend the conference.
 
 As an alternative you may wish to promote a 'Send A Newbie' programme, which 
 accepts donations to cover flights and accommodations for those who would not be 
-able to attend without fincial help. The European 'Send A Newbie' programme was 
+able to attend without financial help. The European 'Send A Newbie' programme was 
 specifically setup to provide financial assistance to those who have never 
 attended a YAPC before.
 
