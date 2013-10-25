@@ -6,7 +6,7 @@ so many different ways. The projects, user groups and events all capture a
 different part of the community, but it wasn't until the late 90s that the 
 community started to co-ordinate their activities.
 
-In 1998 the first Perl Workshop took place in Germany, and in 1999 the first 
+In February 1999 the first Perl Workshop took place in Germany, and in June 1999 the first 
 YAPC Perl conference took place. These were the beginnings, but the events 
 themselves have grown and become further reaching than the initial core 
 developers that came along to those first events.
