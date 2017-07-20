@@ -1,10 +1,10 @@
 =head1 PLAN A BUDGET
 
-Z<budget_plan> Your budget is crucial. How much do you except your conference will cost? How 
-much sponsorship do you anticipate? How much do you expect to charge attendees? 
-How many paying attendees are you expecting? How many speakers are you expecting 
-to attend and for how many of them will you be paying for travel and/or 
-accommodation expenses?
+Z<budget_plan> Your budget is crucial. How much do you except your conference
+will cost? How much sponsorship do you anticipate? How much do you expect to
+charge attendees?  How many paying attendees are you expecting? How many speakers
+are you expecting to attend and for how many of them will you be paying for
+travel and/or accommodation expenses?
 
 Without an idea of your budget, you really have no idea how you are going to pay 
 for the conference. Your costs may be vastly different from other conferences, 

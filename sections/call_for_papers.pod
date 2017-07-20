@@ -1,17 +1,17 @@
 =head1 CALL FOR PAPERS
 
-Z<call_for_papers> The Call for Papers should be announced 4-6 months before the conference. This 
-gives speakers time to decide what talks they will submit. Give them at least a 
-month to respond, preferably longer. If you have decided on a conference theme, 
-announce that in the Call for Papers, as often speakers will write talks 
-specifically with your chosen theme in mind.
+Z<call_for_papers> The Call for Papers should be announced 4-6 months before the
+conference. This gives speakers time to decide what talks they will submit. Give
+them at least a month to respond, preferably longer. If you have decided on a
+conference theme, announce that in the Call for Papers, as often speakers will
+tailor their talks specifically with your chosen theme in mind.
 
 Do you have any specific talks or topics you'd like to have? If so list them in 
-the Call for Papers. Also do not be afraid to approach some well know speakers 
+the Call for Papers. Also do not be afraid to approach some well known speakers 
 and ask whether they would give a presentation on the subject you want. Some may 
-be reluctant, but others will be glad to given an subject to work on.
+be reluctant, but others may be glad to be given a specific subject to work on.
 
-There maybe several topics that you can already assume you will get submissions 
+There may be several topics that you can already assume you will get submissions 
 for (e.g. Perl6 and Moose), but you will likely get submissions for related 
 topics that you didn't expect. Take advantage of this and schedule common topics 
 into a single track, even if they only cover single morning or afternoon on one 
@@ -60,9 +60,10 @@ entrants.
 
 =head2 Talk Submissions
 
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
 Ensure you include all the details of how speakers should submit their talks. 
-Preferably have an online form which includes all the questions you need. These 
-should include:
+Preferably have an online form which includes all the all the questions and
+information you need from the speakers. These should include:
 
 =over
 
@@ -95,5 +96,6 @@ a flip chart or something else.
 These should provide you with enough background for each talk, to be able to see 
 whether they relate to other talks or conflict with other talks. If two talks 
 look likely to be exactly the same, you may wish to contact the speakers and see 
-whether they wish to make a joint submission.
+whether they wish to make a joint submission, or rework their talks for beginner
+and advance audiences, so they can flow from one to the other.
 

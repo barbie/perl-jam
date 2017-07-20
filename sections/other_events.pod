@@ -1,9 +1,10 @@
-=head1 YAPCS, WORKSHOPS & HACKATHONS
+=head1 CONFERENCES, WORKSHOPS & HACKATHONS
 
-Z<other_events> Although the first YAPC was in 1999, ten years later in 2009 we now had 5 YAPC 
-specific conferences (YAPC::NA, YAPC::Europe, YAPC::Asia, YAPC::Brazil and 
-YAPC::Russia), with OSDCs now also making their mark (Australia, Israel, 
-France).
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+Z<other_events> Although the first YAPC was in 1999, ten years later in 2009 we
+had 5 Perl specific conferences (YAPC::NA, YAPC::Europe, YAPC::Asia,
+YAPC::Brazil and YAPC::Russia), together with OSDCs now also making their mark
+(Australia, Israel, France) too.
 
 The German Perl Workshop is recognised as the first workshop (17-19 February 
 1999) dedicated specifically to Perl, and was organised mainly to attract German 
@@ -12,7 +13,7 @@ presentation too. However, it started a trend that has since continued across
 Europe, where the local country has organised their own workshops, with 
 presentations predominantly in their own language. This has the benefit of 
 attracting attendees to the community who don't speak English, and/or who are 
-unable to attend a YAPC.
+unable to attend a major Perl conference.
 
 Workshops and Hackathons now feature across the world, and while the native 
 language may have instigated some, many now are more about building on national 
@@ -29,13 +30,13 @@ support. Likewise for students who might otherwise have educational commitments
 that they cannot avoid.
 
 Hackathons are traditionally a more low-key event, with a very limited number of 
-places. They typically have a single focus, such as Perl 6, Parrot or Quality 
-Assurance (QA), and are aimed at attracting more experienced programmers, with 
-often a very high degree of technical input.
+places. They typically have a single focus, such as Perl 6, Parrot, Quality 
+Assurance or The Perl Toolchain, and are aimed at attracting more experienced
+programmers, with often a very high degree of technical input.
 
-Both Workshops & Hackathons are a great way to learn how to put together a YAPC, 
-as in many respects there are common organisational requirements (venue, 
+Both Workshops & Hackathons are a great way to learn how to put together a
+conference, as in many respects there are common organisational requirements (venue, 
 accommodation, food, etc). However, it isn't necessary for you to have done 
-something else before bidding for a YAPC, it just gives you some idea of what is 
-involved.
+something else before bidding to host one of The Perl Conference events, it just
+gives you some idea of what is involved.
 

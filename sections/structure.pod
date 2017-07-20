@@ -1,7 +1,7 @@
 =head1 Structure of This Book
 
-Z<structure> The chapters of the book are meant to follow the timeline from the 
-initial idea through to the tying up of any loose ends of your conference.
+Z<structure> The chapters in this book are meant to follow the timeline from the 
+initial idea through to the tying up of any loose ends of your conference or event.
 
 =over 
 
@@ -19,24 +19,25 @@ that you will need to ensure are completed for your proposal.
 
 The six month period roughly twelve to six months before the event, is often the 
 most daunting. This chapter covers the tasks you'll need to start immediately 
-after winning the bid, including the venue, communication, promotion and 
-sponsorship.
+after winning the bid, including the topics regarding the venue, communication,
+promotion and sponsorship.
 
 =item * Chapter 4 : THE PREPARATION (the Last Six Months)
 
-In the six months immediately prior to your event, event promotion, 
-announcements, as well as many other the final preparations all need to be in 
-hand. You also need to attract speakers and attendees to your event.
+In the six months immediately prior to your event, your event promotion, 
+including regular announcements, as well as many other the final preparations
+all need to be in hand. You also need to be attracting speakers and attendees
+to your event.
 
 =item * Chapter 4 : THE EVENT
 
-During the event itself ensure everything runs smoothly. Keep your sponsors, 
-speakers and attendees happy and you can't go wrong.
+During the event itself ensure everything runs smoothly. Keeping all your
+sponsors, speakers and attendees happy, is tough, but worth it in the end.
 
 =item * Chapter 5 : THE AFTERMATH
 
 What happens after the event? Remember it's important to say thank you, and 
-tie up loose ends.
+tie up any loose ends.
 
 =item * Chapter 6 : THE HISTORY
 
@@ -49,7 +50,12 @@ References and resources that may be useful for you while organising your event.
 
 =item * Appendix B : CODE OF CONDUCT
 
-An example Code of Conduct created by the organisers of YAPC::NA 2011.
+An example Code of Conduct. In recent years, it has become important for some
+events to establish what is acceptable at their event. Events should be
+inclusive and safe environments to discuss ideas, present or even be a part
+of the audience.
+
+created by the organisers of YAPC::NA 2011.
 
 =back
 

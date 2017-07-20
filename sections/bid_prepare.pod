@@ -1,11 +1,16 @@
 =head1 PREPARE YOUR BID
 
-Z<bid_prepare> With your initial team assembled, research in progress and a budget outline, 
-you're now in a position to begin preparing your bid proposal. Many bid 
-submissions from previous years are now online, so it is very worthwhile 
-reviewing these from the TPF or YEF sites. They will provide great examples of 
-the kinds of things you are expected to include. But what goes into a proposal? 
-As a bare minimum, in your document you should include the following:
+Z<bid_prepare> With your initial team assembled, research in progress and a
+budget outline, you're now in a position to begin preparing your bid proposal.
+Many bid submissions from previous years are available online, so it is very
+worthwhile reviewing these. If you're not able to find previous bids, ask the
+venue committee to point you towards past examples. Remember that the venue
+committee themselves are made up of previous organisers and are there to help
+you make a successful bid.
+
+Previous bids provide great examples of the kinds of things that the venue
+committee are expecting you to include in your bid. But what NEEDS to go into a
+proposal?  As a bare minimum, your bid document should include the following:
 
 =over
 
@@ -20,8 +25,8 @@ background to your venue's suitability. You can mention you have other choices,
 but focus on your primary venue.
 
 =item * B<Transportation> - describe notable transport infrastructure, together 
-with rough costs and travel time for taxis, buses, trains and metros between 
-airport, accommodation and venue.
+with rough costs (if you can) and travel time for taxis, buses, trains and metros
+between airport, accommodation and venue.
 
 =item * B<Accommodation> - highlight where hotels/hostels/dorms are in relation 
 to your venue, and some idea of cost for a single room and double room for 
@@ -47,7 +52,7 @@ themselves.
 After all the research, you'll now need to assemble it all into a document that 
 can be submitted to the venue committee. How you present the document is 
 entirely up to you, but at the very least provide a standard formatted document 
-file, e.g. PDF, Office Document (MS Word or Open Office Writer), POD file or 
+file, e.g. PDF, Office Document (MS Word or Libre Office Writer), POD file or 
 plain text file. In addition you may wish to supply a link to a website or wiki 
 with further information and videos or photo galleries to provide visual 
 examples of the location, venue, etc.
@@ -76,10 +81,11 @@ you are planning to propose with your primary (and secondary) choice of venue to
 ensure that they have those dates available to you.
 
 Dates are not just important for booking the venue, but also for getting your 
-attendees to come to your conference. Do you have any special world famous 
-events taking place before or after your conference? Are hotel and flight costs 
-going to reflect that? For example, flying to or via a country hosting the World 
-Cup can increase flight costs alone by 4 or 5 times.
+attendees to come to your conference. Do you have any special world or national 
+famous events taking place before or after your conference? Are hotel and flight
+costs going to reflect that? For example, flying to or via a country hosting the
+World Cup around the time of your event can increase flight costs alone by 4 or
+5 times.
 
 However, local celebrations may also be a good reason to persuade attendees to 
 bring partners and/or extend their stay to take in more of your city. Munich 
@@ -103,7 +109,8 @@ Are there any interesting facts about your city/town that attendees might not
 know? Toronto had all the Rush (the band) haunts to visit, both Toronto and 
 Buffalo had Niagara Falls close by, Birmingham had the history of JRR Tolkien 
 (Perrott's Folly and Sarehole Mill) and Shakespeare (Stratford-upon-Avon) to 
-draw on, Chicago has The Sears Tower and Paris is Paris :)
+draw on, Chicago had The Sears Tower (now The Willis Tower) and well Paris is
+Paris!
 
 Check out some of the local history, there's always something hidden away that 
 might be a fun fact to help promote your event.
@@ -135,8 +142,8 @@ so any additional material that supports your bid is often very welcome.
 
 When you submit your proposal, the venue committee will begin to discuss 
 it, together with all the other proposals they have received. Their aim is to 
-give the opportunity of hosting a YAPC to the team that they feel will provide 
-the best conference possible. As such, they are not going to dismiss your 
+give the opportunity of hosting a conference to the team that they feel will
+provide the best conference possible. As such, they are not going to dismiss your 
 proposal simply because you have not mentioned something that they feel is 
 important. Rather they will compile additional questions that you will need to 
 answer promptly.

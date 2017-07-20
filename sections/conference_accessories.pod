@@ -1,9 +1,10 @@
 =head1 CONFERENCE ACCESSORIES
 
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
 Z<conference_accessories> While you're busy preparing funds, announcements and 
-many other things, there 
-are additional smaller items that will need to be prepared in advance. Many can 
-be very last minute, and as such are often good to get volunteers helping with.
+many other things, there are additional smaller items that will need to be
+prepared in advance. Many can be very last minute, and as such are often good to
+get volunteers helping with.
 
 =head2 Venue signs
 
@@ -122,7 +123,7 @@ ensure you have most or all of the following (and think of a few of your own):
 
 =over
 
-=item * Blank CDs
+=item * Blank writeable CD/DVDs
 
 =item * Towel
 
@@ -132,7 +133,7 @@ ensure you have most or all of the following (and think of a few of your own):
 
 =item * Torches (flashlights)
 
-=item * Metal coat hanger
+=item * Metal coat hangers
 
 =item * Paper cups
 

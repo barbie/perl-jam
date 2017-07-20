@@ -1,11 +1,12 @@
 =head1 ESTABLISH YOUR TEAM
 
-Z<team_building> No-one can organise a YAPC on their own. You don't need a big team, but many 
-hands make light work :) While you may have a core team, you should look to 
-recruit others who can help with some of the smaller tasks. That's not 
-to say that you need 20 or so people. Most groups usually have two to four key 
-individuals that make the decisions and a few more that help with specific 
-tasks.
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+Z<team_building> No-one can organise a conference on their own. You don't need a
+big team, but many hands make light work. While you may have a core team, you
+should also look to recruit others who can help with some of the smaller tasks.
+That's not to say that you need 20 or so people. Most groups usually have two to
+four key individuals that make the decisions and a few more that help with
+specific tasks.
 
 Also, remember that not everyone in your team needs to be local. Many tasks can 
 be performed remotely, even in another country, as there is plenty of online 
@@ -13,7 +14,7 @@ communication required via email and websites.
 
 Within the team, each person needs to be responsible for at least one 
 significant role. They may be responsible for more than one, but ensure you 
-spread the load. If one person gets allocated responsiblity for the most 
+spread the workload. If one person gets allocated responsiblity for the most 
 time-consuming roles, you are likely to either fall behind or lose that person's 
 input completely if they feel like they've been stitched up.
 
@@ -23,7 +24,7 @@ input completely if they feel like they've been stitched up.
 
 This document uses the familiar 'you' in many cases when referring to tasks. 
 However, if you are the primary organizer, this really means you and your team. 
-Pulling off a YAPC really requires that you have a team of dedicated people 
+Pulling off a conference really requires that you have a team of dedicated people 
 helping you.
 
 If you don't have a team of helpers, you really need to get one. Ask the members 

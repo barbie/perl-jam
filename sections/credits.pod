@@ -1,9 +1,10 @@
 =head1 CREDITS & ACKNOWLEDGEMENTS
 
-Z<credits> The original author of the YAPC.pm document, which was the original inspiration 
-for this book, was Kevin A. Lenzo, the man who instigated the whole Perl 
-grassroots conference experience with the very first YAPC. Kevin released the 
-document to CPAN, alongside creating the Yet Another Society (YAS) organisation. 
+Z<credits> The original author of the YAPC.pm document, which was the original
+inspiration for this book, was Kevin A. Lenzo, the man who instigated the whole
+Perl grassroots conference experience with the very first YAPC. Kevin released
+the document to CPAN, alongside creating the Yet Another Society (YAS)
+organisation. 
 
 A second release was made by Jim Brandt, when the document was taken over by The 
 Perl Foundation and was made available on the TPF Google Code repository. After 
@@ -13,15 +14,17 @@ adding many more aspects to all sections of organisation.
 However, there are many people beyond the principal authors of that document, 
 who have helped to contribute ideas and experiences for this book. All the 
 previous organisers of all the YAPCs from all around the world, as well as their 
-attendees, have all helped to shape the YAPC story, whether they knew it or not!
+attendees, have all helped to shape the YAPC/TPC story, whether they knew it or
+not!
 
-Many thoughts and suggestions have been gleened from the YAPC Conference 
-Surveys, which have now been running successfully for YAPC::Europe since 2006.
+Many thoughts and suggestions have been gleened from The Conference Surveys
+website, which has now been running successfully since 2006 for YAPC::Europe.
 
-This book is intended to be a living document of how to organise a YAPC, so that 
-it can grow with the lessons learnt and new ideas from future conferences. If 
-you have any ideas and suggestions for improving the content, please contact 
-Barbie (barbie@cpan.org) with details.
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+This book is intended to be a living document of how to organise a (Perl)
+conference, so that it can grow with the lessons learnt and new ideas from
+future conferences. If you have any ideas and suggestions for improving the
+content, please contact Barbie (barbie@cpan.org) with details.
 
 [to be added: photo credits, contributors, technical reviewers]
 

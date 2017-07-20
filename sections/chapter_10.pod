@@ -10,20 +10,20 @@ Perl programmer at tw2.com in Birmingham. Encouraged by I<Richard Clamp> and
 I<Dave 'The Goth' Thorn>, he became involved with the London Perl Mongers and 
 then along with I<Mike Bissett> co-founded the B<Birmingham Perl Mongers>.
 
-After attending the first YAPC::Europe in 2000, in London, Barbie is now only 
-one of a few who have attended every YAPC::Europe event since. After organising 
-the 2006 YAPC::Europe Perl Conference, he decided to write down all the things 
-that he felt future organisers should prepare themselves for. This book has been 
-several years in the making, and will likely never be finished. But he says it 
-has been fun :)
+Since 2000, after attending the first YAPC::Europe in London, Barbie is one of
+only few attendees that managed to attended every YAPC::Europe event up to,
+and including the 2012 event in Frankfurt, Germany. After organising the 2006
+YAPC::Europe Perl Conference, he decided to put pen to paper and write down all
+the things that he felt future organisers should prepare themselves for. This
+book has been many years in the making, and will likely never be finished. But
+he says it has been fun!
 
 =head1 THE NAME
 
 It may surprise you to know that Barbie is actually the author's real name. How 
 the name Barbie came about is a long story, and maybe if you buy him a Guinness 
-at 
-a future conference, workshop or large technical event, he might tell you it. It 
-might not be the true story, but it will be a long story ;)
+at a future conference, workshop or large technical event, he might tell you it.
+It might not be the true story, but it will be a long story ;)
 
 =head1 WHY PERL JAM?
 
@@ -33,3 +33,4 @@ jam session. We ultimately organised the YAPC::Europe event in 2006, but the
 name still hung around with the possibility for using for a hackathon of some 
 kind. After Steve asked if anyone wanted the domain, perljam.info, it seemed to 
 be an ideal fit for the name of the book.
+

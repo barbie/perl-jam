@@ -1,8 +1,8 @@
 =head1 TIMELINE 1 - THE BID
 
-Z<timeline1> Below are the main events in the conference bid life-cycle. Refer to this as 
-you prepare your bid to keep yourself on track. The sections in this chapter 
-explain more fully the details of each step.
+Z<timeline1> Below are the main events in the conference bid life-cycle. Refer
+to this as you prepare your bid to keep yourself on track. The sections in this
+chapter explain more fully the details of each step.
 
 Ensure you time the end dates for any submissions, presentations and 
 announcements carefully, so you are not rushing to complete them.
@@ -11,7 +11,8 @@ announcements carefully, so you are not rushing to complete them.
 
 =item * Prepare Your Team
 
-You shouldn't try this on your own, try and get a team together.
+You should not try this on your own! Wherever possible try and assemble a team
+together, even if there are only 2 or 3 of you.
 
 =item * Research Your Venue
 

@@ -2,9 +2,9 @@
 
 This chapter takes a look at some of the history of how the Yet Another Perl 
 Conference events started, where they've taken us and where they're going. 
-Although these are specifically YAPC::NA and YAPC::Europe events, there are many 
-other YAPCs and OSDC events now, as well as many Perl Workshops and Hackathons, 
-which all help to fill the calendar all year round.
+Although this history discusses specifically YAPC::NA and YAPC::Europe events,
+there are many other TPC, YAPC and OSDC events now, as well as many Perl
+Workshops and Hackathons, which all help to fill the calendar all year round.
 
 Some YAPCs have since been incorporated into OSDC events. YAPC::Israel started 
 in 2003, and became OSDC::Israel in 2006, while YAPC::Australia has been a 
@@ -31,6 +31,10 @@ While not specifically about Perl, the OSDC events are very much on the same
 scale as a YAPC. The majority feature Perl as a main track, but their aim is to 
 cover a lot more than just Perl or the Perl community.
 
+In 2016, as mentioned earlier in the book, the North American and European YAPCs
+were renamed to The Perl Conference, and are now the two largest Perl dedicated
+events on the conference calendar.
+
 L<first_11_years>
 
 L<other_events>
@@ -38,20 +42,20 @@ L<other_events>
 =head1 HELP IS AT HAND
 
 Having read through this book, you could be forgiven for thinking organising a 
-YAPC is something you're not cut out for, but all it really takes is a bit of 
-enthusiasm and some friends. There are now plenty of people who are previous 
-organisers, who are more than happy to offer advice if you ask them. There are 
-the venue committees of TPF (YAPC::NA) and YEF (YAPC::Europe), who would be 
-delighted to offer encouragement where they can. There are now plenty of 
-resources online to help guide you through the process. Hopefully this book is 
-another helping hand.
+Perl conference is something you're not cut out for, but all it really takes is
+a bit of enthusiasm and some friends. There are now plenty of people who are
+previous organisers, who are more than happy to offer advice if you ask them.
+There are the venue committees of TPF (TPC in North America) and YEF (TPC in
+Europe), who would be delighted to offer encouragement where they can. There
+are now plenty of resources online to help guide you through the process.
+Hopefully this book is another helping hand.
 
-As has been proved several times over, anyone can put on a YAPC. You don't need 
-any special skills. This book should point you in the right directions whenever 
-you need it, but mostly its an aide-memoir to the bits and pieces that you might 
-otherwise forget or be unaware of. In general terms, pretend it has the words 
-"DON'T PANIC" emblazoned across the cover, and keep it handy as a reference when 
-you wake up in the night thinking you have forgotten something important. You 
-probably haven't, but just in case .... :)
+As has been proved several times over, anyone can put on a conference. You don't
+need any special skills. This book should point you in the right directions
+whenever you need it, but mostly its an aide-memoir to the bits and pieces that
+you might otherwise forget or be unaware of. In general terms, pretend it has
+the words "DON'T PANIC" emblazoned across the cover, and keep it handy as a
+reference when you wake up in the night thinking you have forgotten something
+important. You probably haven't, but just in case .... :)
 
 L<credits>

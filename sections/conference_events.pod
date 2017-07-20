@@ -1,8 +1,8 @@
 =head1 CONFERENCE EVENTS
 
 Z<conference_events> The following are all activities that can take place during 
-the conference. Some 
-are nice to have, so don't feel pressured to provide all of them.
+the conference. Some are nice to have, so don't feel pressured to provide all of
+them.
 
 =head2 Day Trips & Partner Programmes
 
@@ -82,19 +82,25 @@ have an additional charge for guests, please ensure that attendees know this in
 advance. For Birmingham, our funds increased dramatically in the last few weeks, 
 which meant we could invite all the guests free of charge.
 
-In previous years, YAPC::Europe has had a "Speakers Dinners", which, while 
-certainly a nice idea to thank the speakers, only served to segregate the 
-attendees from the speakers. It meant attendees were deserted for a night and 
-left to fend for themselves. If you weren't part of the "cabal", and it was your 
-first time at a YAPC, it was a bad experience. Avoid any such dinners during 
-the conference wherever possible. Chicago held a Speakers' Party after the 
-conference, which was a much better time to host it, as many attendees were 
-already making their way home by then, and of those attendees staying they had 
-made new friends and knew the area well enough to not feel ignored.
+In the early years, both European and North American Perl conferences have held
+a "Speakers Dinners". While this is certainly a nice thank you to the speakers,
+you also need to be careful not to segregate and alienate the attendees from the
+speakers. In the past it has meant regular attendees were deserted for a night
+and left to fend for themselves. If you weren't part of the "in-crowd",
+particularly if it was your first time at a large conference, it didn't make for
+a good experience.
+
+If you wish to hold a Speaker's Dinner, try and arrange something outside of the
+conference timetable wherever possible. Both Chicago and Houston have held a
+Speakers' Party after the last day of the conference, as many speakers were
+international and had plans to fly home over the following days, while most of
+the regular attendees were already making their way home. Any attendees
+remaining longer by now had made new friends and at least knew the area well
+enough to not feel ignored.
 
 If time and the dinner venue permits, an entertainment program, such as the 
-Geek-Quiz held at YAPC::EU 2009 in Lisbon, can be a great idea to encourage 
-attendees to get to know each other, as well as providing more of an incentive 
+Geek-Quiz held in Lisbon, can be a great idea to encourage attendees to break
+the ice and get to know each other, as well as providing more of an incentive 
 for people to remain at the venue socialising.
 
 =head2 Other Evenings
@@ -110,19 +116,32 @@ will not know anyone else. Be inclusive wherever possible.
 
 =head2 Conference Auction
 
-The auction is now a tradition with YAPCs. However, they vary in style from 
-region to region. YAPC::NA holds their auction during the conference dinner, 
-while YAPC::Europe typically holds theirs at the end of a conference day 
-(Usually last day, but first day has also worked great, since many attendees 
-leave early on the last day). 
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+The auction are somewhat of a tradition with some Perl conferences, and while
+they were initially used a means to raise funds for the organisers to cover
+outstanding expenses, with the success of sponsorship in more recent years, the
+auctions have been used to help raised funds for Perl projects and other events.
 
-Not everyone will understand what the auction is about, especially some of the 
-bizarre items in the European auction, so take the time to explain it. In recent 
-years many attendees are coming to YAPCs for the first time and don't know the 
-history and humour. Not everyone will participate in the auction, even on the 
-boat in Toronto many people didn't participate in the auction, even though they 
-were a captive audience. Some will want to help out by bidding on cool books and 
-t-shirts, but not everyone will have large amounts of cash to donate.
+However, don't feel you need to include an auction, if you don't have an
+abundance of items to put up for auction.
+
+Auctions can vary in style from region to region, and often rely on high profile
+characters from the community to set the scene and make the auction into a fun
+event. North America usually hold their auction during the conference dinner,
+while European events typically hold it at the end of the last day of the
+conference. Whenever you schedule it, be mindful to keep it to a tight time
+schedule. Not everyone has money to splash, and keeping people interested after
+the tenth or twentieth book is hard.
+
+Be mindful that many attendees will not understand what the auction is about,
+especially some of the bizarre items that have appeared in the European auctions,
+so take the time to explain it. First time attendees will not necessarily know
+the history and humour of the auctions.
+
+Not everyone will participate in the auction. On the boat around Toronto harbour,
+many people didn't participate in the auction, even though they were a captive
+audience. Some will want to help out by bidding on cool books, t-shirts, and
+unusual items, but not everyone will have large amounts of cash to donate.
 
 Consider having a silent auction, where you can side line large numbers of books 
 and t-shirts and the more sedate auction items, for attendees to bid on away 
@@ -134,14 +153,23 @@ prices rising :)
 The regular auction should only feature some of the more rare or unusual items, 
 which is what makes the auction fun and exciting and hopefully something to 
 remember. Signed copies of books, special t-shirts, abstract items for the next 
-YAPC (hair colour, logo designs) and dedications in code have all been good 
+conference (hair colour, logo designs) and dedications in code have all been good 
 money spinners in the past.
 
-Do you know a good auctioneer? The established YAPCs have several people who 
-have now taken on the role of auctioneer, so you may well have several people 
-who could help you with this. However, for your event, you may not have any of 
-those people attending, so if any of your team or attendees are willing to get 
-up and auctioneer. It also helps to have auction software that can keep track of 
-bids. R Geoffery Avery has developed software used at YAPC::NA and YAPC::Europe, 
-that may be of use.
+Do you know a good auctioneer? The established events have had several people who 
+have taken on the role of auctioneer, so you may well have several people who
+could help you with this. However, for your event, you may not have any of those
+people attending, so if any of your team or attendees are willing to get up and
+auctioneer.
+
+The auctioneer needs to be in control of the auction at all times. Don't be
+persuaded to allow random people to take the mic, and potentially side-track the
+purpose and timeslot of the auction. They must be able to halt any inappropriate
+language or behaviour, and keep the audience entertained and engaged throughout.
+
+In a live auction make use of runners. The auctioneer should be able to identify
+the winning bid, but then allow someone else to handle the money transaction,
+while the auctioneer moves onto the next item. Keep the momentum going, and if
+the pace and interest starts to lag, consider ending the auction early if you
+have no further exciting items to offer.
 

@@ -2,17 +2,17 @@
 
 =head2 Pre-Registration & Registration
 
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
 Z<conference_organisation> It is always worthwhile opening up pre-registration 
-the evening before the 
-conference. Many people will arrive early, and the more conference material you 
-can distribute before the day, the less time you'll be tied up registering 
-people on the first morning. Your time will be precious on the first morning, so 
-the less you have to do the better.
+the evening before the conference. Many people will arrive early, and the more
+conference material you can distribute before the day, the less time you'll be
+tied up registering people on the first morning. Your time will be precious on
+the first morning, so the less you have to do the better.
 
 Whether you use the venue, a nearby bar or the conference accommodation, make 
 sure you give yourself plenty of time to set up. Remember that the early 
 arrivals will want to meet and greet other attendees. Unless you're able to 
-arrange pre-registration in a environment that provides food and drink, you'll 
+arrange pre-registration in an environment that provides food and drink, you'll 
 find that once attendees have registered, they will leave you and head elsewhere 
 to socialise. You also need to eat, so ensure your team can rotate registration 
 duties.
@@ -42,8 +42,9 @@ for people to help themselves.
 
 =head3 Support Staff (Runners & Timekeepers)
 
-Runners are those people who you can call on at the last minute, preferably one 
-has a car, to go and get stuff for you. Whether these are last minute items 
+Runners are those people who you can call on at the last minute. Preferably at
+least one of them should have a car, parked close by, who you can send on
+errands to collect or buy additional items. Whether these are last minute items 
 you've forgotten, or picking important speakers up from the airport/station or 
 some other urgent need, they will be a blessing to you. Ensure their car parking 
 is provided free, and that they can park as close to the venue as possible.
@@ -61,7 +62,7 @@ attention may be otherwise engaged. Plus, having someone who isn't interested in
 the conference watching the desk means you can see some of the talks (although 
 you shouldn't really expect to be so lucky). 
 
-If your venue is accessible to the public you might also consider having a 
+If your event is to be videoed or streamed live you might also consider having a 
 helper in each auditorium to attend to the microphones, data projectors, cameras 
 and to handle the timekeeping and various issues that might arise. If the venue 
 is open to the public, it may well be worth having a member of staff in the room 
@@ -78,9 +79,8 @@ All your catering should be in hand, however, there are always questions and
 requests. Most attendees will ask the catering staff directly, but occassionally 
 you will get asked. Try and direct them to support staff wheverever possible, 
 but act as a gobetween if needed with the catering staff. Clearly labeling the 
-food options
-(see also dietary requirements) significantly reduces the need to ask many 
-catering-related questions.
+food options (see also dietary requirements) significantly reduces the need to
+ask many catering-related questions.
 
 If there is a language barrier it may simply need someone to translate requests 
 to the catering staff.
@@ -94,5 +94,6 @@ plan of action to follow in the event of such problems. Know who at the venue
 can perform repairs or whom to call quickly. If appropriate and possible, have 
 some common spare parts ready.
 
-Degratation of the wireless internet conection can be an issue, and having 
-a seperate fallback internet connection (e.g. via 3/4G) may be an option.
+Degradation of the wireless internet connection can be an issue, and having 
+a seperate fallback internet connection (e.g. via 3G/4G) may be an option.
+

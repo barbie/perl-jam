@@ -1,11 +1,12 @@
 =head1 LAUNCH YOUR WEBSITE
 
-Z<website_launch> If you haven't already done so, you will need to launch your website at least 
-six months before your conference. The website will be your primary method of 
-promoting the conference to sponsors, speakers, attendees and, perhaps most 
-importantly of all, to companies that will be sending their employees to your 
-conference. If the website looks a mess, it makes the employee's job much much 
-harder to convince their boss why they should attend.
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+Z<website_launch> If you haven't already done so, you will need to launch your
+website at least six months before your conference. The website will be your
+primary method of promoting the conference to sponsors, speakers, attendees and,
+perhaps most importantly of all, to companies that will be sending their
+employees to your event. If the website looks a mess, it makes the employee's
+job much much harder to convince their boss why they should attend.
 
 ACT now has lots of functionality to make managing the content of the website 
 much easier, but you still need someone to design templates and logos that will 
@@ -30,7 +31,7 @@ hotels, from the main hotels to the venue and, if applicable, from the venue to
 the social meetups (including the Conference Dinner if there is one). Use the 
 photos to highlight landmarks or signs that travellers need to be watchful for. 
 Travel the routes yourself and make notes on which exit you take and any left or 
-right turn you make out of a  building. Remember that small details count, as 
+right turn you make out of a building. Remember that small details count, as 
 your attendees may well take a wrong turn because you haven't made it clear 
 where they need to go.
 
@@ -38,12 +39,13 @@ Put the guide up on your website and reference it in newsletters. Attendees will
 often print the pages in advance, so try to create a minimal print version or 
 PDF, if you can.
 
-Maps are also useful. If you can, create a Google Map with pin-points to 
-identify key places, such as the venue, hotels and transport points. In 
-addition, you can include places to eat, drink and sightsee, as your attendees 
-will appreciate these too. If you can find links to campus maps (if your venue 
-is a educational establishment) or venue maps that identify the building in 
-which you are hosting the event, include these as additional online links.
+Maps are also useful. If you can, create an online reference map (e.g. by using
+Google Maps or Open Street Map) with pin-points to identify key places, such as
+the venue, hotels and transport points. In addition, you can include places to
+eat, drink and sightsee, as your attendees will appreciate these too. If you can
+find links to campus maps (if your venue is an educational establishment) or
+venue maps that identify the building in which you are hosting the event,
+include these too as additional online links.
 
 Provide links to any online transport maps and city maps, hosted by official 
 train and bus companies or local government websites. This provides attendees 

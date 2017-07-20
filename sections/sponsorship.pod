@@ -1,11 +1,12 @@
 =head1 FIND SPONSORS
 
-Z<sponsorship> Sponsorship is likely to be your biggest source of income for your event. While 
-registration fees will cover a good portion of costs, you will need to find 
-sponsors both big and small to help cover the remaining costs.
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+Z<sponsorship> Sponsorship is likely to be your biggest source of income for
+your event. While registration fees will cover a good portion of costs, you will
+need to find sponsors both big and small to help cover the remaining costs.
 
 While some organisations and businesses are often very sympathetic to the aims 
-of a YAPC Conference, some will also need convincing. Those who have either 
+of a Perl Conference, some will also need convincing. Those who have either 
 sponsored a conference previously, or have a sponsorship programme may well be 
 your first priority. After that, look for companies that have invested in Perl 
 for projects and jobs, as they may also be willing to help.
@@ -28,7 +29,7 @@ in terms of a logo on your website, name mentioned in the press releases and
 such like. However, what additional benefits you apply is largely covered either 
 by what you can offer, or simply on the monetary value that a sponsor provides.
 
-While small contributions are still valuable to you, yout focus should be on 
+While small contributions are still valuable to you, your focus should be on 
 large cash donations. The split between levels is down to you and how you plan 
 to cover your budget. When you approach a sponsor try and gauge the level you 
 expect them to be at and tone your proposition accordingly. For example, a 
@@ -73,7 +74,7 @@ that many attendees are likely to be arriving from, so they have an easy access
 to promote themselves to a target audience.
 
 These sponsors are not necessarily at the same level as your corporate sponsors, 
-but are often have a sponsorship or marketing budget that they would use to make 
+but often have a sponsorship or marketing budget that they would use to make 
 donations.
 
 =head3 National Sponsors
@@ -95,7 +96,7 @@ small businesses. Some may have a very small budget with which they can be cash
 sponsor, but some may be willing to offer reductions in their services (tshirt, 
 leaflet or booklet printing) in return for promoting them. 
 
-Remeber your website is likely to get a high Google ranking compared to their 
+Remember your website is likely to get a high Google ranking compared to their 
 own website, so it can help raise their web profile if that is important to 
 them.
 
@@ -250,20 +251,22 @@ does make a difference if they can be associated with something specific. Naming
 a room after a sponsor, or associating them with the Conference Dinner are 
 typical examples for sponsors who make very large donations.
 
-If you feel comfortable with it, may also allow larger corporate sponsors a time 
-slot in your schedule to present a talk about themselves. As many attendees 
-could potentially be turned off by a blatant market talk, encourage the sponsor 
-too give a technical weighted talk about themselves or their product. Most of 
-the attendees are developers, and do not make decisions for their company, but 
+If you feel comfortable with it, you may also wish to allow larger corporate
+sponsors a time slot in your schedule to present a talk about themselves. As
+many attendees could potentially be turned off by a blatant marketing talk,
+encourage the sponsor to give a technically weighted talk about themselves or
+their product, perhaps a case study of how they've used Perl. Most of the
+attendees are developers, and do not make decisions for their company, but 
 they may have influence in suggesting a particular company.
 
-Some companies may wish to be involved in a Job Fair. Several YAPCs now feature 
-this as way to encourage additional smaller sponsorship. Many international and 
-nation business may wish to recruit IT developers, and you event may offer a 
-great incentive to talk to several people atonce.
+Some companies may wish to be involved in a Job Fair. Several Perl events now
+feature this as way to encourage additional smaller sponsorship. Many
+international and national businesses may wish to recruit IT developers, and
+your event may offer a great incentive to talk to several potential hires all
+at once.
 
-For large corporate sponsors you may also wish to provide free tickets to the 
-event for their staff. Perhaps four places for top level sponsors and two places 
+For large corporate sponsors you may wish to provide free tickets to the event
+for their staff. Perhaps four places for top level sponsors and two places 
 for second level sponsors. You could also offer places on any special classes 
 being held before and after your event with professional trainers.
 
@@ -291,8 +294,8 @@ importance. Suggested levels would be:
 You will often find these used at conferences, as they are a clear indicator of 
 the increasing sponsorship donation. Remember you are promoting a professional 
 conference so don't get too carried away with the naming. If a level isn't clear 
-to a sponsor they will likely not feel that they are not going to get the 
-benefits you are offering.
+to a sponsor they will likely not clearly see the benefits you are offering, and
+be less inclined to sponsor your event.
 
 =head2 Sponsorship Brouchure
 
@@ -303,17 +306,17 @@ contract document would then be sent.
 
 Your brochure should include detailed explanations of the packages for each 
 sponsorship level. Clearly outline what benefits you will offer, and what 
-monetary donations would expect to receive at each level. Provide a range rather 
-than a specific amount, with the bottom value being the sum you would expect for 
-that level of sponsorship. Some may pay more, but most will want to get the most 
-for as minimum possible.
+monetary donations you would expect to receive at each level. Provide a range
+rather than a specific amount, with the bottom value being the sum you would
+expect for that level of sponsorship. Some sponsors may pay more, but most will
+want to get the most for as minimum possible.
 
-You also need to include details about who you are, and what the event means to 
+You will need to include details about who you are, and what the event means to 
 the community. Some sponsors may never have heard of Perl or you, so they will 
 want some background to reassure them. Many larger sponsors may also want to get 
 an idea of the numbers and the types of people attending your conference. Take a 
-look at the YAPC Conference Surveys and glean as much information as you can to 
-support you.
+look at The Conference Surveys website and glean as much information as you can
+to support your numbers.
 
 =head2 Sponsorship Contract
 
@@ -326,6 +329,11 @@ The contract should outline the expectations of both parties.
 The original brochure and contract agreement used by Birmingham.pm, are now 
 available as templates for free download. See the Resources section in APPENDIX 
 A.
+
+With any contract agreement, you are advised to seek professional legal
+representation before agreeing a contract with another party. Some government
+funded entities exist that can provide support for this (e.g. The Citzens Advice
+Bureau in the UK), while some legal companies can provide pro-bono advice.
 
 =head2 Approaching Sponsors
 
@@ -350,7 +358,7 @@ organisations, who you think might be sympathetic to your event. Particularly if
 you know they use Perl and may be considering hiring soon.
 
 Once you have a brochure and website online, you are in a better position to 
-promote your sponsorship opportunities. Use social netowrking sites to get the 
+promote your sponsorship opportunities. Use social networking sites to get the 
 word out to anyone who may have contacts that could help you. Post on Twitter, 
 LinkedIn, Facebook and any suitable site that may increase your exposure.
 
@@ -365,8 +373,8 @@ sponsoring you, then getting to the right people early can ensure you get an
 early commitment.
 
 You may already know of local, national or even international businesses that 
-use Perl, but have never sponsored a YAPC before. Sometimes there might be a 
-good reason for this, but it may also be because they have never been 
+use Perl, but have never sponsored a Perl event before. Sometimes there might
+be a good reason for this, but it may also be because they have never been 
 approached. Remember that in many cases, the person who makes sponsor decisions 
 is unlikely to be a developer or even a technical user. Explain who you are and 
 why you are approaching them. If you know they use Perl, say so. The person you 

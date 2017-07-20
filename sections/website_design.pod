@@ -29,10 +29,10 @@ preferably) and have a more detailed sponsor page, which not only includes more
 details about your sponsors, but also provides information of how companies and 
 individuals can sponsor your event.
 
-Note that if you have chosen a theme for you conference, make sure you use it as 
+Note that if you have chosen a theme for your conference, make sure you use it as 
 a tag-line prominently. Aside from encouraging ideas for talks, it also gives 
 your event a level of branding. Use branding consistently with your style and 
 layout across the site, and include Perl and TPF/YEF logos as appropriate. This 
 will help corporate managers and sponsors identify with you, and feel reassured 
-that you are not an isolated event, but support by the whole community.
+that you are not an isolated event, but supported by the whole community.
 

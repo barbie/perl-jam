@@ -1,9 +1,8 @@
 =head1 CALL FOR REGISTRATION
 
 Z<call_for_registration> Many attendees will attend the conference regardless of 
-who will be speaking. 
-Many speakers and attendees will simply be attending to meet with collaborators 
-on various projects. Others may need convincing. 
+who will be speaking. Many speakers and attendees will simply be attending to
+meet with collaborators on various projects. Others may need convincing. 
 
 Conference Registration should open at least 2-4 months before the start of the 
 conference. If you're in a position to open earlier then you should do so, as 
@@ -18,11 +17,11 @@ get a rough idea of whether your anticipated capacity is going to be met.
 You should note that Conference registration is not the same as website 
 registration. Within ACT (and other systems) many people will have high hopes of 
 attending, and register their intentions to attend, but until they actually pay 
-for the conference registration you won't know whether they will attend or not. 
-Technically you still won't know, but at least you have the money!
+the Registration Fee you won't know whether they will attend or not. Technically
+you still won't know, but at least you have the money!
 
-Detail how people can register and pay for their conference tickets. Also 
-outline your pricing structure. How many ticket prices you have depends largely 
+Detail how people can register and pay for their conference tickets. Outline
+your pricing structure clearly. How many ticket prices you have depends largely 
 on what you are planning to provide and the types of people you are hoping to 
 attract to the event. As an absolute you should have a Standard Rate, but there 
 may be others you want to include:
@@ -43,11 +42,11 @@ The regular price for attendees
 
 =item * Early Bird Rate
 
-You might also consider introducing a discounted rate for early registrations.
+Consider introducing a discounted rate for early registrations.
 
 Early registrations are good way of generating early income and can help you
-to initially finance the conference. They can also give you an estimate on the
-potential attendance numbers.
+to initially finance the conference. They may help to give you an estimate on
+your potential attendance figures.
 
 =item * Student Rate
 
@@ -67,11 +66,16 @@ As an alternative you may wish to promote a 'Send A Newbie' programme, which
 accepts donations to cover flights and accommodations for those who would not be 
 able to attend without financial help. The European 'Send A Newbie' programme was 
 specifically setup to provide financial assistance to those who have never 
-attended a YAPC before.
+attended a Perl conference before.
+
+Both The Perl Foundation and The Enterprise Perl Organisation run 'Send A Newbie'
+programmes, so reach out to them too, to see how you can help to promote these
+as well.
 
 =back
 
-In many cases the conference ticket price is the cheapest item in attendance 
-expenses. Travel and accommodation will be considerably higher, so offering
-cheaper rates does not always make a big difference for many of your attendees.
+It is worth remembering that in many cases the conference ticket price is the
+cheapest item in attendance expenses. Travel and accommodation will be
+considerably higher, so offering cheaper rates does not always make a big
+difference for many of your attendees.
 

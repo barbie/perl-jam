@@ -6,27 +6,28 @@ L<conference_organisation>
 
 =head1 NEW ATTENDEES
 
-While the YAPC conferences are about bringing the Perl Community together to 
+While the Perl conferences are about bringing the Perl Community together to 
 discuss and learn, it is also about welcoming new attendees into the community. 
-In the last few years, almost half of the attendees have been attending a YAPC 
-for the first time. Some may have been to a Perl Workshop, and others may 
-already be a part of the Perl Community, but many won't know anyone.
+In the last few years, almost half of the attendees have been attending a Perl
+conference, having been do so for the first time. Some may have been to a Perl
+Workshop, and others may already be a part of the Perl Community, but many
+won't know anyone.
 
-Explain all the features of a YAPC (such as the hallway track, IRC and BOFs) in 
-an introductory guide, or have a special presentation about being part of the 
-community. Try to include new and even those who might unfamiliar to the 
-community as much as possible in these events. Remind all attendees that if they 
-would like to talk to a speaker or even a well known attendee, all they need to 
-do is go up to them and say 'hello'. If it's during an evening event, they can
-offer to buy them a drink. Encourage attendees to introduce themselves, not only 
-to speakers, but also other attendees.
+Explain all the features of a Perl conference (such as the hallway track, IRC
+and BOFs) in an introductory guide, or have a special presentation about being
+part of the community. Try to include new and even those who might unfamiliar
+to the community as much as possible in these events. Remind all attendees that
+if they would like to talk to a speaker or even a well known attendee, all they
+need to do is go up to them and say 'hello'. If it's during an evening event,
+they can offer to buy them a drink. Encourage attendees to introduce themselves,
+not only to speakers, but also other attendees.
 
 Plan for a beginner style track in the schedule if you can, with some basic 
 introductory talks in a best practice style for things such as Basic Data 
 Structures, Regular Expressions, Testing or building distributions for CPAN. Try 
 and plan these talks towards the beginning of the conference schedule, 
 preferably on the first day. This then gives those attending these talks a 
-better chance of understanding some of the involved talks later in the schedule.
+better chance of understanding some of the detailed talks later in the schedule.
 
 For new attendees the whole event can feel overwhelming. If they feel welcome, 
 and feel they can approach other attendees, they are more likely to come again, 

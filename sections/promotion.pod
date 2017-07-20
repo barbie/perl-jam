@@ -1,9 +1,10 @@
 =head1 PROMOTION
 
-Z<promotion> Six months before the event, possibly sooner, you need to start planning how you 
-are going to promote the event. Newsletters and announcements all need to appear 
-on your website, But you need to decide where else should you post them and 
-other updates?
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+Z<promotion> Six months before the event, possibly sooner, you need to start
+planning how you are going to promote the event. Newsletters and announcements
+all need to appear on your website, but you need to decide where else you should
+post these and any other updates.
 
 Some specific places online that you can approach include:
 
@@ -11,7 +12,7 @@ Some specific places online that you can approach include:
 
 =item * YAPC/YEF conference websites
 
-=item * post as Perl Blogs user
+=item * post as a Perl Blogs user
 
 =item * post on a personal blog associated with the Iron Man Perl Planet
 
@@ -27,9 +28,9 @@ Some specific places online that you can approach include:
 
 =back
 
-In addition there are now many social and micro-blogging networks available for 
-you to get the word out. Signup to the following, and register a special 
-conference account, if appropriate:
+In addition, there are now a plethora of social media and micro-blogging
+networks available for you to get the word out. Signup to at least the
+following, and if appropriate create a special conference account:
 
 =over
 
@@ -39,13 +40,15 @@ conference account, if appropriate:
 
 =item * Twitter
 
-=item * Identi.ca
+=item * Instagram
+
+=item * Flickr
 
 =back
 
 On Facebook there is already a Perl Mongers user group which currently 
-promotes YAPC events, and the admins are also willing to help promote workshops 
-and large technical events too.
+promotes various Perl events, covering international and national conferences,
+workshops and large technical events.
 
 However, first you need to think about what you need to say. Promotion is both a 
 chance to tell people the event exists and a means to provide details to the 

@@ -2,17 +2,19 @@
 
 =head2 Auction Items Deadline
 
-Z<deadlines> The auction (if you are holding one) comprises items donated by attendees and 
-sponsors. Many publishers will be willing to provide books and other sponsors 
-may wish to donate items. It is important that you know about these early. You 
-should arrange to have these delivered to the organisers well in advance of the 
-auction. If you have the deadline the day before the conference or the auction, 
-then be prepared for some items to arrive days or weeks later.
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+Z<deadlines> The auction (if you are holding one) comprises items donated by
+attendees and sponsors. Many publishers will be willing to provide books and
+other sponsors may wish to donate items. It is important that you know about
+these early. You should arrange to have these delivered to the organisers well
+in advance of the auction. If you have the deadline the day before the
+conference or the auction, then be prepared for some items to arrive days or
+weeks later.
 
 You should aim for a deadline of about one week before the beginning of the 
 conference.
 
-=head2 Close Registration
+=head2 Close of Registration
 
 Close the online registration before the conference. If you are dealing with 
 credit card payments, you may be able to close a few days before, but bank 
@@ -43,14 +45,15 @@ exceeding it can generate fines that you will have to pay.
 There will be many and you will need to be on top of everything else to ensure 
 the last minute tasks all get done. Ensure you have volunteers ready to help.
 
-One final preparation that often gets forgetten, is to signpost your venue. Not 
-just signs to direct people towards the venue (from car parks or crossings), but 
-also around the building. Signs to rooms and toilets should be a minimum. If you 
-can provide maps of the venue in the conference pack. 
+One important final preparation that you must not forgetten, is signage. Both
+signposts to your venue, directing people towards the venue from car parks or
+crossings, and signs around the venue building. Signs to rooms and toilets
+should be a minimum. Wherever possible provide maps of the venue as part of the
+conference pack.
 
 See if the venue will allow you to prepare the venue for your attendees the day 
-before. Most will be accommodating, and either allow you to prepare the venue 
-the day before or at the very least the evening before. This is where volunteers 
+before. Most will be accommodating, and at the very least will allow you to 
+prepare signs, tables and rooms the evening before. This is where volunteers 
 can be most helpful, as many hands will make light work of all your remaining 
 tasks.
 

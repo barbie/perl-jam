@@ -1,13 +1,13 @@
 =head1 THE CONFERENCE PACK
 
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
 Z<conference_pack> A conference pack for attendees at a large conference 
-typically consists of the 
-proceedings, a writing implement, a writing pad, t-shirt, badge and bag. A 
-smaller conference may have far less. All these and more are up for sponsorship. 
-Many sponsors are more than happy to provide pens, pads and other goodies to put 
-in your conference pack. However, remember to accurately inform the sponsors of 
-how many attendees (plus a margin for late entry) you expect and the date by 
-which they need to send you their swag.
+typically consists of the proceedings, a writing implement, a writing pad,
+t-shirt, badge and a bag. Smaller conferences may provide far less. All these
+and more are up for sponsorship. Many sponsors are more than happy to provide
+pens, pads and other goodies to put in your conference pack. However, remember
+to accurately inform the sponsors of how many attendees (plus a margin for late
+entry) you expect and the date by which they need to send you their swag.
 
 A deadline for items, particularly from sponsors, needs to be a suitable time 
 before the conference to give you and your team time to pack everything into the 
@@ -42,7 +42,7 @@ submitted a paper and remind them. It's unlikely you will get inundated with
 papers, but you will hopefully get enough to make it worthwhile.
 
 Make sure you include sponsor information in any conference proceedings. Ask 
-sponsors for logos, as short introduction and any web links that they wish to 
+sponsors for logos, a short introduction and any web links that they wish to 
 promote themselves. If you have space you may want to offer half-page or 
 full-page advertising space to sponsors too.
 
@@ -70,10 +70,11 @@ Conference badges with the attendees name and/or nick are a great way of
 bringing people together. The badge could optionally include the attendees 
 country, Perl Monger group affiliation and company (particularly useful for 
 sponsors and anyone paying business tarif). Be wary of providing too much 
-personal information, including email addresses, as some attendees may not wish 
+personal information, such as email addresses, as some attendees may not wish 
 to have their personal details so publicly visible.
 
 Instead of providing personal details on the badge, it may be more appropriate 
 to print a QR-code image, which provides a link to the attendees online profile. 
 For example you could link to the attendee's ACT profile, which the attendee 
 themselves can control what they wish to make public.
+

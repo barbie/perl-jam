@@ -26,28 +26,28 @@ for future organisers if they ask.
 
 =head1 THE CONFERENCE SURVEY
 
-As mentioned earlier, the YAPC Conference Surveys are a recent feature of YAPCs 
-in North America and Europe. The main conference survey is opened at the end of 
-the conference and runs for about 4 weeks. This is usually enough time for the 
-attendees to get home, collect their thoughts and put together a response. After 
-the deadline, the survey is closed and the results are collated and posted to 
-the YAPC Conference Surveys website.
+As mentioned earlier, The Conference Surveys are a recent feature of Perl
+conferences and workshops in North America and Europe. The main conference
+survey is opened at the end of the conference and runs for about 2 weeks. This
+is usually enough time for the attendees to get home, collect their thoughts and
+put together a response. After the deadline, the survey is closed and the
+results are collated and published on The Conference Surveys website.
 
 The individual talk and tutorial evaluation surveys are opened from the 
 beginning of the conference and are available until the same deadline as the 
 main conference survey. The talk evaluations are open to everyone, while the 
-tutorial evaluations are only open to those who attended them. The results of 
-the evaluation surveys are then sent to the speakers only, with the aim of 
-helping them improve their presentations for the future.
+tutorial evaluations are usually only open to those who attended them. The
+results of the evaluation surveys are then sent to the speakers only, with the
+aim of helping them improve their presentations for the future.
 
-For organisers of YAPC::NA and YAPC::Europe, it is likely that you will be 
-contacted in advance of the conference to arrange a survey for your event. 
-However, for anyone else, a survey is possibly something you would want to run 
-if your event occurs annually, or even if you just want to get some feedback 
-from the event. At the time of writing the survey software is not currently Open 
-Source, but it is in the process of being prepared for an Open Source release. 
-In the meantime, feel free to contact the YAPC Conference Survey administrators 
-(admin@yapc-survey.org) to see what they can do to help you.
+For organisers of The Perl Conferences in North America and Europe, it is likely
+that you will be contacted in advance of the conference to arrange a survey for
+your event. However, for anyone else, a survey is possibly something you would
+want to run if your event occurs annually, or even if you just want to get some
+feedback from the event. All the survey software is available OpenSource on
+CPAN, so can be set up in isolation if you wish, although feel free to contact
+the Conference Survey administrators (admin@yapc-survey.org) for any help and
+advice.
 
 Statistics and surveys are extremely useful, both for yourselves and future 
 organisers, in providing some reasonably accurate data for helping to improve 
@@ -69,5 +69,5 @@ here? Are there resources you used or created that can be passed on?
 
 If there is anything you can add, write it all up and submit for inclusion in a 
 future edition. This book is intended to be a living book, in that it will get 
-regularly update with thoughts and experiences from new organisers every year.
+regularly updated with thoughts and experiences from new organisers every year.
 

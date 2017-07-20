@@ -28,7 +28,7 @@ conference, so they are all aware of what is happening and where.
 
 You should have at least one keynote speaker, preferably someone very well known 
 within the Perl community. Many of the big names in Perl, such as Larry Wall and 
-Damian Conway, have  given keynotes at various YAPCs, so don't be shy in 
+Damian Conway, have given keynotes at various conferences, so don't be shy in 
 approaching someone you would like to see attend your event.
 
 Keynotes can either open or close the conference, sometimes both, or even open 
@@ -63,6 +63,9 @@ organisers to say hello. A slightly longer announcement may feature a short
 presentation (not much more than 5 minutes) giving current attendees a taster of 
 what to expect. This is the type of presentation you may well have given 
 yourself at the conference the previous year.
+
+Discuss this with the respective Venue Committee, as they may well nominate a
+representative to make the announcement and introduce the next organising team.
 
 =head2 Closing Address
 

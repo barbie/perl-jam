@@ -1,64 +1,90 @@
 =head0 AN INTRODUCTION
 
+This book is aimed anyone who wishes to organise a conference or large technical
+event, and wishes to benefit from the experiences of other event organisers who
+have gone before.
+
+While the content of the book does draw experience from organising Perl events,
+partly due to the author having organised or consulted for several Perl events,
+it is hoped that the experience and ideas will be applicable to any OpenSource
+event.
+
 The Perl Community is a wonderful thing. It is a collective of people who share 
 a common interest, the Perl programming language, but express that interest in 
 so many different ways. The projects, user groups and events all capture a 
 different part of the community, but it wasn't until the late 90s that the 
 community started to co-ordinate their activities.
 
-In February 1999 the first Perl Workshop took place in Germany, and in June 1999 the first 
-YAPC Perl conference took place. These were the beginnings, but the events 
-themselves have grown and become further reaching than the initial core 
-developers that came along to those first events.
+In February 1999 the first Perl Workshop took place in Germany, and in June 1999
+the first YAPC Perl conference took place. These were the beginnings, but the
+events themselves have grown and become further reaching than the initial small
+group of core developers that came along to those first events.
 
 This book was originally written to provide help and advice for anyone 
-organizing a "Yet Another Perl Conference" (YAPC) event. However, it contains 
-many examples and hints for proposing, planning, and running any successful 
-conference, workshop or large technical event. While there are many aspects that 
-would be applicable only to a YAPC Perl conferences, much of the content will be 
-informative for any group with an interest in promoting collaborative efforts 
-and furthering discussion on a focused technical topic or who are thinking of 
-planning their own Open Source conference, workshop or large technical event.
+organizing a "Yet Another Perl Conference" (YAPC) event, since renamed to "The
+Perl Conference" in 2016. However, it contains many examples and hints for
+proposing, planning, and running any successful conference, workshop or large
+technical event. While there are some aspects that may only be applicable to a
+Perl event, much of the content will be informative for any group wanting to
+promote collaborative efforts and further discussion on a focused technical
+topic, or who are thinking of planning their own Open Source conference,
+workshop or large technical event.
 
 The intended audience for this book is a small, but dedicated team that would 
-like to plan, prepare and put on an event like the YAPC grassroots conference 
-and symposium series for the Perl programming language. These conferences have 
-usually been organised by a small local core group of individuals, with the aid 
-of the local user groups as well as the members of the local and wider Perl 
-Community.
+like to plan, prepare and hold an event. Sometimes the organisers are located
+in the place where the event is to be held, but many roles and responsibilties
+only require that the organiser has an internet connection. Having the support
+of local user groups or others from the community can help to spread the
+workload, but a small core team needs to co-ordinate activities.
 
 Throughout this book, the focus is very much on YAPC::NA and YAPC::Europe, as 
 these are the two annual conferences that the author has first hand experience 
 with. In future revisions, it is hoped that experiences and suggestions from 
-those involved with other YAPCs will also feature. Feel free to ignore the 
-specific references that may not be applicable to organising your event.
+those involved with other events (including non-Perl events) will also feature.
+Feel free to ignore the specific references that may not be applicable to
+organising your event.
 
 =head1 What Is A YAPC?
 
-Just in case you've come across this book and are not from the Perl Community 
-or even the wider Open Source community, you might be wondering what a YAPC is.
+Just in case you've come across this book and are not familiar with the Perl
+Community or even the wider Open Source community, you might be wondering what
+a YAPC is.
 
 The YAPC acronym comes from "Yet Another Perl Conference", although it is 
-rarely known by its full title these days, and is pronounced "YAP-SEE". A YAPC
-event traditionally lasts three days, with further days of classes, tutorials,
-workshops, hackathons or seminars occasionally preceding and/or following the 
-main event. 
+rarely known by its full title these days, and is pronounced "YAP-SEE".
+
+=head1 What is TPC?
+
+Since 2016, the YAPC events have been renamed to The Perl Conference, or TPC. 
+The original The Perl Conference was a corportae event held by O'Reilly
+Associates in America, which by TPC4 in 2000 was incorporated with OSCON
+(Open Source Conference). From OSCON 2001, TPC became the Perl Track within
+the bigger conference, and the name's usage lapsed.
+
+Following a request from The Perl Foundation, O'Reilly Associates granted
+the Perl community the name and enable the renaming of YAPCs to The Perl
+Conference.
+
+=head1 What is a Conference?
+
+An OpenSource conference event traditionally lasts around three days, with
+further days of classes, tutorials, workshops, hackathons or seminars
+occasionally preceding and/or following the main event. 
 
 The core event days feature keynotes, talks, lightning talks, birds of a feather 
 sessions (BOFs) and open discussions for the whole assembly. Any additional days 
 around the conference are either limited-attendance classes or dedicated 
 small-group events that will appeal to only a small number of attendees.
 
-A YAPC event is meant to be an inexpensive, grassroots conference primarily 
+A YAPC/TPC event is meant to be an inexpensive, grassroots conference primarily 
 focused on the Perl programming language, and is aimed at beginners and experts
 alike. Although organized by volunteers, the events are supported by The Perl 
 Foundation (TPF) globally and the YAPC::Europe Foundation (YEF) in Europe. 
 Both TPF and YEF are non-profit organisations, and often the local organising 
 group will establish themselves with a similar status. Any profit raised by the
 events is used to help fund future local events or the local user groups 
-activities, some may be donated future YAPC events or to the TPF/YEF 
-organisations, while some often gets put forward to help fund Perl development
-projects. 
+activities, some may be donated to future events or to the TPF/YEF 
+organisations, while some may help to fund Perl development projects. 
 
 The original idea for the conferences came as a reaction to expensive 
 commercial conferences, and aimed to bring more self-funded individuals (such 

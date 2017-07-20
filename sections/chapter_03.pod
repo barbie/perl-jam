@@ -33,7 +33,7 @@ for your original dates and cannot change them.
 
 =head1 CONFERENCE THEME
 
-While your in the early stages of planning, think about whether you want a theme 
+While you're in the early stages of planning, think about whether you want a theme 
 for your event. Some conferences choose a theme to encourage talks regarding a 
 specific topic, though you will get talk submissions on a vareity of topics, but 
 some speakers will tailor their talks to fit the theme.
@@ -43,8 +43,8 @@ which can then be used on the website and in any literature you produce. It will
 add to the professional look of the event, and give corporate sponsors and 
 managers a good impression of your event.
 
-Note that it isn't a requirement to have a theme, so don't worry of you don't 
-think of one.
+Note that it isn't a requirement to have a theme, so don't worry if you can't 
+think of one, or don't want one.
 
 L<website_design>
 

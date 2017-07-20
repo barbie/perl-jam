@@ -1,8 +1,8 @@
 =head1 RECRUITING VOLUNTEERS
 
-Z<volunteers> In the six months before your event you will have many small tasks that can be 
-completed by someone outside of your core team. Recruit a local crew who are 
-willing help with fetching and carrying, and will act as volunteers and 
+Z<volunteers> In the six months before your event you will have many small tasks
+that can be completed by someone outside of your core team. Recruit a local crew
+who are willing help with fetching and carrying, and will act as volunteers and 
 timekeepers during the event too. 
 
 These people will not necessarily have a lot of free time before the conference, 
@@ -18,6 +18,6 @@ often be worthwhile.
 
 You may also want to ask the community whether anyone would like to help out. 
 Offer free entrance (or reduced entrance if your budget is tight) for anyone 
-willing to help. You will likely find several people offering to help out for a half a 
-day, a full day and maybe even the for the full conference.
+willing to help. You will likely find several people offering to help out for 
+half a day, a full day and maybe even the for the full conference.
 

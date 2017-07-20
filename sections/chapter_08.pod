@@ -6,6 +6,10 @@
 
 =item * CPAN = Comprehensive Perl Archive Network
 
+=item * EPO = The Enlightened Perl Organisation
+
+=item * TPC = The Perl Conference
+
 =item * TPF = The Perl Foundation
 
 =item * YAPC = Yet Another Perl Conference
@@ -20,13 +24,15 @@
 
 =over
 
+=item * EPO - U<https://www.enlightenedperl.org/>
+
 =item * TPF - U<http://www.theperlfoundation.org>
 
 =item * YEF - U<http://yapceurope.org>
 
-=item * YAPC - U<http://yapc.org>
+=item * Perl Foundation Conferences - U<http://yapc.org>
 
-=item * YAPC Conference Surveys - U<http://yapc-surveys.org>
+=item * The Conference Surveys - U<http://yapc-surveys.org>
 
 =item * TPF Planning A Workshop - U<http://www.yapc.org/workshops.html>
 
@@ -38,7 +44,7 @@
 
 =item * ACT - U<http://act.mongueurs.net>
 
-=item * Sponsorship Pack Templates - U<http://yapc-surveys.org/sponsorship>
+=item * Sponsorship Pack Templates - U<http://yapc-surveys.org/sponsors.html>
 
 =back
 

@@ -1,14 +1,14 @@
 =head1 PREPARE YOUR TEAM
 
-Z<team_prepare> You cannot organise this alone. While one day workshops might be possible for 
-one person to handle, organizing a conference is very time consuming and 
-spreading the load enables the team to function better together and gets the 
-job done a lot quicker. Recruit local user group members, friends or colleagues 
-to your team, particularly if anyone you know has an area of expertise or 
-special contacts.
+Z<team_prepare> You cannot organise this alone. While one day workshops might
+be possible for one person to handle, organizing a conference is very time
+consuming and spreading the workload enables the team to function better
+together, and usually gets the job done a lot quicker. Recruit local user group
+members, friends or colleagues to your team, particularly if anyone you know
+has an area of expertise or special contacts.
 
 In your bid, highlight the strengths in your team. If you've organised other 
-conferences or workshops, also let the committee know about that. The more 
+conferences or workshops, let the committee know about that. The more 
 confidence the venue committee has in your abilities, the more reassured they 
 will be that you have done all that you can do to put on a great conference.
 

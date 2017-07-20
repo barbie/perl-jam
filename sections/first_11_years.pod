@@ -2,18 +2,18 @@
 
 =head2 1999 - How It All Began
 
-Z<first_11_years> The first Yet Another Perl Conference was held in Pittsburgh, PA at Carnegie 
-Mellon University in 1999, and had about 275 participants. The event was 
-attended by a small but mighty group of interested and interesting Perl people, 
-including Larry Wall, who delivered the opening keynote on the first day of the 
-two-day event.
+Z<first_11_years> The first Yet Another Perl Conference was held in Pittsburgh,
+PA at Carnegie Mellon University in 1999, and had about 275 participants. The
+event was attended by a small but mighty group of interested and interesting
+Perl people, including Larry Wall, who delivered the opening keynote on the
+first day of the two-day event. The brain child of Kevin Lenzo.
 
 =head2 2000 - The Art Spreads
 
 The event was such a success that it was repeated, again at Carnegie Mellon 
 University, in 2000 and was dubbed YAPC North America 19100, in honour of all 
 the "Y2K" concerns of the time.  Attendance was some three hundred and fifty 
-people.
+people. Once again Kevin Lenzo led the team.
 
 Inspired by the success of the North American event, LE<eacute>on Brocard, Greg 
 McCarroll and Jonathan Peterson took it upon themselves to organise the first 
@@ -48,7 +48,7 @@ arm-wrestling match!
 
 In 2003, YAPC::NA had two vying parties, the first was alternatively titled 
 YAPC::Canada and held in Ottawa, Ontario, while the second was held in Boca 
-Raton, Florida.
+Raton, Florida. The Florida event was organised by Kevin Meltzer and Jeff Bisbee.
 
 YAPC::Europe was hosted by Paris.pm at the Conservatoire National des Arts et 
 ME<eacute>tiers (CNAM) in Paris. David Landgren, Philippe 'BooK' Bruhat and crew 
@@ -61,16 +61,17 @@ Heading back towards the northern states, the 2004 YAPC::NA was held in Buffalo,
 New York. Jim Brandt and team hosted the event at the University at Buffalo and 
 introduced a 'Poster BOF'!
 
-YAPC::Europe was hosted by Belfast.pm in Northern Ireland, UK. As with London 
-before them, they broke away from the education establishments and hosted the 
-event in a converted church, now know as Squires.
+YAPC::Europe was hosted by Belfast.pm (led by Karen Pauley, Marty Pauley and
+Tony Bowden) in Northern Ireland, UK. As with London before them, they broke away
+from the education establishments and hosted the event in a converted church,
+now know as Squires.
 
 =head2 2005 - Perl Everywhere
 
 For 2005, YAPC::NA again headed north of the border and was successfully hosted 
-by Toronto.pm. The Conference Dinner and Auction was held aboard a paddle 
-steamer, that allowed attendees to relax for an evening and enjoy the Toronto 
-skyline from the water.
+by Toronto.pm (led by Richard Dice). The Conference Dinner and Auction was held
+aboard a paddle steamer, that allowed attendees to relax for an evening and
+enjoy the Toronto skyline from the water.
 
 YAPC::Europe was hosted by Braga.pm in northern Portugal, at University of 
 Minho, Braga. JosE<eacute> Castro and Alberto Simoes worked hard to create a 
@@ -98,44 +99,62 @@ Interesting aside: Chicago and Birmingham are also twinned-cities.
 
 =head2 2007 - Social Perl
 
-In 2007, YAPC::NA headed the furthest west it had ever been, with Houston.pm 
-hosting the YAPC::NA 2007. Despite the humidity tiring everyone out, the 
-conference was very well received and the games arcade seem to go down VERY well 
-:)
+In 2007, YAPC::NA headed the furthest west it had ever been, in Houston, with
+both Houston.pm and BrazosValley.pm co-organising the event, led by Jeremy
+Fluhmann. Despite the humidity tiring everyone out, the conference was very well
+received and the games arcade seem to go down VERY well :)
 
-In Europe, YAPC::Europe headed to Austria, as hosted by Vienna.pm. Vienna is a 
-city full of sights to see, and the conference itself managed to attract some 
-illuminating speakers too, including Larry, Damian and Mark-Jason Dominus. The 
-event also introduced the idea of full day workshops and hackathons, with 
-Parrot, Perl 6 and POE all getting their own dedicated hacker rooms.
+In Europe, YAPC::Europe headed to Austria, as hosted by Vienna.pm, led by Thomas
+Klausner. Vienna is a city full of sights to see, and the conference itself
+managed to attract some illuminating speakers too, including Larry, Damian and
+Mark-Jason Dominus. The event also introduced the idea of full day workshops and
+hackathons, with Parrot, Perl 6 and POE all getting their own dedicated hacker
+rooms.
 
 =head2 2008 - Beautiful Perl
 
 After taking on the conference for 2006, Chicago once again hosted YAPC::NA 
-2008. As for 2006, the breakfast buffet (as well morning and afternoon breaks) 
+2008, with the team once again led by Josh McAdams and Pete Krawczyk.
+As for 2006, the breakfast buffet (as well morning and afternoon breaks) 
 were a wonderful addition to keep everyone going throughout the day.
 
 YAPC::Europe was Scandinavian bound, with the event being hosted by 
-Copenhagen.pm. The lunch bags went down very well, which was just as well as the 
-city was rather expensive for many this year.
+Copenhagen.pm, featuring the organising team of Jonas B. Nielsen, Lars
+Thegler and Anton Berezin. The lunch bags went down very well, which was just
+as well as the city was rather expensive for many this year.
 
 =head2 2009 - Corporate Perl
 
 Celebrating ten years, although it was the 11th YAPC, YAPC::NA returned to 
 Pittsburgh and Carnegie Mellon University, now holding the honour of host the 
-event 3 times.
+event 3 times. However for this year, Dan Wright took on the role of
+organising team leader.
 
 YAPC::Europe went to Portugal again for 2009, and although it was located in 
 Lisbon this time around, the familiar organisers of Jose, Alberto and Joana were 
 behind it all. The event featured a host of talks and tutorials, and was the 
 first to have a successful Partner Programme.
 
+=head2 2010 - The Renaissance of Perl
+
+YAPC::NA headed into middle America for the first time, being held very
+successfully in Columbus, Ohio, with Heath Blair and Rob Kinyon leading the
+team.
+
+YAPC::Europe headed to Pisa, Italy, and featured the first time the White Camel
+Awards were announced and presented outside of the OSCON event in America.
+The team featured Gianni Ceccarelli, Michele Beltramei, Giuseppe D'Angelo,
+Aldo Calpini and Hakim Cassimally.
+
 =head2 2011 - Modern Perl
 
-YAPC::Europe moved to the most Eastern city every, to Riga in Latvia. The
-conference was organized fully remotely by the members of Moscow.pm living in
-Amsterdam (Andrew Shitov), Moscow (Alex Kapranov) and Copenhagen (Dmitry Karasik).
-278 people, incuding Larry Wall and Damian Conway, attended the conference.
-A few steps were made to move all the conference materials and activities
-previously lived on paper to the internet. The crew hired aditional stuff to work
-on Wi-Fi and food in the venue.
+For 2011, YAPC::NA took place in the picturesque location of Ashville, North
+Carolina. The organising team was led by veteran Perl event organiser Chris
+Prather, together with Chris Nehren and Mathew Horsfall.
+
+The Europeans meanwhile moved to the most Eastern city ever to hold a
+YAPC::Europe, to Riga in Latvia. The conference was organized fully remotely by
+the members of Moscow.pm living in Amsterdam (Andrew Shitov), Moscow (Alex
+Kapranov) and Copenhagen (Dmitry Karasik). 278 people, incuding Larry Wall and
+Damian Conway, attended the conference.
+

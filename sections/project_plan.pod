@@ -1,10 +1,10 @@
 =head1 PLAN YOUR PROJECT
 
-Z<project_plan> It cannot be emphasised enough how important a project plan is. A year before 
-your event, you will need to start several task at once, and managing them 
-efficiently is a necessity. Organising a conference requires you to establish 
-priorities all the time, and having a project plan will better identify those 
-tasks which fall on your critical path.
+Z<project_plan> It cannot be emphasised enough how important a project plan is.
+A year before your event, you will need to start several tasks at once, and
+managing them efficiently is a necessity. Organising a conference requires you
+to establish priorities all the time, and having a project plan will better
+identify those tasks which fall on your critical path.
 
 Your first priorities in your project plan should focus on the following:
 
@@ -41,9 +41,9 @@ attentions to the following:
 =back
 
 Then that's it. The rest is really gravy -- quite a bit of important gravy -- 
-but just gravy. When you are planning a YAPC, keep this list in mind. These are 
-your "big rocks" and if you are spending a lot of time on something and one of 
-these is not covered, you'll need to reconsider your priorities. On the flip 
+but just gravy. When you are planning a conference, keep this list in mind. These
+are your "big rocks" and if you are spending a lot of time on something and one
+of these is not covered, you'll need to reconsider your priorities. On the flip 
 side, if you have all of these in place, don't stress too much if something else 
 falls through.
 
@@ -102,8 +102,10 @@ promptly.
 If possible, try and arrange regular face to face planning meetings, especially 
 for the local crew, that will need to be assigned tasks that require leg work 
 around the venue and local area. Aim to have at least monthly meetings, with 
-regular weekly catch ups on IRC, mailing lists, telephone or other communication 
-mediums. It is VERY important to have these meetings and follow up sessions, so 
+regular weekly catch ups on IRC, mailing lists, video conferencing systems
+(e.g. Skype, FaceTime or Zoom) or other communication mediums.
+
+It is VERY important to have these meetings and follow up sessions, so 
 that everyone knows the current status of the project. If anyone has been 
 assigned a task and hasn't had time to deal with it, you'll need to know and 
 reassign if necessary. You will have to reassign occasionally, but hopefully not 
@@ -113,7 +115,7 @@ Set an agenda ahead of the planning meetings and mail it, together with the
 outstanding task list, to all those involved at least a few days before hand to 
 give everyone a chance to follow up anything they have forgotten. You will need 
 to remind people of their tasks, as not everyone will be as passionate about 
-conference organisation as you will.
+conference organisation as you are.
 
 Meetings are not just about the allocation or completion of tasks, they are also 
 about bringing your team together. Share ideas, brainstorm problems, motivate 
@@ -127,8 +129,9 @@ possible, and let the team members settle into their roles. As time progresses
 you'll see who needs help and who can be trusted with high risk tasks.
 
 Take the opportunity at meetings to make sure everyone understands a particular 
-task. If there is any confusion, doing this via IRC or email can add to the 
-confusion. Sitting down face to face, even as an ad-hoc one-to-one meeting with 
-a team member, may be enough to resolve any issues. Most of all don't be afraid 
-to ask. This goes for your team members as well as you.
+task. If there is any confusion, textual communictation (via IRC or email) can
+add to the misunderstandings. Sitting down face to face, even as an ad-hoc
+one-to-one meeting with a team member, may be enough to resolve any issues.
+Most of all don't be afraid to ask. This goes for your team members as well as
+you.
 

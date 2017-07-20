@@ -1,19 +1,18 @@
 =head1 RESEARCH YOUR VENUE
 
 Z<venue_research> Before you think about anything to do with the organizing of 
-an open source 
-conference, there is one important thing you need to remember throughout. The
-conference is a means to bring together like minded souls, from all walks of 
-life, to meet and learn. "All walks of life" is what you need to remember. We 
-are all very different people and you'll need to remind yourself occasionally, 
-that you're not only organising a conference to get your friends to come visit 
-you, but also to bring new people into the community from many diverse 
-backgrounds and cultures. You'll need to make them feel welcome, as well as be 
-able to provide them with a good experience of the community, so that they stay 
-involved and contribute long after the conference is over. Try and be as 
-inclusive as possible, by thinking about accessibility and dietary 
-requirements. You may not be able to accommodate everyone, but at least if 
-you can consider your options, your attendees will thank you for it later.
+an OpenSource conference, there is one important thing you need to remember
+throughout. The conference is a means to bring together like minded souls, from
+all walks of life, to meet and learn. "All walks of life" is what you need to
+remember. We are all very different people and you'll need to remind yourself
+occasionally, that you're not only organising a conference to get your friends
+to come visit you, but also to bring new people into the community from many
+diverse backgrounds and cultures. You'll need to make them feel welcome, as well
+as be able to provide them with a good experience of the community, so that they
+stay involved and contribute long after the conference is over. Try and be as 
+inclusive as possible; think about accessibility and dietary requirements.
+You may not be able to accommodate everyone, but at least if you can consider
+your options, your attendees will thank you for it later.
 
 =head2 Finding A Venue
 
@@ -47,8 +46,9 @@ that they are willing to offer their facilities for free or at a reduced cost.
 Also consider the language used in how you present what you plan to do, as the 
 idea of a "Conference" can mean different things to different people. You may
 want to use the alternative description of "Symposium", as it emphasises more 
-of the collective discussion aspects rather than a major corporate launch pad 
-and series of lectures, which can be misconstrued as a commercial venture.
+of the grassroots collective discussion aspects rather than a major corporate
+launch pad and series of lectures, which can be misconstrued as a commercial
+venture.
 
 =head2 Researching A Venue
 
@@ -68,13 +68,13 @@ the pros and cons of each venue.
 
 =head3 General Requirements
 
-YAPC::NA typically has around 300-500 attendees, while YAPC::Europe has about 
-200-400. Consider how many people you expect to attend carefully, as the venue
-must be able to accommodate them all comfortably. A YAPC traditionally has 1 
-main room that can hold all the attendees, and at least 2 other rooms that are
-able to hold 25%-50% of the attendees. If you plan to have more tracks, or have
-a workshop/demo room, you will need to ensure that a reasonable number of 
-people can fit in.
+The Perl Conference in North America typically has around 300-500 attendees,
+while The Perl Conference in Europe has about 200-400. Consider how many people
+you expect to attend carefully, as the venue must be able to accommodate them all
+comfortably. A Perl conference traditionally has 1 main room that can hold all
+the attendees, and at least 2 other rooms that are able to hold 25%-50% of the
+attendees. If you plan to have more tracks, or have a workshop/demo room, you
+will need to ensure that a reasonable number of people can fit in.
 
 Rooms should have controlled temperature environments (air-conditioned or 
 heated as needed). If your event is being held in an academic institution when 
@@ -84,10 +84,10 @@ still be active.
 =head3 Main Auditorium
 
 The main room which is to hold the full assembly will require some form of 
-public address (PA) system. This may already be provided, but if not you need to 
-investigate local PA companies to provide something suitable. In order to allow 
-speakers to move about the stage, investigate whether you can provide wireless 
-microphones as well as podium mics.
+public address (PA) system. This may already be provided, but if not you will
+need to investigate local PA companies to provide something suitable. In order
+to allow speakers to move about the stage, investigate whether you can provide
+wireless microphones as well as podium mics.
 
 Smaller rooms may not require a PA system, unless the capacity is expected to be 
 large enough, where you will need to ensure that those at the back can still 
@@ -103,10 +103,10 @@ ensure there is time for attendees to move between the furthest rooms.
 
 Consider the location of toilets. Sitting in a lectures for a session can mean 
 everyone waits until the breaks to avoid missing anything. Are the toilets close 
-by, do they have enough located around where your lecture rooms, do they provide 
-toilets for the disabled? Although this is unlikely to be a problem, remember 
-that attendees will want to know where they are quickly, so mark them clearly 
-both on any campus map you provide and with signs around the building.
+by, do they have enough located around where your lecture rooms are, do they
+provide toilets for the disabled? Although this is unlikely to be a problem,
+remember that attendees will want to know where they are quickly, so mark them
+clearly both on any campus map you provide and with signs around the building.
 
 =head3 Breakout Area
 
@@ -157,10 +157,11 @@ including things you might not think of.
 
 =head2 Internet Connection & WiFi
 
-WiFi internet access is a crucial requirement for YAPCs in this day and age. 
-Typically over 80% of your attendees will have laptops or other mobile devices, 
-so ensure that the venue has the bandwidth and network equipment that can cope 
-with the capacity of all your attendees having access at the same time.
+WiFi internet access is a crucial requirement for all major conferences in this
+day and age.  Typically over 80% of your attendees will have laptops or other
+mobile devices, so ensure that the venue has the bandwidth and network equipment
+that can cope with the capacity of all your attendees having access at the same
+time.
 
 Some venues may already have a working WiFi network and be happy for you to use 
 it. However, others may not have any internet connection at all and you may have 
@@ -215,10 +216,13 @@ walking around the venue with a laptop, camera and mobile phone?
 
 =head2 Venue Cost
 
-YAPC is a grass-roots conference and you should do everything you can to keep 
-costs low. This allows people like open source developers and students to attend 
-on a limited budget. The venue is likely to be your highest cost item and it can 
-exert significant pressure on your attempt to keep the cost down.
+Perl conferences and workshops are grassroots events and you should try
+everything possible to keep attendee fees low. This allows people like
+freelance developers, developers without employer support, students and those on
+a limited budget to attend.
+
+The venue is likely to be your highest cost item and it can exert significant
+pressure on your attempt to keep the attendee fees down.
 
 There are basically three choices with regard to the cost of the venue:
 
@@ -235,14 +239,17 @@ support the venue.
 
 =back
 
-So far, most YAPCs have been able to take advantage of option 1, some have 
-successfully managed to operate on option 2, while option 3 has yet to ever be 
-considered (hopefully it never will). Note that the venue committee will 
-certainly take how you intend to cover costs into account when selecting the 
-host group each year.
+So far, most Perl events have been able to take advantage of option 1, while
+others have successfully managed to operate using option 2, either receiving
+sponsorship from a single sponsor to cover the venue, or enabling multiple
+sponsors to have rooms named after them that cover the venue costs together.
+Option 3 has thankfully not been a necessary.
+
+Note that the venue committee will take into account how the organising team
+intend to cover all costs when selecting the hosts for each year.
 
 Although you can't actually book the venue yet, when you are investigating 
-venues make sure you find out the following:
+venues you should make every effort to enquire about the following:
 
 =over 
 
@@ -252,14 +259,26 @@ venues make sure you find out the following:
 
 =item * Is someone else looking at your provisional dates?
 
+=item * What payment plans does the venue employ? (e.g. 10% deposit on booking, and balanced cleared
+one month prior to the event)
+
 =back
 
-Once you win the bid, one of your first tasks is to book the venue and that 
-should be easy if you have the answers to the above.
+Once you win the bid, one of your first tasks will be to book the venue and that 
+is made all the more easier if you have the answers to the above.
 
-Why is this so important? Several YAPCs have had venues booked based on verbal 
-commitments only to have things fall through because of misunderstandings. Get 
-as much information as possible to avoid this.
+You might be wondering 'why are these questions so important?' The reason sadly,
+has come from previous experience. Several organising teams have had venues
+booked based on verbal commitments only to have things fall through because of
+confirmed and paid bookings for other events, misunderstandings in the
+agreements or even the propsed venue closing for refurbishment.
+
+Get as much information as possible to avoid any hassle when you're able to make
+a confirmed booking.
+
+When confirming your booking, ensure you understand when payment is required.
+Most venues will require a deposit, and then one or two payments prior to the
+event itself, with balances cleared before the event begins.
 
 =head2 Catering
 
@@ -297,6 +316,13 @@ If the meals are being served as a buffet make sure that the food options are
 clearly labeled, since it might not be visible at first glimpse if a meal meets
 certain dietary requirements or tastes.
 
+With regards to clear labelling, this can be especially important if you have 
+attendees who speak languages other than those of the host nation. In many
+cases English is used as a default, but if your event is non-English, and
+attracts attendees from other non-English language countries, it may be more
+suitable to use another alternative.
+
+
 =head3 Morning & Afternoon Breaks
 
 You should schedule a 30 minute break during the morning and afternoon sessions, 
@@ -305,7 +331,7 @@ you can provide tea, coffee, water and possibly some soft drinks (sodas). When
 providing tea, while it might look great to provide a selection of fruit 
 infusions, the majority of those wishing to have tea may actually prefer 
 traditional tea (sometimes known as English Tea or Breakfast Tea), so make sure 
-it is adequately provide for both in the morning and afternoon breaks.
+it is adequately provided for both in the morning and afternoon breaks.
 
 If it's possible, try to provide something along the lines of biscuits, cake or 
 fruit. This isn't always possible, and can drive your costs up, but it does help 
@@ -347,8 +373,9 @@ are vegetarians, as non-vegetarians may not like the meat option provided.
 The Conference Dinner is always considered a "nice-to-have" and usually depends 
 on your level of sponsorship funding. However, it is a great opportunity to 
 gather together all the attendees on at least one evening for a meal. Usually 
-this happens on the second day of the conference, and, in the case of YAPC::NA, 
-is incorporated with the Auction.
+this happens on the first or second day of the conference, and provides a great
+opportunity to hold informal events (such as Games Night or Geek Quizes) with
+everyone as an ice-breaker.
 
 If you are hoping to provide a conference dinner for everyone, think about a 
 location where you'll be able to hold everyone for a sit down meal. Some 
@@ -373,7 +400,7 @@ priced menu options.
 
 The meet up usually happens in a pub, bar or restaurant with private function 
 room facilities, although it isn't unusual for the whole place to be taken over 
-by YAPC attendees (something we'll come back to later).  Hopefully attendees 
+by event attendees (something we'll come back to later).  Hopefully attendees 
 will let you know whether they are planning to attend the Early Arrivals Dinner, 
 so you should be able to book somewhere with a good idea of numbers.
 
@@ -393,15 +420,17 @@ give you a backup plan if the initial venue falls through. It's much easier to
 quickly proceed with your second choice if you already have all of the 
 information.
 
-Several YAPCs have had the primary venue fall through, so please don't assume 
-you will get your first choice when the time comes to make a confirmed booking. 
-For example, Birmingham Perl Mongers for YAPC::Europe::2006 approached over 40 
-venues around the city, where the educational venues were more expensive than 
-regular conference halls. The short list included a church, local government 
-offices, the central library and a concert hall. The concert hall won. However, 
-that was after contract negotiations fell through with a major university and a 
-city centre hotel. Remember that some things can go wrong, even if you think you 
-have secured a venue.
+Several organising teams have had the primary venue fall through, so please
+don't assume you will get your first choice when the time comes to make a
+confirmed booking. 
+
+For example, Birmingham Perl Mongers for their YAPC::Europe::2006 event,
+approached over 40 venues around the city, where the educational venues were
+more expensive than regular conference halls. The short list included a church,
+local government offices, the central library and a concert hall. The concert
+hall won. However, that was after contract negotiations fell through with a
+major university and a city centre hotel. Remember that some things can go
+wrong, even if you think you have secured a venue.
 
 After you have a list of potential venues and have got enough detail about each 
 of them, ask yourself some questions to narrow it down:

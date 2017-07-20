@@ -2,11 +2,12 @@
 
 =head2 Choosing Talks
 
-Z<conference_schedule> After the hard deadline for abstracts, you should allow your team at least a 
-week to decide which talks to accept. Arrange a meeting with your team once 
-everyone has had a chance to read through the abstracts. You'll then be able to 
-make some quick choices as to what to accept and reject, hopefully making it a 
-little easier to whittle down your selection. 
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+Z<conference_schedule> After the hard deadline for abstracts, you should allow
+your team at least a week to decide which talks to accept. Arrange a meeting
+with your team once everyone has had a chance to read through the abstracts.
+You'll then be able to make some quick choices as to what to accept and reject,
+hopefully making it a little easier to whittle down your selection. 
 
 The abstracts will often be all you have to judge talks on. For new speakers you 
 may also want to do some research to see whether they are known, or have already 
@@ -36,7 +37,7 @@ When aligning your schedule, there are two points worth bearing in mind.
 Firstly, popular speakers and topics are likely to attract a large audience, so 
 ensure such talks are in a room that can accommodate them. Secondly, make time 
 for first-time or less well-known speakers, as they deserve a chance to make an 
-impression on the attendees (hopefully it's be a good impression).
+impression on the attendees (hopefully it's a good impression).
 
 When planning your schedule, consider how many rooms you will need and what 
 timeslots will be available. It is traditional to have 20 minute and 40 minute 
@@ -54,12 +55,12 @@ should between 60-120 minues (60-90 minutes if you are providing lunch). Do not
 start your conference before 9am. It's rare that attendees even start work 
 before that, so don't expect them to be in full attendance each morning at 8am 
 or earlier! Start each day with announcements, and allow 10 minutes for any 
-important information such as schedule changes. You finish each day will likely 
-depend on when your venue closes. Some are accommodating and will let you stay 
-late, allowing for BOFs at the venue, while others will charge overtime if you 
-stay over your allotted hours. Don't try to cram too much into your schedule. If 
-you don't have the time or the rooms, having 5 minutes between talks and 
-starting at 8am is not a good solution.
+important information such as schedule changes. Your finish time each day will
+likely depend on when your venue closes. Some are accommodating and will let you
+stay late, allowing time for BOFs at the venue, while others will charge
+overtime if you stay over your allotted hours. Don't try to cram too much into
+your schedule. If you don't have the time or the rooms, having 5 minutes between
+talks and starting at 8am is not a good solution.
 
 =head2 Strategic Schedule Choices
 
