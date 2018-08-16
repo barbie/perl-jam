@@ -1,7 +1,3 @@
-build/chapters/.gitignore
-build/epub/.gitignore
-build/pdf/.gitignore
-build/xhtml/.gitignore
 build/html/style.css
 build/latex/book.tex
 build/latex/copyright.tex
