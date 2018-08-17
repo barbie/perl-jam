@@ -19,7 +19,7 @@ pdf:
 	pandoc $(FILES) -o perl-jam.pdf
 
 epub:
-	pandoc $(FILES) -o perl-jam.epub
+	pandoc $(FILES) --epub-stylesheet=styles/style.css -o perl-jam.epub
 
 clean:
 	rm -f perl-jam.pdf perl-jam.epub
