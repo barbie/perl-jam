@@ -44,48 +44,20 @@ I appreciate all suggestions and critiques, especially:
 Building this Book
 ------------------
 
-You need a modern version of Perl installed.  I recommend Perl 5.10.1, but
-anything newer than 5.8.6 should work.
+The Markdown source files are converted into the final book via
+[pandoc](https://pandoc.org/), hence you will need to install this first in
+order to build the book.  Once installed, and assuming you have GNU `make`
+also installed, building the PDF version of the book should be as simple as:
 
-You should also have Pod::PseudoPod 0.16 or newer installed with its
-dependencies.
+    $ make pdf
 
-From the top level directory of a checkout, build the individual chapters with:
+This will produce the file `perl-jam.pdf` in the root project directory.
 
-    $ perl build/tools/build_chapters.pl
+Building the epub version is equally simple:
 
-The chapter sources are in the sections/ directory.  Each chapter has a
-corresponding chapter_nn.pod file.  Each file contains multiple POD links which
-refer to other files in the sections/ directory.  Each of those files contains
-a PseudoPOD Z<> anchor.
+    $ make epub
 
-The build_chapters.pl program weaves these sections into chapters and writes
-them to POD files in build/chapters.
-
-(This process makes it easy to rearrange sections within and between chapters
-without generating huge diffs.)
-
-To build HTML from these woven chapters:
-
-    $ perl build/tools/build_html.pl
-
-This will produce nicely-formatted HTML in the build/html/ directory.  If
-anything looks wrong, it's a mistake on my part (or a CSS problem) and patches
-are very welcome.
-
-To build an ePub eBook from the woven chapters:
-
-    $ perl build/tools/build_epub.pl
-
-This will produce an ePub eBook in the build/epub/ directory.
-
-To build PDFs from the chapters:
-
-    $ perl build/tools/build_pdf.pl
-
-This will build PDFs in the build/pdf directory.  You must have App::pod2pdf
-installed from the CPAN.
-
+which will produce the file `perl-jam.epub` in the root project directory.
 
 Contributing to Perl Jam
 ------------------------
