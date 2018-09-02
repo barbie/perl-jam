@@ -3,3 +3,5 @@ build/epub/*.epub
 build/html/*.html
 build/pdf
 build/xhtml
+Makefile
+MYMETA.*
