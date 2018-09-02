@@ -1,21 +1,22 @@
 =head1 PLAN A BUDGET
 
-Z<budget_plan> Your budget is crucial. How much do you except your conference
-will cost? How much sponsorship do you anticipate? How much do you expect to
-charge attendees?  How many paying attendees are you expecting? How many speakers
-are you expecting to attend and for how many of them will you be paying for
-travel and/or accommodation expenses?
+Z<budget_plan> Your budget is crucial. How much do you expect your conference to cost? How 
+much sponsorship do you anticipate? How much do you expect to charge attendees? 
+How many paying attendees are you expecting? How many speakers are you expecting 
+to attend and for how many of them will you be paying for travel and/or 
+accommodation expenses?
 
 Without an idea of your budget, you really have no idea how you are going to pay 
 for the conference. Your costs may be vastly different from other conferences, 
 and simply scaling sponsorship and attendance fees may not be appropriate. 
 Understand exactly what you are planning to pay for, and get some idea of costs. 
 While these figures may not be accurate, you should try and get estimates for 
-all your big essential items, then plan for it all to cost at least 10% more.
+all your big essential items, then plan for it all to cost at least 10% more; 
+this can be taken into account by adding an "unbudgeted" item to your estimation.
 
 At this point in time, you will not know how many people will attend, how many 
 sponsors you will attract and, ultimately, how much money you will have to cover 
-your costs. However, you do have a lot of previous budgets and numbers, which 
+your costs. However, you do have a lot of previous budgets and actual numbers, which 
 can help to give you some idea. Be conservative in your expectations. You must 
 be able to cover your basic costs before any extravagant items are included in 
 your budget.
@@ -26,3 +27,7 @@ various sundry items), and luxuries (t-shirts, the conference dinner and
 proceedings programme). The latter items should all be considered only after you 
 have covered all costs for your main items.
 
+Another possible division is fixed costs, which do not depend on the number of
+people coming in, such as the venue, WiFi and so no, and variable costs, like
+the number of meals. It is important to budget in such a way that fixed costs
+are covered no matter what, because they do have to be covered. 
