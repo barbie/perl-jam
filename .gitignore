@@ -1,7 +1,2 @@
-build/chapters
-build/epub/*.epub
-build/html/*.html
-build/pdf
-build/xhtml
-Makefile
-MYMETA.*
+perl-jam.pdf
+perl-jam.epub
